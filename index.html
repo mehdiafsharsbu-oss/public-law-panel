@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>پنل حقوق عمومی</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root {
+  --bg: #EEF1F4; --surface: #FFFFFF; --ink: #15202B; --muted: #566475; --line: #D5DBE2;
+  --accent: #1D4E7A; --accent-soft: #E1ECF6; --mark: #8C2F39;
+  --font-body: "Vazirmatn", Tahoma, "Segoe UI", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #0F161D; --surface: #17212B; --ink: #E6ECF2; --muted: #92A1B1; --line: #293643; --accent: #7DB2E4; --accent-soft: #1B2B3B; --mark: #E58A93; color-scheme: dark; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font-body); line-height: 1.75;
+  padding: 24px max(16px, env(safe-area-inset-right, 0px)) 48px max(16px, env(safe-area-inset-left, 0px)); }
+.wrap { max-width: 1020px; margin: 0 auto; display: flex; flex-direction: column; gap: 22px; }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+header { padding-bottom: 16px; border-bottom: 2px solid var(--ink); display: flex; flex-direction: column; gap: 4px; }
+.eyebrow { font-family: var(--font-mono); font-size: 12px; letter-spacing: .08em; color: var(--muted); direction: ltr; text-align: right; }
+h1 { margin: 0; font-size: clamp(26px, 5vw, 36px); font-weight: 800; line-height: 1.3; }
+#stamp { margin: 0; color: var(--muted); font-size: 14px; }
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.tabs { display: flex; gap: 0; border-bottom: 1px solid var(--line); flex-wrap: wrap; }
+.tab { font: inherit; font-weight: 500; font-size: 15px; background: none; border: 0; border-bottom: 3px solid transparent; padding: 8px 16px; color: var(--muted); cursor: pointer; }
+.tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
+.chip { font: inherit; font-size: 13px; padding: 3px 13px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+#q { font: inherit; font-size: 14px; padding: 7px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--ink); width: 100%; max-width: 320px; min-width: 0; }
+.count { font-size: 13px; color: var(--muted); margin-inline-start: auto; }
+ul.list { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+li.item { display: grid; grid-template-columns: 104px 1fr; gap: 16px; padding: 16px 0; border-bottom: 1px solid var(--line); }
+li.item time { font-size: 13px; color: var(--mark); font-weight: 500; padding-top: 3px; }
+.t-fa { font-weight: 700; font-size: 16.5px; line-height: 1.6; margin: 0; }
+.t-en { font-family: var(--font-mono); font-size: 12px; color: var(--muted); direction: ltr; text-align: left; margin: 2px 0 0; overflow-wrap: anywhere; }
+.s-fa { margin: 6px 0 0; font-size: 14.5px; max-width: 70ch; }
+.s-en { margin: 4px 0 0; font-size: 12.5px; color: var(--muted); direction: ltr; text-align: left; max-width: 70ch; }
+.meta { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 8px; }
+.pill { font-size: 11.5px; padding: 0 9px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); }
+.go { font-size: 13px; font-weight: 500; color: var(--accent); text-decoration: none; }
+.go:hover { text-decoration: underline; }
+h2 { font-size: 18px; margin: 18px 0 6px; font-weight: 700; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 290px), 1fr)); gap: 10px; }
+.card { display: flex; flex-direction: column; gap: 2px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; text-decoration: none; min-width: 0; }
+.card:hover { border-color: var(--accent); }
+.card b { font-size: 14.5px; overflow-wrap: anywhere; }
+.card span { font-size: 13px; color: var(--muted); }
+.note { color: var(--muted); font-size: 13px; margin: 0; }
+.empty { padding: 28px 0; text-align: center; color: var(--muted); }
+details { font-size: 13px; color: var(--muted); }
+details li { direction: ltr; text-align: left; }
+@media (max-width: 560px) { li.item { grid-template-columns: 1fr; gap: 2px; } .count { margin-inline-start: 0; flex: 1 0 100%; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">PUBLIC LAW · ADMINISTRATIVE · LABOUR · AI</div>
+    <h1>پنل حقوق عمومی</h1>
+    <p id="stamp">در حال بارگذاری…</p>
+  </header>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" data-tab="articles" aria-selected="true">مقالات و تحلیل‌ها</button>
+    <button class="tab" role="tab" data-tab="laws" aria-selected="false">قوانین و مقررات</button>
+    <button class="tab" role="tab" data-tab="dir" aria-selected="false">مراجع قانونی کشورها</button>
+  </div>
+
+  <div id="filters" class="row">
+    <span id="topics" class="row"></span>
+    <input id="q" type="search" placeholder="جستجو در عنوان‌ها…" aria-label="جستجو">
+    <span class="count" id="count"></span>
+  </div>
+
+  <ul class="list" id="list"></ul>
+  <div id="dir" hidden></div>
+  <p class="empty" id="empty" hidden>موردی پیدا نشد. فیلتر یا عبارت جستجو را عوض کن.</p>
+
+  <details id="statusbox"><summary id="statussum">وضعیت منابع</summary><ul id="statuslist"></ul></details>
+  <p class="note">ترجمه‌ی عنوان و خلاصه ماشینی است و برای مطالعه‌ی اولیه خوب است. برای ارجاع یا تصمیم حقوقی همیشه متن اصلی را از لینک باز کن.</p>
+</div>
+
+<script>
+var TOPICS = { all: "همه", constitutional: "حقوق اساسی", administrative: "حقوق اداری", labor: "حقوق کار", ai: "هوش مصنوعی و فناوری", rights: "حقوق بشر", intl: "حقوق بین‌الملل" };
+var REGIONS = { intl: "بین‌المللی", eu: "اروپا", uk: "بریتانیا", us: "آمریکا", other: "سایر" };
+
+/* Legal authorities and reliable sites by country. Edit freely. [group, name, description, url] */
+var DIR = [
+  ["ایران","مرکز پژوهش‌های مجلس: قوانین و مقررات","پایگاه قوانین و مقررات جمهوری اسلامی ایران","https://rc.majlis.ir/fa/law"],
+  ["ایران","روزنامه رسمی جمهوری اسلامی ایران","متن رسمی قوانین، آیین‌نامه‌ها و مصوبات منتشرشده","https://www.rrk.ir/"],
+  ["ایران","مجلس شورای اسلامی","مصوبات، طرح‌ها و لوایح","https://www.majlis.ir/"],
+  ["ایران","دیوان عدالت اداری","آرای وحدت رویه و رسیدگی به شکایات از دولت","https://www.divan-edalat.ir/"],
+  ["ایران","شورای نگهبان","نظرهای تفسیری و مغایرت‌سنجی با قانون اساسی و شرع","https://www.shora-gc.ir/"],
+  ["ایران","قوه‌ی قضاییه","اطلاعیه‌ها و آیین‌نامه‌های قضایی","https://www.judiciary.ir/"],
+  ["ایران","SID (مرکز اطلاعات علمی)","جستجوی مقاله‌های فارسی حقوقی","https://www.sid.ir/"],
+  ["ایران","مگ‌ایران","مقاله‌های نشریات فارسی","https://www.magiran.com/"],
+  ["ایران","نورمگز","مقاله‌های نشریات علوم انسانی و حقوق","https://www.noormags.ir/"],
+
+  ["بین‌المللی","UN Treaty Collection","متن و وضعیت معاهدات چندجانبه","https://treaties.un.org/"],
+  ["بین‌المللی","ILO NORMLEX","استانداردهای بین‌المللی کار و کنوانسیون‌ها","https://normlex.ilo.org/"],
+  ["بین‌المللی","OECD.AI Policy Observatory","قوانین و سیاست‌های هوش مصنوعی در کشورها","https://oecd.ai/"],
+  ["بین‌المللی","Constitute Project","متن قانون اساسی کشورها، قابل جستجو و مقایسه","https://www.constituteproject.org/"],
+  ["بین‌المللی","International Court of Justice","آرای دیوان بین‌المللی دادگستری","https://www.icj-cij.org/"],
+  ["بین‌المللی","کمیسیون ونیز","نظرهای شورای اروپا درباره‌ی قوانین اساسی","https://www.venice.coe.int/"],
+
+  ["اتحادیه‌ی اروپا","EUR-Lex","قوانین و آرای اتحادیه‌ی اروپا","https://eur-lex.europa.eu/"],
+  ["اتحادیه‌ی اروپا","EU AI Act (متن و رهنمود)","قانون هوش مصنوعی اتحادیه‌ی اروپا","https://artificialintelligenceact.eu/"],
+  ["اتحادیه‌ی اروپا","CURIA","دیوان دادگستری اتحادیه‌ی اروپا","https://curia.europa.eu/"],
+  ["اتحادیه‌ی اروپا","HUDOC","دادگاه اروپایی حقوق بشر","https://hudoc.echr.coe.int/"],
+
+  ["بریتانیا","legislation.gov.uk","متن رسمی قوانین بریتانیا","https://www.legislation.gov.uk/"],
+  ["بریتانیا","UK Supreme Court","آرای دیوان عالی بریتانیا","https://www.supremecourt.uk/"],
+
+  ["آمریکا","Congress.gov","لوایح و قوانین کنگره","https://www.congress.gov/"],
+  ["آمریکا","Federal Register","مقررات سازمان‌های فدرال (حقوق اداری)","https://www.federalregister.gov/"],
+  ["آمریکا","Supreme Court of the United States","آرای دیوان عالی","https://www.supremecourt.gov/"],
+
+  ["آلمان","Bundesverfassungsgericht","دادگاه قانون اساسی فدرال","https://www.bundesverfassungsgericht.de/"],
+  ["آلمان","Gesetze im Internet","متن قوانین فدرال","https://www.gesetze-im-internet.de/"],
+  ["فرانسه","Légifrance","قوانین و آرای فرانسه","https://www.legifrance.gouv.fr/"],
+  ["فرانسه","Conseil constitutionnel","شورای قانون اساسی","https://www.conseil-constitutionnel.fr/"],
+  ["ایتالیا","Normattiva","قوانین ایتالیا","https://www.normattiva.it/"],
+  ["اسپانیا","BOE","روزنامه رسمی اسپانیا","https://www.boe.es/"],
+  ["هلند","wetten.overheid.nl","قوانین هلند","https://wetten.overheid.nl/"],
+  ["سوئیس","Fedlex","قوانین فدرال سوئیس","https://www.fedlex.admin.ch/"],
+  ["ترکیه","Mevzuat","پایگاه قوانین ترکیه","https://www.mevzuat.gov.tr/"],
+  ["کانادا","Justice Laws Website","قوانین فدرال کانادا","https://laws-lois.justice.gc.ca/"],
+  ["کانادا","CanLII","قوانین و آرای کانادا","https://www.canlii.org/"],
+  ["استرالیا","Federal Register of Legislation","قوانین فدرال استرالیا","https://www.legislation.gov.au/"],
+  ["استرالیا","AustLII","قوانین و آرای استرالیا","https://www.austlii.edu.au/"],
+  ["هند","India Code","قوانین هند","https://www.indiacode.nic.in/"],
+  ["ژاپن","e-Gov Law Search","قوانین ژاپن","https://laws.e-gov.go.jp/"],
+  ["کره‌ی جنوبی","Korea Law Information Center","قوانین کره‌ی جنوبی","https://www.law.go.kr/"],
+  ["آفریقای جنوبی","SAFLII","قوانین و آرای آفریقای جنوبی","https://www.saflii.org/"]
+];
+
+var data = { articles: [], laws: [], status: {} };
+var state = { tab: "articles", topic: "all", q: "" };
+
+function el(tag, attrs, kids) {
+  var n = document.createElement(tag);
+  Object.keys(attrs || {}).forEach(function (k) {
+    if (k === "text") n.textContent = attrs[k]; else n.setAttribute(k, attrs[k]);
+  });
+  (kids || []).forEach(function (c) { if (c) n.appendChild(c); });
+  return n;
+}
+function fmtDate(iso) {
+  if (!iso) return "";
+  try { return new Date(iso + "T00:00:00Z").toLocaleDateString("fa-IR", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" }); } catch (e) { return iso; }
+}
+function chips() {
+  var box = document.getElementById("topics"); box.innerHTML = "";
+  Object.keys(TOPICS).forEach(function (k) {
+    var b = el("button", { type: "button", "class": "chip", "aria-pressed": String(state.topic === k), text: TOPICS[k] });
+    b.onclick = function () { state.topic = k; chips(); render(); };
+    box.appendChild(b);
+  });
+}
+function match(it) {
+  if (state.topic !== "all" && (it.topics || []).indexOf(state.topic) < 0) return false;
+  if (state.q) {
+    var blob = (it.title + " " + (it.title_fa || "") + " " + (it.summary_fa || "")).toLowerCase();
+    if (blob.indexOf(state.q) < 0) return false;
+  }
+  return true;
+}
+function itemNode(it) {
+  var body = el("div", {});
+  body.appendChild(el("p", { "class": "t-fa", text: it.title_fa || it.title }));
+  if (it.title_fa) body.appendChild(el("p", { "class": "t-en", text: it.title }));
+  if (it.summary_fa) body.appendChild(el("p", { "class": "s-fa", text: it.summary_fa }));
+  else if (it.summary) body.appendChild(el("p", { "class": "s-en", text: it.summary }));
+  var meta = el("div", { "class": "meta" });
+  meta.appendChild(el("span", { "class": "pill", text: it.source }));
+  (it.topics || []).forEach(function (t) { meta.appendChild(el("span", { "class": "pill", text: TOPICS[t] })); });
+  meta.appendChild(el("a", { "class": "go", href: it.link, target: "_blank", rel: "noopener", text: "مطالعه‌ی اصل ←" }));
+  body.appendChild(meta);
+  return el("li", { "class": "item" }, [el("time", { text: fmtDate(it.date) }), body]);
+}
+function renderDir() {
+  var box = document.getElementById("dir"); box.innerHTML = "";
+  var groups = {}, order = [];
+  DIR.forEach(function (r) {
+    if (state.q && (r[1] + " " + r[2] + " " + r[0]).toLowerCase().indexOf(state.q) < 0) return;
+    if (!groups[r[0]]) { groups[r[0]] = []; order.push(r[0]); }
+    groups[r[0]].push(r);
+  });
+  order.forEach(function (g) {
+    box.appendChild(el("h2", { text: g }));
+    var grid = el("div", { "class": "grid" });
+    groups[g].forEach(function (r) {
+      grid.appendChild(el("a", { "class": "card", href: r[3], target: "_blank", rel: "noopener" }, [el("b", { text: r[1] }), el("span", { text: r[2] })]));
+    });
+    box.appendChild(grid);
+  });
+  return order.length;
+}
+function render() {
+  var isDir = state.tab === "dir";
+  document.getElementById("list").hidden = isDir;
+  document.getElementById("dir").hidden = !isDir;
+  document.getElementById("topics").hidden = isDir;
+  var n;
+  if (isDir) { n = renderDir(); }
+  else {
+    var items = data[state.tab].filter(match);
+    var ul = document.getElementById("list"); ul.innerHTML = "";
+    items.forEach(function (it) { ul.appendChild(itemNode(it)); });
+    n = items.length;
+  }
+  document.getElementById("empty").hidden = n > 0;
+  document.getElementById("count").textContent = isDir ? "" : n.toLocaleString("fa-IR") + " مورد";
+}
+document.querySelectorAll(".tab").forEach(function (b) {
+  b.onclick = function () {
+    state.tab = b.getAttribute("data-tab");
+    document.querySelectorAll(".tab").forEach(function (x) { x.setAttribute("aria-selected", String(x === b)); });
+    render();
+  };
+});
+document.getElementById("q").addEventListener("input", function (e) { state.q = e.target.value.trim().toLowerCase(); render(); });
+
+chips(); render();
+fetch("feeds.json", { cache: "no-store" }).then(function (r) { return r.json(); }).then(function (d) {
+  data = d;
+  var when = new Date(d.updated).toLocaleString("fa-IR", { dateStyle: "long", timeStyle: "short", timeZone: "Asia/Tehran" });
+  document.getElementById("stamp").textContent = "آخرین به‌روزرسانی خودکار: " + when + " (به وقت تهران)";
+  var names = Object.keys(d.status || {}), ok = names.filter(function (k) { return d.status[k].ok; }).length;
+  document.getElementById("statussum").textContent = "وضعیت منابع: " + ok.toLocaleString("fa-IR") + " از " + names.length.toLocaleString("fa-IR") + " منبع پاسخ دادند";
+  var ul = document.getElementById("statuslist");
+  names.forEach(function (k) {
+    var s = d.status[k];
+    ul.appendChild(el("li", { text: (s.ok ? "OK (" + s.items + ") " : "FAILED ") + k + (s.ok ? "" : " — " + s.error) }));
+  });
+  render();
+}).catch(function () {
+  document.getElementById("stamp").textContent = "فایل feeds.json هنوز ساخته نشده. در GitHub تب Actions را باز کن و Update feeds را یک‌بار Run کن.";
+});
+</script>
+</body>
+</html>
