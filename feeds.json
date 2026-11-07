@@ -1,0 +1,1496 @@
+{
+ "updated": "2026-11-07T22:59:19Z",
+ "status": {
+  "I·CONnect": {
+   "ok": true,
+   "items": 10
+  },
+  "IACL-IADC Blog": {
+   "ok": false,
+   "error": "404 Client Error: Not Found for url: https://blog-iacl-aidc.org/feed/"
+  },
+  "EJIL: Talk!": {
+   "ok": false,
+   "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  },
+  "Verfassungsblog": {
+   "ok": true,
+   "items": 12
+  },
+  "Strasbourg Observers": {
+   "ok": true,
+   "items": 10
+  },
+  "UK Constitutional Law Association": {
+   "ok": true,
+   "items": 10
+  },
+  "UK Human Rights Blog": {
+   "ok": true,
+   "items": 12
+  },
+  "Oxford Human Rights Hub": {
+   "ok": true,
+   "items": 10
+  },
+  "Just Security": {
+   "ok": true,
+   "items": 10
+  },
+  "Balkinization": {
+   "ok": true,
+   "items": 12
+  },
+  "The Regulatory Review": {
+   "ok": true,
+   "items": 12
+  },
+  "Notice & Comment": {
+   "ok": true,
+   "items": 1
+  },
+  "legislation.gov.uk (new)": {
+   "ok": true,
+   "items": 12
+  },
+  "Federal Register: artificial intelligence": {
+   "ok": true,
+   "items": 8
+  },
+  "Federal Register: labor": {
+   "ok": true,
+   "items": 8
+  },
+  "Federal Register: administrative procedure": {
+   "ok": true,
+   "items": 8
+  }
+ },
+ "articles": [
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Do New Rulings on Insults Mean Indonesians are Free to Dissent?",
+   "summary": "—Eka Nugraha Putra, Research Fellow at the Centre for Trusted Internet and Community, National University of Singapore In August 2026, the month in which Indonesia’s Independence Day was celebrated, the... The post Do New Rulings on Insults Mean Indonesians are Free to Dissent? appeared first on www.iconnectblog.com .",
+   "link": "https://www.iconnectblog.com/do-new-rulings-on-insults-mean-indonesians-are-free-to-dissent/",
+   "date": "2026-11-07",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Symposium on the 10th Anniversary of the Colombian Peace Agreement – Part IX: A space for better conflicts, hollowed from within: Colombia’s peace architecture ten years after the 2016 Agreement",
+   "summary": "—Tania Luna Blanco[1], Professor of Law, Pontificia Universidad Javeriana Zuleta, in Sobre la guerra (On War)[2], was very clear about the danger of thinking that peace is the erasure of... The post Symposium on the 10th Anniversary of the Colombian Peace Agreement – Part IX: A space for better conflicts, hollowed…",
+   "link": "https://www.iconnectblog.com/symposium-on-the-10th-anniversary-of-the-colombian-peace-agreement-part-ix-a-space-for-better-conflicts-hollowed-from-within-colombias-peace-architecture-ten-years-after-the-2016-agreement/",
+   "date": "2026-11-07",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Balkinization",
+   "region": "us",
+   "title": "Remembering Ran Hirschl",
+   "summary": "[For a memorial celebration of Ran Hirschl's life and scholarship at the University of Toronto, November 6, 2026. Updated version of what I published earlier in Balkinization, but worth sharing, particularly because I was unable to be physically pressent for the event] Ran Hirschl was a pathbreaking scholar, an even…",
+   "link": "https://balkin.blogspot.com/2026/11/remembering-ran-hirschl.html",
+   "date": "2026-11-07",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "The Costs of Government Efficiency",
+   "summary": "Scholars examine how federal workforce reforms affect government expertise, independence, and effectiveness. The post The Costs of Government Efficiency first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/07/seminar-the-costs-of-government-efficiency/",
+   "date": "2026-11-07",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Two Extra Hours: Brazil’s Runoff and the Court That Kept the Polls Open",
+   "summary": "—Rebecca Bianca de Melo Magalhães, Assistant Professor of Political Science at the Federal University of Pampa (UNIPAMPA), Brazil; and Tassiana Moura de Oliveira, Visiting Assistant Professor of Political Science at... The post Two Extra Hours: Brazil’s Runoff and the Court That Kept the Polls Open appeared first on…",
+   "link": "https://www.iconnectblog.com/two-extra-hours-brazils-runoff-and-the-court-that-kept-the-polls-open/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "A Constitution in Aid of Authoritarian Power: The Legality of the Governor’s Rule and Enforcement of an Emergency Proclamation in Pakistan’s Khyber Pakhtunkhwa",
+   "summary": "–Dr. Muhammad Asif Khan, Georg Forster Fellow (Alexander von Humboldt Foundation), Friedrich-Alexander-Universität Centre for Human Rights Erlangen-Nürnberg (FAU CHREN) In this post, I explain how the proclamation of an emergency... The post A Constitution in Aid of Authoritarian Power: The Legality of the Governor’s…",
+   "link": "https://www.iconnectblog.com/a-constitution-in-aid-of-authoritarian-power-the-legality-of-the-governors-rule-and-enforcement-of-an-emergency-proclamation-in-pakistans-khyber-pakhtunkhwa/",
+   "date": "2026-11-06",
+   "topics": [
+    "constitutional",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Symposium on the 10th Anniversary of the Colombian Peace Agreement – Part VIII: The JEP, The Awá People, and the New Forms of Legal Pluralism",
+   "summary": "–Belkis Izquierdo Torres (Aty Seikuinduwa)[1], Magistrate at the Special Jurisdiction for Peace (JEP) —Alexandra Huneeus, Evjue-Bascom Professor of Law, University of Wisconsin-Madison The Colombian armed conflict caused serious, differential,... The post Symposium on the 10th Anniversary of the Colombian Peace…",
+   "link": "https://www.iconnectblog.com/symposium-on-the-10th-anniversary-of-the-colombian-peace-agreement-part-viii-the-jep-the-awa-people-and-the-new-forms-of-legal-pluralism/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Brazil’s Democracy Tomorrow",
+   "summary": "A historic runoff election took place in Brazil last month. Lula da Silva defeated the far-right candidate Flávio Bolsonaro by nearly 4.4 million votes. The outcome of this election provides an opportunity to take stock of the resilience of Brazilian democracy and the challenges it continues to face. Its future…",
+   "link": "https://verfassungsblog.de/brazils-democracy-tomorrow/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Where the Anger Remains",
+   "summary": "It is Tuesday afternoon, late October, and a few hundred people have gathered on Rruga e Durrësit in Tirana, the capital of Albania. They stand around in small groups, talking and smoking. Some are waving the Albanian flag. Every now and then, someone starts a chant. As a visitor who has stumbled upon the gathering by…",
+   "link": "https://verfassungsblog.de/where-the-anger-remains/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Wo die Wut bleibt",
+   "summary": "Es ist Dienstagnachmittag, Ende Oktober, und auf der Rruga e Durrësit in Tirana, der Hauptstadt Albaniens, haben sich ein paar Hundert Menschen versammelt. Sie stehen in Grüppchen zusammen, reden, rauchen, manche von ihnen schwenken die albanische Flagge. Auf mich, der ich hier nur zu Besuch bin, wirkt das alles…",
+   "link": "https://verfassungsblog.de/wo-die-wut-bleibt/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Maxwell’s Ghosts",
+   "summary": "Generative AI will fundamentally transform all dimensions of scientific and academic activity, if it hasn’t done so already. Whether academic communities can prevent the crisis will depend not least on whether they find answers to three interconnected questions: What changes with the arrival of a new epistemic…",
+   "link": "https://verfassungsblog.de/maxwells-ghosts/",
+   "date": "2026-11-06",
+   "topics": [
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "AI, Epistemic Loss and Troubled Visions for Legal Pluralism",
+   "summary": "The aim of this article is not to simplify, but rather to establish that introducing AI in legal contexts is complicated, since epistemic injustice is entangled with the very design of the technology, its ethics and the socio-political contexts of its possible applications. How AI will change the practice of law…",
+   "link": "https://verfassungsblog.de/ai-epistemic-loss-and-troubled-visions-for-legal-pluralism/",
+   "date": "2026-11-06",
+   "topics": [
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Sicherheitshalber für das Recht",
+   "summary": "„Wenn es ernst wird“, so lautet der Titel dieser Beitragsreihe. Ein Blick in die gegenwärtige Weltpolitik zeigt: Es ist längst ernst. In der Bundesrepublik wird über Kriegs- bzw. Verteidigungsfähigkeit debattiert, über Abschreckung und Aufrüstung, über Wehrdienst und Wehrpflicht. Zugleich gehen mit der Fokussierung…",
+   "link": "https://verfassungsblog.de/sicherheitspolitik-verfassungsrecht-zeitenwende/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "The Road to the ICC Prosecution of Philippine Warlord Rodrigo Duterte",
+   "summary": "In 2025, former Philippine President Rodrigo Duterte was arrested and brought before the ICC to face charges of crimes against humanity. But the struggle for accountability began years earlier, amid a brutal “war on drugs” that claimed tens of thousands of lives. As the killings continued, Philippine human rights…",
+   "link": "https://verfassungsblog.de/the-road-to-the-icc-prosecution-of-philippine-warlord-rodrigo-duterte/",
+   "date": "2026-11-06",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Defending Indigenous Territories Through Law and Collective Power",
+   "summary": "Law’s capacity to transform unequal power relations depends on how legal action supports community organising and whether this support remains guided by communities’ own priorities and decisions. This matters because energy projects begin to transform territories before construction starts: Contracts establish claims…",
+   "link": "https://verfassungsblog.de/defending-indigenous-territories-through-law-and-collective-power/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Das pazifistische Grundgesetz und die „Zeitenwende“",
+   "summary": "Wenn es um militärische Machtmittel aus verfassungsrechtlicher Perspektive geht, stehen Normen des Grundgesetzes im Mittelpunkt, die zwischen 1954 und 1968 in das Grundgesetz eingefügt worden sind. Im Folgenden sollen demgegenüber Verfassungsnormen in den Blick genommen werden, die bereits in der Urfassung des…",
+   "link": "https://verfassungsblog.de/das-pazifistische-grundgesetz-und-die-zeitenwende/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Auch Arbeitgeber müssen sich bewerben",
+   "summary": "Die Frist zur Umsetzung der Entgelttransparenzrichtlinie ist am 7. Juni 2026 verstrichen, und es gibt noch immer keinen Referentenentwurf. Wir wollen die Aufmerksamkeit auf ein unterschätztes Instrument lenken, das bei zielorientierter Umsetzung erhebliche Effekte verspricht und zudem mit Leichtigkeit „bürokratiearm“…",
+   "link": "https://verfassungsblog.de/entgelttransparenzrichtlinie/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Strasbourg Observers",
+   "region": "eu",
+   "title": "Bazhenov and Others v. Russia and Ukraine: Property Rights under Occupation",
+   "summary": "By Natalia Cwicinskaja Occupation does not bring private transactions to a halt. In Crimea, property continued to be bought, sold and registered after Russia asserted jurisdiction over the peninsula. In Bazhenov and Others v Russia and Ukraine, the European Court of Human Rights (Court) confronted the tension between…",
+   "link": "https://strasbourgobservers.com/2026/11/06/bazhenov-and-others-v-russia-and-ukraine-property-rights-under-occupation/",
+   "date": "2026-11-06",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "How Jury Equity in England and Wales Undermines the Right to a Fair Trial",
+   "summary": "The recent contempt proceedings brought by Mr. Justice Johnson against Rajiv Menon KC has drawn attention to the principle of Jury Equity. This principle empowers Jurors to give verdicts ‘according to their conscience’ (Warner, para 16). Mr. Menon has been accused of informing Jurors in a hearing about this power…",
+   "link": "https://ohrh.law.ox.ac.uk/how-jury-equity-in-england-and-wales-undermines-the-right-to-a-fair-trial/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "How the IFC’s Secret Commercial Agreements Leave Local Communities in the Dark",
+   "summary": "The public has a right to greater transparency into the International Finance Corporation’s investment deals and harm mitigation practices. The post How the IFC’s Secret Commercial Agreements Leave Local Communities in the Dark appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/163228/ifc-secret-agreements-local-communities-dark/?utm_source=rss&utm_medium=rss&utm_campaign=ifc-secret-agreements-local-communities-dark",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Beyond the Generals: Non-Policy Officers and Civil-Military Responsibility in the New Information Age",
+   "summary": "Technological change and political polarization make it more likely that non-policy officers will find themselves at the center of public controversy. The post Beyond the Generals: Non-Policy Officers and Civil-Military Responsibility in the New Information Age appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/162701/non-policy-officers-civil-military-responsibility/?utm_source=rss&utm_medium=rss&utm_campaign=non-policy-officers-civil-military-responsibility",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "After the Midterms: What to Expect on Congressional Oversight",
+   "summary": "Andy Wright joins Ryan Goodman to discuss the potential for oversight and investigations of the Trump administration in the next Congress. The post After the Midterms: What to Expect on Congressional Oversight appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/163594/after-midterms-what-expect-congressional-oversight/?utm_source=rss&utm_medium=rss&utm_campaign=after-midterms-what-expect-congressional-oversight",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Early Edition: November 6, 2026",
+   "summary": "Sign up to receive the Early Edition in your inbox here. A curated weekday guide to major news and developments over the last 24 hours. Here’s today’s news: IRAN WAR President Trump yesterday said he’ll soon decide whether to resume military action in the Iran war, after a meeting with his national security advisers.…",
+   "link": "https://www.justsecurity.org/163619/early-edition-november-6-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-6-2026",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "A French Perspective on the Trump Administration’s New Plan for Cyber Operations",
+   "summary": "From France's perspective, letting private actors conduct hack-back operations is unacceptable domestically and should not be allowed by the international community. The post A French Perspective on the Trump Administration’s New Plan for Cyber Operations appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/161750/french-perspective-trump-cyber/?utm_source=rss&utm_medium=rss&utm_campaign=french-perspective-trump-cyber",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions",
+   "summary": "A public resource tracking all the legal challenges to the Trump administration's executive orders and actions. The post Litigation Tracker: Legal Challenges to Trump Administration Actions appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=tracker-litigation-legal-challenges-trump-administration",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Week in Review",
+   "summary": "Democrats win control of the U.S. House and Senate, Montana voters restrict corporate spending, and more... The post Week in Review first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/06/week-in-review-436/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Restoring Land-Use Authority to American Indian Tribes",
+   "summary": "Scholar proposes three future pathways to reverse the erosion of tribal regulatory authority over reservation land use. The post Restoring Land-Use Authority to American Indian Tribes first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/06/botchev-restoring-land-use-authority-to-american-indian-tribes/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "When the Judge Sees a Defect but Cannot Say So: Referring Constitutional Questions in Jordan",
+   "summary": "—Ahmad Hawartheh, LL.B., Middle East University (Jordan) Jordan’s Constitutional Court has recently restated how a plea of unconstitutionality must reach it. In Decision No. 8 of 2025, the Court said... The post When the Judge Sees a Defect but Cannot Say So: Referring Constitutional Questions in Jordan appeared first…",
+   "link": "https://www.iconnectblog.com/when-the-judge-sees-a-defect-but-cannot-say-so-referring-constitutional-questions-in-jordan/",
+   "date": "2026-11-05",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Symposium on the 10th Anniversary of the Colombian Peace Agreement – Part VII: Transformative Platform to Make Colombia’s Peace Accord a State Policy",
+   "summary": "—Nicolás Rojas Bernal, Strategic relationships specialist for the Barometer Initiative in Colombia, Peace Accords Matrix (PAM), Kroc Institute, University of Notre Dame On November 24, 2026, Colombia will commemorate ten... The post Symposium on the 10th Anniversary of the Colombian Peace Agreement – Part VII:…",
+   "link": "https://www.iconnectblog.com/symposium-on-the-10th-anniversary-of-the-colombian-peace-agreement-part-vii-tranformative-platform-to-make-colombias-peace-accord-a-state-policy/",
+   "date": "2026-11-05",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Die Freiheit der Person ist (un-)verletzlich",
+   "summary": "„Der Beginn einer migrationspolitischen Eiszeit“ – so lässt sich das aktuelle migrationspolitische Klima in Deutschland und Europa wohl zutreffend beschreiben. Schutzsuchende in Deutschland sind bereits seit Jahren zunehmend restriktiveren Maßnahmen ausgesetzt. Während die politischen Debatten und Entwicklungen sich…",
+   "link": "https://verfassungsblog.de/die-freiheit-der-person-ist-un-verletzlich/",
+   "date": "2026-11-05",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Versammlungsfreiheit regelt",
+   "summary": "In mehreren Großstädten haben verschiedene Initiativen Versammlungen unter dem Motto „Gen Z regelt“ abgehalten, mit denen sie gegen gegenwärtige und künftige Belastungen der jüngeren Generation protestieren wollten. Im Anschluss an die ganz überwiegend störungsfrei verlaufenen Versammlungen kam es etwa in…",
+   "link": "https://verfassungsblog.de/versammlungsfreiheit-gen-z-proteste/",
+   "date": "2026-11-05",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Constitutional Law Association",
+   "region": "uk",
+   "title": "Elena De Nictolis and Thomas Poole: Fiscal Capacity without Fiscal Autonomy: Regional and Local Fiscal Devolution in the Autumn Budget",
+   "summary": "Introduction The Burnham government’s ambitious plans to reform local devolution took their first concrete step with the Budget of 28 October. The full plan for devolution will follow in the Rewiring the State Delivery Plan, due before the end of the year. But the Budget already brought significant news on the fiscal…",
+   "link": "https://ukconstitutionallaw.org/2026/11/05/elena-de-nictolis-and-thomas-poole-fiscal-capacity-without-fiscal-autonomy-regional-and-local-fiscal-devolution-in-the-autumn-budget/",
+   "date": "2026-11-05",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "Choosing Family (Sur)name: Equality, Identity, Culture, and the South African Constitutional Court’s Decision in Jordaan v Minister of Home Affairs",
+   "summary": "In September 2025, the Constitutional Court of South Africa confirmed the Bloemfontein High Court’s declaration of constitutional invalidity in Jordaan v Minister of Home Affairs. The decision challenged an archaic patriarchal tradition embedded in South Africa’s laws: that a wife may take her husband’s surname, but a…",
+   "link": "https://ohrh.law.ox.ac.uk/choosing-family-surname-equality-identity-culture-and-the-south-african-constitutional-courts-decision-in-jordaan-v-minister-of-home-affairs/",
+   "date": "2026-11-05",
+   "topics": [
+    "constitutional",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Guantanamo Dispatches: Slow-Going in Jury Selection for First Capital Terror Trial at Guantanamo Bay",
+   "summary": "Jury selection in the USS Cole bombing case at Guantanamo is going to take weeks and is likely to stretch past Thanksgiving. The post Guantanamo Dispatches: Slow-Going in Jury Selection for First Capital Terror Trial at Guantanamo Bay appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/163504/slow-jury-selection-uss-cole-trial-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=slow-jury-selection-uss-cole-trial-guantanamo",
+   "date": "2026-11-05",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Germany’s Proposed Hack-Back Powers and Outsourced Surveillance Are Testing Constitutional Limits",
+   "summary": "Germany's proposed cyber and surveillance reforms risk enabling intelligence services to watch — and act — in secret. The post Germany’s Proposed Hack-Back Powers and Outsourced Surveillance Are Testing Constitutional Limits appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/161646/germany-security-reforms-hack-back/?utm_source=rss&utm_medium=rss&utm_campaign=germany-security-reforms-hack-back",
+   "date": "2026-11-05",
+   "topics": [
+    "constitutional",
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Sanctioning the ICC: [R]evolution or Devolution for International Criminal Justice?",
+   "summary": "The ruling in the case challenging the U.S. sanctions on the ICC will decide whether the legal order built in 1945 faces renewal or decay. The post Sanctioning the ICC: [R]evolution or Devolution for International Criminal Justice? appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/163081/sanctioning-icc-revolution-devolution-international-criminal-justice/?utm_source=rss&utm_medium=rss&utm_campaign=sanctioning-icc-revolution-devolution-international-criminal-justice",
+   "date": "2026-11-05",
+   "topics": [
+    "intl"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "When the Executive Branch Resists: Five Questions Congress Should Ask",
+   "summary": "Five questions congressional investigators should ask when an executive branch agency refuses to provide the information they're seeking. The post When the Executive Branch Resists: Five Questions Congress Should Ask appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/163460/executive-branch-resists-questions-congress-should-ask/?utm_source=rss&utm_medium=rss&utm_campaign=executive-branch-resists-questions-congress-should-ask",
+   "date": "2026-11-05",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Balkinization",
+   "region": "us",
+   "title": "Restoring National and Personal Responsibility",
+   "summary": "As all of us that have been deeply troubled by what President Trump has done to the country bask in the voters’ response this week, I want to think about what is to come. I will no doubt have some of my usual technical procedural posts once the dust settles and we get a clearer sense of how the new Congress will shape…",
+   "link": "https://balkin.blogspot.com/2026/11/restoring-national-and-personal.html",
+   "date": "2026-11-05",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Borrowing in the Dark",
+   "summary": "Scholars argue that private lending can hide companies from view. The post Borrowing in the Dark first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/05/wang-borrowing-in-the-dark/",
+   "date": "2026-11-05",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Call for Nominations – ICON·S Book Prize 2027",
+   "summary": "Tenth ICON·S Annual Book PrizeNominations close 15 December 2026 ICON·S | The International Society of Public Law is pleased to open the Call for Nominations for its tenth Annual Book... The post Call for Nominations – ICON·S Book Prize 2027 appeared first on www.iconnectblog.com .",
+   "link": "https://www.iconnectblog.com/call-for-nominations-icon%c2%b7s-book-prize-2027/",
+   "date": "2026-11-04",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Symposium on the 10th Anniversary of the Colombian Peace Agreement – Part VI: Constitutional Plasticity: The Making of a President as the Constitutional Drafter in Chief",
+   "summary": "—Luis Botello-Moncada, Lawyer and Economist. Master of Laws (LL.M.) from Duke University,North Carolina, United States. Adjunct Professor at Universidad de los Andes and UniversidadExternado de Colombia. 1. Introduction During 1990-2022,... The post Symposium on the 10th Anniversary of the Colombian Peace Agreement –…",
+   "link": "https://www.iconnectblog.com/symposium-on-the-10th-anniversary-of-the-colombian-peace-agreement-part-vi-constitutional-plasticity-the-making-of-a-president-as-the-constitutional-drafter-in-chief/",
+   "date": "2026-11-04",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Constitutional Law Association",
+   "region": "uk",
+   "title": "Bernard Keenan and Ewan Smith: Proscription, Proportion and Palestine Action – Part 2",
+   "summary": "Introduction Part 1 of this post explained the central problem in the Ammori litigation. We summarized why the Divisional Court ([2026] EWHC 292 (Admin) thought the Home Secretary’s decision to proscribe Palestine Action was unlawful, and why the Court of Appeal ([2026] EWCA Civ 721)) reversed that decision. We also…",
+   "link": "https://ukconstitutionallaw.org/2026/11/04/bernard-keenan-and-ewan-smith-proscription-proportion-and-palestine-action-part-2/",
+   "date": "2026-11-04",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "When the Internet Stays On: VPN Bans and the Limits of Proportionality in Kashmir",
+   "summary": "In September 2026, the Udhampur district administration in Jammu and Kashmir prohibited the use of Virtual Private Networks (VPNs) for two months under Section 163 of the Bharatiya Nagarik Suraksha Sanhita (BNSS), following similar restrictions in Doda. Citing their alleged use to circumvent cyber restrictions and…",
+   "link": "https://ohrh.law.ox.ac.uk/when-the-internet-stays-on-vpn-bans-and-the-limits-of-proportionality-in-kashmir/",
+   "date": "2026-11-04",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Balkinization",
+   "region": "us",
+   "title": "Donald Trump and Grover Cleveland",
+   "summary": "Everyone knows that they are the only two Presidents elected to non-consecutive terms. Few know that Venezuela was a significant issue for both in their second terms. But after yesterday's results, Trump and Cleveland may end up sharing something else: realigning the electorate against their party. Cleveland's second…",
+   "link": "https://balkin.blogspot.com/2026/11/donald-trump-and-grover-cleveland.html",
+   "date": "2026-11-04",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "The New Pig Butchering",
+   "summary": "Scholar unpacks cryptocurrency scams and recommends regulatory reform. The post The New Pig Butchering first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/04/schuette-the-new-pig-butchering/",
+   "date": "2026-11-04",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Lawyer-Free on Paper? Research Duties in German Constitutional Complaints",
+   "summary": "–Dr Tuğba Tosun Çobanoğlu, Independent Interdisciplinary Researcher Anyone in Germany can file a constitutional complaint with the German Federal Constitutional Court, or Bundesverfassungsgericht, without a lawyer. A December 2025 order... The post Lawyer-Free on Paper? Research Duties in German Constitutional…",
+   "link": "https://www.iconnectblog.com/lawyer-free-on-paper-research-duties-in-german-constitutional-complaints/",
+   "date": "2026-11-03",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Strasbourg Observers",
+   "region": "eu",
+   "title": "The retreat of Rule 39? Interim measures, migration and democratic backsliding",
+   "summary": "By Daria Sartori The so-called “letter of the nine” and the process leading to the Chișinău Declaration, have cast a spotlight on States’ increasingly vocal and coordinated discontent with the adjudicatory powers of the European Court of Human Rights (ECtHR, or Court) over migration-related issues. While these…",
+   "link": "https://strasbourgobservers.com/2026/11/03/the-retreat-of-rule-39-interim-measures-migration-and-democratic-backsliding/",
+   "date": "2026-11-03",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "Cuando la prisión preventiva se convierte en castigo: la advertencia de la Corte Interamericana a Ecuador: Reyes Mantilla y otros vs. Ecuador",
+   "summary": "La prisión preventiva tiene por objeto garantizar el desarrollo del proceso penal, no anticipar su resultado. Sin embargo, cuando la gravedad de una acusación basta para justificar el encarcelamiento de una persona, la detención corre el riesgo de convertirse en un castigo impuesto antes de que se dicte una condena.…",
+   "link": "https://ohrh.law.ox.ac.uk/cuando-la-prision-preventiva-se-convierte-en-castigo-la-advertencia-de-la-corte-interamericana-a-ecuador-reyes-mantilla-y-otros-vs-ecuador/",
+   "date": "2026-11-03",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "When Pre-Trial Detention Becomes Punishment: The Inter-American Court’s Warning to Ecuador in Reyes Mantilla et al. v. Ecuador",
+   "summary": "Pre-trial detention is intended to secure criminal proceedings, not to anticipate their outcome. Yet when the seriousness of an accusation becomes sufficient reason to imprison a suspect, detention risks becoming punishment before a conviction which justifies it. In Reyes Mantilla et al. v. Ecuador, the Inter-American…",
+   "link": "https://ohrh.law.ox.ac.uk/when-pre-trial-detention-becomes-punishment-the-inter-american-courts-warning-to-ecuador-in-reyes-mantilla-et-al-v-ecuador/",
+   "date": "2026-11-03",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Balkinization",
+   "region": "us",
+   "title": "Thoughts on Progressive Ethnic Politics and El-Sayed",
+   "summary": "Contemporary Democrats might benefit from thinking about how Democrats built winning coalitions during the New Deal and Great Society despite significant ethnic differences within progressive movements. Winning Democrats of the time understood that political actors are pulled by ethnic ties, that there is a difference…",
+   "link": "https://balkin.blogspot.com/2026/11/thoughts-on-progressive-ethnic-politics.html",
+   "date": "2026-11-03",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "A Proposed FAA Rule Could Reshape Commercial Drone Operations",
+   "summary": "Federal aviation regulators should ensure that new flight standards leave room for small operators. The post A Proposed FAA Rule Could Reshape Commercial Drone Operations first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/03/akram-a-proposed-faa-rule-could-reshape-commercial-drone-operations/",
+   "date": "2026-11-03",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Constitutional Law Association",
+   "region": "uk",
+   "title": "Bernard Keenan and Ewan Smith: Proscription, Proportion, and Palestine Action – Part 1",
+   "summary": "Introduction The Supreme Court will hear the Home Secretary’s appeal in R (Ammori) v Secretary of State for the Home Department on 4 and 5 November 2026. The case concerns the Home Secretary’s June 2025 decision to proscribe Palestine Action under s.3 of the Terrorism Act 2000 (TA). Hundreds of prosecutions are…",
+   "link": "https://ukconstitutionallaw.org/2026/11/02/bernard-keenan-and-ewan-smith-proscription-proportion-and-palestine-action-part-1/",
+   "date": "2026-11-02",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "The Crime and Policing Act 2026: A Pattern of Restriction on Protest Rights in the United Kingdom",
+   "summary": "The recent Crime and Policing Act 2026 (the Act) introduces further restrictive measures affecting protest in the UK. This Act adds to a growing body of legislation governing an individual’s ability to peacefully protest, by creating new offences and expanding police powers, while building on measures introduced by…",
+   "link": "https://ohrh.law.ox.ac.uk/the-crime-and-policing-act-2026-a-pattern-of-restriction-on-protest-rights-in-the-united-kingdom/",
+   "date": "2026-11-02",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Recycling Regulation Should Measure Quality, Not Just Tonnage",
+   "summary": "Recycling regulations should reward usable recovered materials, not just collection volume. The post Recycling Regulation Should Measure Quality, Not Just Tonnage first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/02/rabrenovic-recycling-regulation-should-measure-quality-not-just-tonnage/",
+   "date": "2026-11-02",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "A Resilient Web of State and Local Enforcers",
+   "summary": "Terri Gerstein discusses how states and cities can protect workers as federal oversight recedes. The post A Resilient Web of State and Local Enforcers first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/01/spotlight-a-resilient-web-of-state-and-local-enforcers/",
+   "date": "2026-11-01",
+   "topics": [
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Balkinization",
+   "region": "us",
+   "title": "\"Beat Trump and His Minions:\" A Manifesto",
+   "summary": "I am a member of the “Beat Trump and his Minions” faction of the Democratic Party. The “Beat Trump and his Minions” faction is opposed to making non-negotiable demands of candidates who are running against MAGA Republicans, which in this election means any Republican (that Susan Collins is “concerned” does not count).…",
+   "link": "https://balkin.blogspot.com/2026/10/beat-trump-and-his-minions-manifesto.html",
+   "date": "2026-10-31",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "GLP-1 Compounding After Drug Shortages",
+   "summary": "Experts debate how to balance patient safety and affordable access to weight-loss medications. The post GLP-1 Compounding After Drug Shortages first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/10/31/seminar-glp-1-compounding-after-drug-shortages/",
+   "date": "2026-10-31",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Strasbourg Observers",
+   "region": "eu",
+   "title": "Lebedeva and Others v. Russia: Rewarding non-compliance does not ensure the long-term effectiveness of the Convention system",
+   "summary": "By Ausra Padskocimaite On September 3, the European Court of Human Rights (ECtHR) issued an unprecedented decision in Lebedeva and Others v. Russia to strike out almost 900 individual and, in the Court’s own words, ‘potentially meritorious’ applications from its list without examining them on the merits. The aim of…",
+   "link": "https://strasbourgobservers.com/2026/10/30/lebedeva-and-others-v-russia-rewarding-non-compliance-does-not-ensure-the-long-term-effectiveness-of-the-convention-system/",
+   "date": "2026-10-30",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Constitutional Law Association",
+   "region": "uk",
+   "title": "Sam Guy & Joe Tomlinson: Rising Caseloads in Judicial Review – A Question of AI?",
+   "summary": "Across many parts of the administrative justice system, caseloads appear to be rising. Tribunals handling administrative appeals are currently experiencing record backlogs. Public sector ombudsmen are observing similar trends. This has renewed focus on a perennial question in these institutions: what drives these…",
+   "link": "https://ukconstitutionallaw.org/2026/10/30/sam-guy-joe-tomlinson-rising-caseloads-in-judicial-review-a-question-of-ai/",
+   "date": "2026-10-30",
+   "topics": [
+    "administrative",
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Constitutional Law Association",
+   "region": "uk",
+   "title": "Announcement: International Conference, 11–13 November 2026: Max Planck Institute for the Study of Crime, Security and Law, Fürstenbergstr. 19, Freiburg, Germany (hybrid): Host: The Max Planck Center for Democracy, Security and Human Rights",
+   "summary": "While the proportionality principle has long stood as a hallmark of German legal scholarship and is a widely adopted framework for adjudicating conflicts between individual rights and collective interests, its first sub-test, legitimacy review (i.e., the requirement that state action pursue a legitimate aim), remains…",
+   "link": "https://ukconstitutionallaw.org/2026/10/30/announcement-international-conference-11-13-november-2026max-planck-institute-for-the-study-of-crime-security-and-law-furstenbergstr-19-freiburg-germany-hybridhost-the-max-planck-cen/",
+   "date": "2026-10-30",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Week in Review",
+   "summary": "Judge rules firing of inferior officer unlawful, the FTC orders companies to disclose use of personal data, and more… The post Week in Review first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/10/30/week-in-review-435/",
+   "date": "2026-10-30",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "A Health Care Desert for Mothers",
+   "summary": "Scholar argues that rural hospital mergers put mothers at risk and suggests policy reforms. The post A Health Care Desert for Mothers first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/10/29/lonergan-a-health-care-desert-for-mothers/",
+   "date": "2026-10-29",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Balkinization",
+   "region": "us",
+   "title": "Shifting Conceptions of Neutrality and Equality in St. Mary v. Roy",
+   "summary": "What do neutrality and equality require? These terms have different meanings that can be combined in various ways. The result can be a slippage from neutrality or equality into their opposites. An example is St. Mary Catholic Parish v. Roy , which will be argued in the Supreme Court on Tuesday. There, the Becket Fund…",
+   "link": "https://balkin.blogspot.com/2026/10/shifting-conceptions-of-neutrality-and.html",
+   "date": "2026-10-28",
+   "topics": [
+    "constitutional",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "A Legislative Lifeline for Independent Regulatory Agencies?",
+   "summary": "Congress should require the President to replace agency heads after terminating them. The post A Legislative Lifeline for Independent Regulatory Agencies? first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/10/28/braganza-a-legislative-lifeline-for-independent-regulatory-agencies/",
+   "date": "2026-10-28",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Strasbourg Observers",
+   "region": "eu",
+   "title": "Le Syndicat GJ v France: The creeping normalisation of restrictions on protest",
+   "summary": "By Dr Alice Dejean de la Bâtie When it comes to the right to protest, the distinction between a declaratory regime and an authorisation regime may seem, to non-specialists, rather technical. Yet the difference is straightforward and fundamental: under a declaratory regime, organisers merely notify the authorities that…",
+   "link": "https://strasbourgobservers.com/2026/10/27/le-syndicat-gj-v-france-the-creeping-normalisation-of-restrictions-on-protest/",
+   "date": "2026-10-27",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Balkinization",
+   "region": "us",
+   "title": "RBG, Justice Thomas, and Justice Alito",
+   "summary": "Assume for purposes of discussion that Democrats win control of the Senate next week. In that event, Justices Thomas and Alito will be subject to the same criticism by conservatives that Justice Ginsburg received from liberals. They all could have retired in a year where their party controlled the Senate and the…",
+   "link": "https://balkin.blogspot.com/2026/10/rbg-justice-thomas-and-justice-alito.html",
+   "date": "2026-10-27",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Balkinization",
+   "region": "us",
+   "title": "Does Donald Trump hate cops?",
+   "summary": "Plenty of criminals are stupid and contemptible. Among the lowest of the low are the ones who hate police officers and prosecutors personally. They are too dim to comprehend an honest officer who is just doing his job. And so they sometimes seek revenge in ways that make no sense even from the standpoint of heartless…",
+   "link": "https://balkin.blogspot.com/2026/10/does-donald-trump-hate-cops.html",
+   "date": "2026-10-27",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "The Loom in the Black Tent: Iranian Nomadic Women and the Right to Cultural Life",
+   "summary": "One year ago, the International Court of Justice warned, in its Advisory Opinion on the Obligations of States in respect of Climate Change, that the rights of women and of Indigenous and traditional communities are especially exposed to violation, and called on States to design adaptation measures without…",
+   "link": "https://ohrh.law.ox.ac.uk/the-loom-in-the-black-tent-iranian-nomadic-women-and-the-right-to-cultural-life/",
+   "date": "2026-10-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Strasbourg Observers",
+   "region": "eu",
+   "title": "Rule of law as a protection against arbitrariness – Sobczyńska and others v Poland",
+   "summary": "By Barbara Grabowska-Moroz In May 2026, the ECtHR decided Sobczyńska and others v Poland – a case suggesting the existence of structural shortcomings of judicial independence in the Polish legal system, which existed long before the rule of law crisis started in Poland in 2015. The case concerns the role of access to…",
+   "link": "https://strasbourgobservers.com/2026/10/23/rule-of-law-as-a-protection-against-arbitrariness-sobczynska-and-others-v-poland/",
+   "date": "2026-10-23",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Strasbourg Observers",
+   "region": "eu",
+   "title": "The Article 3 divide in Yasak v. Türkiye: judicial line-drawing and the boundaries of (in)humanity in prisons",
+   "summary": "by Natasa Mavronicola The European Court of Human Rights’ Grand Chamber judgment in Yasak v. Türkiye has rightly attracted extensive discussion, with particular focus on its Article 7 dimension (see, e.g., here and here). In this post, I zoom in on the Article 3 finding in Yasak, which is significant in its own right.…",
+   "link": "https://strasbourgobservers.com/2026/10/23/the-article-3-divide-in-yasak-v-turkiye-judicial-line-drawing-and-the-boundaries-of-inhumanity-in-prisons/",
+   "date": "2026-10-23",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Constitutional Law Association",
+   "region": "uk",
+   "title": "Announcement: Lecture by Lord Justice Singh",
+   "summary": "The Faculty of Advocates’ Human Rights and Rule of Law Committee is delighted to be hosting an upcoming lecture by Lord Justice Singh, a member of the Court of Appeal of England and Wales. The lecture will take place on Thursday 19 November 2026 at 5.30pm in Laigh Hall, Parliament House. In this special lecture – […]",
+   "link": "https://ukconstitutionallaw.org/2026/10/23/announcement-lecture-by-lord-justice-singh/",
+   "date": "2026-10-23",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Constitutional Law Association",
+   "region": "uk",
+   "title": "Gareth Evans: Revisiting Senedd reform: Post-implementation review of the Senedd Cymru (Members and Elections) Act 2024",
+   "summary": "The Senedd Cymru (Members and Elections) Act 2024 (“the Act”) introduced major structural and electoral changes to Senedd Cymru (Welsh Parliament) which took effect for the election on 7 May 2026. These included an increase to the size of the Senedd from 60 to 96 members, and the introduction of a new, Closed…",
+   "link": "https://ukconstitutionallaw.org/2026/10/22/gareth-evans-revisiting-senedd-reform-post-implementation-review-of-the-senedd-cymru-members-and-elections-act-2024/",
+   "date": "2026-10-22",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "Children’s Educational Data and APAAR ID : A Test for India’s Privacy Regime",
+   "summary": "As India’s new data protection regime begins to take effect, the rollout of Automated Permanent Academic Account Registry (“APAAR ID”) by the Ministry of Education exposes an importance challenge between statutory safeguards for children’s personal data and the design of government digital infrastructure. APAAR was…",
+   "link": "https://ohrh.law.ox.ac.uk/childrens-educational-data-and-apaar-id-a-test-for-indias-privacy-regime/",
+   "date": "2026-10-22",
+   "topics": [
+    "ai",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "Bangladesh’s New Cyber Law and the Shrinking Space for Freedom of Expression",
+   "summary": "Article 39 of the Constitution of Bangladesh guarantees freedom of thought and conscience and the right of every citizen to freedom of speech and expression. Yet successive governments, regardless of political affiliation, have repeatedly restricted these freedoms and used criminal law against citizens for expressing…",
+   "link": "https://ohrh.law.ox.ac.uk/bangladeshs-new-cyber-law-and-the-shrinking-space-for-freedom-of-expression/",
+   "date": "2026-10-21",
+   "topics": [
+    "constitutional",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Balkinization",
+   "region": "us",
+   "title": "Why Federalist #70 is Wrong",
+   "summary": "In March, I'll give a lecture at Villanova on \"The Real Unitary Executive Problem.\" My argument will be that the Framers erred by creating a president who is both the head of state and head of government. America managed this problem fairly well through a series of norms and fictions that lasted until the end of the…",
+   "link": "https://balkin.blogspot.com/2026/10/why-federalist-70-is-wrong.html",
+   "date": "2026-10-21",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Strasbourg Observers",
+   "region": "eu",
+   "title": "International Federation for Human Rights (FIDH) and International Movement ATD Fourth World v. Belgium: drawing a red line against begging bans and the stigmatisation of people living in poverty",
+   "summary": "By Marion Sandner In August 2026, the European Committee of Social Rights published its decision in the case FIDH and ATD Fourth World v. Belgium (Complaint No. 233/2023). The two complainant organisations sought the Committee in relation to hundreds of municipal regulations that prohibit or restrict begging in…",
+   "link": "https://strasbourgobservers.com/2026/10/20/international-federation-for-human-rights-fidh-and-international-movement-atd-fourth-world-v-belgium-drawing-a-red-line-against-begging-bans-and-the-stigmatisation-of-people-living-in-povert/",
+   "date": "2026-10-20",
+   "topics": [
+    "administrative",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Constitutional Law Association",
+   "region": "uk",
+   "title": "Craig Wells: The Veneer of Contentment: Mustafa, Salford and the Gaps the Deprivation of Liberty Reference Left Behind",
+   "summary": "In June I argued on this blog that the Supreme Court’s decision in A Reference by the Attorney General for Northern Ireland [2026] UKSC 16 broke faith with a discipline that runs from chapter 29 of the Magna Carta through the writ of habeas corpus to Article 5: that a confinement must rest on a […]",
+   "link": "https://ukconstitutionallaw.org/2026/10/19/craig-wells-the-veneer-of-contentment-mustafa-salford-and-the-gaps-the-deprivation-of-liberty-reference-left-behind/",
+   "date": "2026-10-19",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Human Rights Blog",
+   "region": "uk",
+   "title": "The UK Human Rights Blog has moved to Substack",
+   "summary": "From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on this website. This site will remain available as an archive. To stay up to date with our latest articles and insights, please subscribe to our Substack here: https://substack.com/@ukhumanrightsblog The…",
+   "link": "https://ukhumanrightsblog.com/2026/10/19/the-uk-human-rights-blog-has-moved-to-substack/",
+   "date": "2026-10-19",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Balkinization",
+   "region": "us",
+   "title": "The Even More Conservative Case for Class Actions?",
+   "summary": "For the Balkinization symposium on Diego Zambrano , How Americans Enforce the Law (Stanford University Press, 2026) . Brian T. Fitzpatrick How can the author of The Conservative Case for Class Actions say a bad word about a book that argues that private enforcement of the law is a vivid example of American…",
+   "link": "https://balkin.blogspot.com/2026/10/the-even-more-conservative-case-for.html",
+   "date": "2026-10-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Balkinization",
+   "region": "us",
+   "title": "Review Essay, Diego Zambrano, How Americans Enforce the Law",
+   "summary": "For the Balkinization symposium on Diego Zambrano , How Americans Enforce the Law (Stanford University Press, 2026) . James E. Pfander In How Americans Enforce the Law , Diego Zambrano sets out to document and to explain that distinctively American legal institution: the private lawsuit aimed at the enforcement of…",
+   "link": "https://balkin.blogspot.com/2026/10/review-essay-diego-zambrano-how.html",
+   "date": "2026-10-16",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Balkinization",
+   "region": "us",
+   "title": "Legislative Acorns and Judicial Oaks",
+   "summary": "For the Balkinization symposium on Diego Zambrano , How Americans Enforce the Law (Stanford University Press, 2026) . Nick Bagley and David Schleicher Why do Americans love private rights of action? Because we really, really love them, as Diego Zambrano shows in his compelling new book, How Americans Enforce the Law .…",
+   "link": "https://balkin.blogspot.com/2026/10/legislative-acorns-and-judicial-oaks.html",
+   "date": "2026-10-15",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Strasbourg Observers",
+   "region": "eu",
+   "title": "A Warning Shot for Applicants Seeking Interim Measures? Abuse of the Right of Application in Mouelhi v. Belgium",
+   "summary": "By Luna Lanckvrind What are the consequences when applicants distort the facts underlying requests for urgent protection before the European Court of Human Rights (ECtHR)? In the case of Mouelhi v. Belgium, the Court attempted to settle this question, venturing into territory not previously explored. In a particularly…",
+   "link": "https://strasbourgobservers.com/2026/10/13/a-warning-shot-for-applicants-seeking-interim-measures-abuse-of-the-right-of-application-in-mouelhi-v-belgium/",
+   "date": "2026-10-13",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Human Rights Blog",
+   "region": "uk",
+   "title": "Weekly Round Up: Article 8 under the Immigration and Asylum Bill, Record Terrorism Arrests, and Honours Forfeiture Decision",
+   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog In the news…",
+   "link": "https://ukhumanrightsblog.com/2026/10/13/weekly-round-up-article-8-under-the-immigration-and-asylum-bill-record-terrorism-arrests-and-honours-forfeiture-decision/",
+   "date": "2026-10-13",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Human Rights Blog",
+   "region": "uk",
+   "title": "Law Pod UK new episode: Environmental enforcement here and in the EU",
+   "summary": "In Episode 245, Environmental expert David Hart KC talks to Sir Richard Macrory, author and editor of the recent book “EU Environmental Policy and Law: Reflections at 50.” They discuss the role of the Office of Environmental Protection, the difficulties of enforcement, issues of standing here and in the EU, and to…",
+   "link": "https://ukhumanrightsblog.com/2026/10/12/law-pod-uk-new-episode-environmental-enforcement-here-and-in-the-eu/",
+   "date": "2026-10-12",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "La vivienda y el derecho de propiedad: financiarización, turistificación y comunidades locales",
+   "summary": "El derecho a la vivienda y el derecho de propiedad suelen entenderse como derechos en conflicto, de tal forma que la protección de uno de ellos requeriría la limitación del otro. En su reciente publicación, Hohmann cuestiona esta perspectiva y analiza cómo estos derechos no solo pueden coexistir, sino también…",
+   "link": "https://ohrh.law.ox.ac.uk/la-vivienda-y-el-derecho-de-propiedad-financiarizacion-turistificacion-y-comunidades-locales/",
+   "date": "2026-10-12",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Strasbourg Observers",
+   "region": "eu",
+   "title": "Cross-Border Recognition of Parenthood by Same-Sex Couples under the ECHR – The Judgment in A.P. and R.P. v. Poland",
+   "summary": "By Alina Tryfonidou The issue of the cross-border recognition of parenthood established between a child and two persons of the same sex in States which allow joint legal parenthood by same-sex couples has come to the fore in Europe in the last decade or so. The question has concerned both of Europe’s supranational…",
+   "link": "https://strasbourgobservers.com/2026/10/09/cross-border-recognition-of-parenthood-by-same-sex-couples-under-the-echr-the-judgment-in-a-p-and-r-p-v-poland/",
+   "date": "2026-10-09",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Constitutional Law Association",
+   "region": "uk",
+   "title": "Announcement: Public Law Current Survey Co-Editor",
+   "summary": "The General Editors and Editorial Committee of Public Law are seeking to appoint a Co-Editor of the journal’s “current survey” section (to work alongside Dr Sarah Nason (Bangor University)) and invite expressions of interest from those who may be interested in helping to support the production of Public Law. Public…",
+   "link": "https://ukconstitutionallaw.org/2026/10/09/announcement-public-law-current-survey-co-editor/",
+   "date": "2026-10-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Human Rights Blog",
+   "region": "uk",
+   "title": "Discrimination in prison medication dispensing – objective justification and an unjustified failure to think about it",
+   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog The…",
+   "link": "https://ukhumanrightsblog.com/2026/10/09/discrimination-in-prison-medication-dispensing-objective-justification-and-an-unjustified-failure-to-think-about-it/",
+   "date": "2026-10-09",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Constitutional Law Association",
+   "region": "uk",
+   "title": "Joanna Bell & Hayley J Hooper: Not in my (Constitutional) Backyard: How Not to Speed Up Planning Challenges",
+   "summary": "Important issues of UK constitutional law can arise in the most unusual of places. Some of the most important cases on undergraduate reading lists, for example, concerned disputes about fishing licences and whether goods could be measured in imperial, rather than metric, units. In this blog we draw attention to a…",
+   "link": "https://ukconstitutionallaw.org/2026/10/08/joanna-bell-hayley-j-hooper-not-in-my-constitutional-backyard-how-not-to-speed-up-planning-challenges/",
+   "date": "2026-10-08",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Strasbourg Observers",
+   "region": "eu",
+   "title": "A Conviction Void in Strasbourg but Still in Force at Home: Kavala v. Türkiye (No. 2) and Article 46 ECHR",
+   "summary": "By Joanna Demopoulou On 25 August 2026 the Grand Chamber held that Osman Kavala’s criminal conviction ‘should be regarded, under Convention law, as null and void’ (Kavala v. Türkiye (No. 2), § 309). Article 46 ECHR reasoning is ordinarily oriented towards obligations, results and measures: what the respondent State…",
+   "link": "https://strasbourgobservers.com/2026/10/06/a-conviction-void-in-strasbourg-but-still-in-force-at-home-kavala-v-turkiye-no-2-and-article-46-echr/",
+   "date": "2026-10-06",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  }
+ ],
+ "laws": [
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Renewables Obligation and Electricity Capacity (Amendment) (British Industrial Competitiveness Scheme Excluded Electricity) Regulations 2026",
+   "summary": "",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1171/made",
+   "date": "2026-11-06",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "Administrative and Financial Provisions Act (Northern Ireland) 2026",
+   "summary": "An Act to make further provision with respect to the administration and financing of public services in Northern Ireland, in particular, measures to provide powers to undertake certain activities, to enable charging for certain activities and to modify arrangements for financial governance.",
+   "link": "http://www.legislation.gov.uk/nia/2026/10/enacted/data.htm",
+   "date": "2026-11-06",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Non-Domestic Rating (Description and Value of Differential Multipliers) (Amendment) (Wales) Regulations 2026 / Rheoliadau Ardrethu Annomestig (Disgrifiad o Luosyddion Gwahaniaethol a Gwerth Lluosyddion Gwahaniaethol) (Diwygio) (Cymru) 2026",
+   "summary": "In relation to Wales, the non-domestic rating multiplier for each chargeable financial year is calculated in accordance with Part A2 of Schedule 7 to the Local Government Finance Act 1988 (“the 1988 Act”). O ran Cymru, cyfrifir y lluosydd ardrethu annomestig ar gyfer pob blwyddyn ariannol y codir swm ynglŷn â hi yn…",
+   "link": "http://www.legislation.gov.uk/wsi/2026/133/made/welsh/data.htm",
+   "date": "2026-11-06",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "Correction slip",
+   "summary": "These Regulations, made under sections 51(3), 52(1) and 52(3) of the Immigration, Asylum and Nationality Act 2006, specify fees relating to immigration and nationality. They follow on from the Immigration and Nationality (Fees) Order 2011, which sets out the applications, services and processes related to immigration…",
+   "link": "http://www.legislation.gov.uk/uksi/2011/1055/pdfs/uksics_20111055_en_001.pdf",
+   "date": "2026-11-06",
+   "topics": [
+    "administrative",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots",
+   "summary": "This final rule with comment period revises the Medicare Hospital Outpatient Prospective Payment System (OPPS) and the Medicare Ambulatory Surgical Center (ASC) payment system for calendar year 2027 based on our continuing experience with these systems. We also describe the changes to the amounts and factors used to…",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment",
+   "date": "2026-11-06",
+   "topics": [
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Prohibiting Illegal Discrimination in Registered Apprenticeship Programs",
+   "summary": "The Department of Labor (DOL or the Department) is issuing this final rule to remove the onerous and legally questionable affirmative action requirements that were previously imposed by the Department on Registered Apprenticeship program sponsors. This final rule also streamlines and simplifies nondiscrimination…",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22680/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs",
+   "date": "2026-11-06",
+   "topics": [
+    "labor",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Heightened Requirements for Foreign Importers of Record",
+   "summary": "This document amends the U.S. Customs and Border Protection (CBP) regulations, consistent with Section 2 of Executive Order 14411, \"Strengthening Customs Enforcement,\" by establishing new requirements for foreign importers of record (IORs) when making entry, and corresponding responsibilities for licensed customs…",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record",
+   "date": "2026-11-06",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V ISLAND VIBEZ",
+   "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is…",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22703/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Request Notice: Use of Foreign-built Small Passenger Vessel in United States Coastwise Trade, M/V NIUHI 2",
+   "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is…",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22702/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv-niuhi",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V JULIANA",
+   "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is…",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22699/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Notice of Adjustment of Minimum Project Worksheet Amount",
+   "summary": "FEMA gives notice that the minimum Project Worksheet Amount under the Public Assistance program for disasters and emergencies declared on or after October 1, 2026, will be increased.",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22697/notice-of-adjustment-of-minimum-project-worksheet-amount",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Notice of Adjustment of Disaster Grant Amounts",
+   "summary": "FEMA gives notice of an adjustment to the threshold for Small Project subgrants made to state, tribal, and local governments and private nonprofit facilities for disasters declared on or after October 1, 2026.",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22696/notice-of-adjustment-of-disaster-grant-amounts",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Notice of Adjustment of Statewide Per Capita Impact Indicator",
+   "summary": "FEMA gives notice that the statewide per capita impact indicator under the Public Assistance program for disasters with an incident start date on or after October 1, 2026, will be increased.",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22694/notice-of-adjustment-of-statewide-per-capita-impact-indicator",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Amendments to the “Small Business” and “Small Organization” Definitions for Investment Companies and Investment Advisers for Purposes of the Regulatory Flexibility Act",
+   "summary": "The Securities and Exchange Commission (the \"Commission\" or the \"SEC\") is amending the definitions of \"small business\" and \"small organization\" (collectively, \"small entities\") that are used in connection with Commission rulemaking under the Investment Company Act of 1940 (the \"Investment Company Act\") and the…",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22741/amendments-to-the-small-business-and-small-organization-definitions-for-investment-companies-and",
+   "date": "2026-11-06",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Specific Listing for 3-Chloromethcathinone, A Currently Controlled Schedule I Substance",
+   "summary": "The Drug Enforcement Administration (DEA) is establishing a specific listing and DEA Controlled Substances Code Number (drug code) for 1-(3-chlorophenyl)-2-(methylamino)propan-1-one (3- chloromethcathinone; 3-CMC) in schedule I of the Controlled Substances Act (CSA). Although 3-chloromethcathinone is not specifically…",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22717/specific-listing-for-3-chloromethcathinone-a-currently-controlled-schedule-i-substance",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "N-Cyclohexylbenzothiazole-2-Sulfenamide From the People's Republic of China: Preliminary Affirmative Determination of Sales at Less Than Fair Value and Preliminary Affirmative Determination of Critical Circumstances",
+   "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that N-Cyclohexylbenzothiazole-2-Sulfenamide (CBS) from the People's Republic of China (China) is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is October 1, 2025, through March…",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22710/n-cyclohexylbenzothiazole-2-sulfenamide-from-the-peoples-republic-of-china-preliminary-affirmative",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Endangered and Threatened Wildlife and Plants; Technical Corrections for 43 Wildlife and Plant Species on the Lists of Endangered and Threatened Wildlife and Plants",
+   "summary": "We, the U.S. Fish and Wildlife Service (Service), announce technical corrections for 43 wildlife and plant species under the Endangered Species Act of 1973, as amended (Act). For 7 wildlife species and 30 plant species that predominately occur in California and Nevada, we are revising the List of Endangered and…",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22682/endangered-and-threatened-wildlife-and-plants-technical-corrections-for-43-wildlife-and-plant",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Online Ordering and Transactions and Food Delivery Revisions To Meet the Needs of a Modern, Data-Driven Program",
+   "summary": "This final rule considers public comments submitted in response to the proposed rule to remove barriers to online ordering and internet-based transactions in the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) published on February 23, 2023. USDA FNA is issuing this regulatory action to…",
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22679/special-supplemental-nutrition-program-for-women-infants-and-children-wic-online-ordering-and",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Air Navigation (Restriction of Flying) (Hampstead) Regulations 2026",
+   "summary": "",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1169/made",
+   "date": "2026-11-05",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Registration of Births and Deaths (England and Wales) (Specified Requirements) Regulations 2026",
+   "summary": "Under the Births and Deaths Registration Act 1953, certain people are required to attend the register office to give information about a birth, death or still-birth, and physically sign the register. Section 38B of that Act allows the Minister to specify requirements and to provide that the duty to sign the register…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1168/made/data.htm",
+   "date": "2026-11-05",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Strategic Planning Authorities (Spatial Development Strategy) Regulations 2026",
+   "summary": "Part 1A of the Planning and Compulsory Purchase Act 2004 (c. 5) (inserted by section 58 of the Planning and Infrastructure Act 2025 (c. 34)) requires strategic planning authorities to prepare a spatial development strategy (“SDS”) for their area. These Regulations make provision as to the procedure to be followed in…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1162/made/data.htm",
+   "date": "2026-11-05",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Strategic Planning (Consequential and Miscellaneous Amendments) Regulations 2026",
+   "summary": "These Regulations revoke and amend secondary legislation relating to strategic planning.",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1164/made/data.htm",
+   "date": "2026-11-05",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Strategic Planning (Costs of Public Examinations) (Standard Daily Amount) (England) Regulations 2026",
+   "summary": "These Regulations, which apply in relation to England only, apply where the Secretary of State is authorised to recover costs arising in connection with a public examination under section 12I or 12P(6)(a) of the Planning and Compulsory Purchase Act 2004 (c. 5).",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1163/made/data.htm",
+   "date": "2026-11-05",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Proposed Priorities and Definitions-Secretary's Supplemental Priorities and Definitions",
+   "summary": "The Secretary proposes to amend the Notice of Final Priorities and Definitions--Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States published in the Federal Register on September 9, 2025, the Notice of Final Priority and…",
+   "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions",
+   "date": "2026-11-05",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
+   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification…",
+   "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
+   "date": "2026-11-05",
+   "topics": [
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Streamlining Contested Adjudications in Licensing Proceedings",
+   "summary": "The U.S. Nuclear Regulatory Commission (NRC, agency, or Commission) is revising the agency's rules of practice and procedure to streamline contested adjudications in NRC licensing proceedings in response to the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024 (ADVANCE Act) and…",
+   "link": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings",
+   "date": "2026-11-03",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Pipeline Safety: Amendments to Liquefied Natural Gas Facilities",
+   "summary": "PHMSA proposes updating its regulations for liquefied natural gas (LNG) facilities to incorporate by reference the most recent industry safety standards and to make other changes to account for more than two decades of improvements and technological advancements. This rulemaking also responds to congressional mandates…",
+   "link": "https://www.federalregister.gov/documents/2026/11/03/2026-22396/pipeline-safety-amendments-to-liquefied-natural-gas-facilities",
+   "date": "2026-11-03",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Accreditation, Innovation, and Modernization: The Secretary's Recognition of Accrediting Agencies; Institutional Eligibility Under the Higher Education Act of 1965, as Amended; Student Assistance General Provisions",
+   "summary": "The Department revises the existing accrediting agency recognition regulations to implement the directives set forth in Executive Order 14279, Reforming Accreditation to Strengthen Higher Education, and other Administration priorities, align the regulations more closely with statute, and reduce regulatory burden.",
+   "link": "https://www.federalregister.gov/documents/2026/10/30/2026-22174/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies",
+   "date": "2026-10-30",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting",
+   "summary": "",
+   "link": "https://www.federalregister.gov/documents/2026/10/29/2026-22112/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting",
+   "date": "2026-10-29",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  }
+ ]
+}
