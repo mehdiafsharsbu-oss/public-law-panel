@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T22:59:19Z",
+ "updated": "2026-11-08T11:25:09Z",
  "status": {
   "I·CONnect": {
    "ok": true,
@@ -10,8 +10,8 @@
    "error": "404 Client Error: Not Found for url: https://blog-iacl-aidc.org/feed/"
   },
   "EJIL: Talk!": {
-   "ok": false,
-   "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+   "ok": true,
+   "items": 0
   },
   "Verfassungsblog": {
    "ok": true,
@@ -67,6 +67,20 @@
   }
  },
  "articles": [
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Virtual Children, Real Problems: AI and the First Amendment in the United States",
+   "summary": "–Arvind Kurian Abraham, S.J.D candidate, Harvard Law School It is a truism that not all forms of speech and expression are protected by the First Amendment of the U.S. Constitution.... The post Virtual Children, Real Problems: AI and the First Amendment in the United States appeared first on www.iconnectblog.com .",
+   "link": "https://www.iconnectblog.com/virtual-children-real-problems-ai-and-the-first-amendment-in-the-united-states/",
+   "date": "2026-11-08",
+   "topics": [
+    "constitutional",
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
   {
    "source": "I·CONnect",
    "region": "intl",
@@ -586,19 +600,6 @@
    "link": "https://www.theregreview.org/2026/11/04/schuette-the-new-pig-butchering/",
    "date": "2026-11-04",
    "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Lawyer-Free on Paper? Research Duties in German Constitutional Complaints",
-   "summary": "–Dr Tuğba Tosun Çobanoğlu, Independent Interdisciplinary Researcher Anyone in Germany can file a constitutional complaint with the German Federal Constitutional Court, or Bundesverfassungsgericht, without a lawyer. A December 2025 order... The post Lawyer-Free on Paper? Research Duties in German Constitutional…",
-   "link": "https://www.iconnectblog.com/lawyer-free-on-paper-research-duties-in-german-constitutional-complaints/",
-   "date": "2026-11-03",
-   "topics": [
-    "constitutional"
-   ],
    "title_fa": "",
    "summary_fa": ""
   },
