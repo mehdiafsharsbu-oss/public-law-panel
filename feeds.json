@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T11:25:09Z",
+ "updated": "2026-11-09T13:09:15Z",
  "status": {
   "I·CONnect": {
    "ok": true,
@@ -10,8 +10,8 @@
    "error": "404 Client Error: Not Found for url: https://blog-iacl-aidc.org/feed/"
   },
   "EJIL: Talk!": {
-   "ok": true,
-   "items": 0
+   "ok": false,
+   "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "Verfassungsblog": {
    "ok": true,
@@ -67,6 +67,138 @@
   }
  },
  "articles": [
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "What’s New: Week of November 9",
+   "summary": "— Alan Mauricio Jiménez Díaz, PhD. Candidate in Constitutional Law, Complutense University of Madrid, Spain. In this weekly feature, I-CONnect publishes a curated reading list of developments in public law.... The post What’s New: Week of November 9 appeared first on www.iconnectblog.com .",
+   "link": "https://www.iconnectblog.com/whats-new-week-of-november-9/",
+   "date": "2026-11-09",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "MMA Fighters Will Not Restore the Rule of Law",
+   "summary": "On 30 October 2026, Constitutional Tribunal judge, Anna Korwin-Piotrowska, decided to suspend the President and Vice-President of the Constitutional Tribunal. In a recent post on Verfassungsblog, Kim-Lane Scheppele, Laurent Pech and Maciej Kisilowski praised this move as lawful and necessary to restore the rule of…",
+   "link": "https://verfassungsblog.de/mma-fighters-will-not-restore-the-rule-of-law/",
+   "date": "2026-11-09",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Claims to the City",
+   "summary": "I suppose property professors are always on the lookout for unconventional uses of land. My work examines the transformation of various cities under financial capitalism. City governments regulate land to attract real estate investors just as they make governance decisions as if they were financial actors and not…",
+   "link": "https://verfassungsblog.de/claims-to-the-city/",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Tech Power’s Violence",
+   "summary": "As the lament swells around democratic crisis and the rise of the right, with populist moped-riders sweeping elections and traditional political parties left “shocked”, attention increasingly turns to the actual processes and spaces of political deliberation and their corrosion through social media and artificial…",
+   "link": "https://verfassungsblog.de/tech-powers-violence/",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "No One is Illegal on Stolen Land",
+   "summary": "In “My Hometown,” part of his Born in the U.S.A. album, Bruce Springsteen sings nostalgically about growing up in Freehold, his hometown, in the 1950s. What is striking about this song is that the same story could be told about thousands of towns in the country. Indeed, as a key site during the Revolutionary War and…",
+   "link": "https://verfassungsblog.de/no-one-is-illegal-on-stolen-land/",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Von Totalförsvar bis Freiwilligendienst",
+   "summary": "Politisch ist Verteidigung längst zur Gemeinschaftsaufgabe der Europäischen Union und ihrer Mitgliedstaaten geworden. Ihre Grundlage liegt aber weiter in den Staaten: die Bereitschaft gesellschaftlicher Mehrheiten, sich im Ernstfall zu engagieren. Die Bemühungen, sie zu stärken, reichen über eine Reaktivierung der…",
+   "link": "https://verfassungsblog.de/wehrpflicht-dienstpflicht-wehrverfassung/",
+   "date": "2026-11-09",
+   "topics": [
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Die Pflicht, zu denunzieren",
+   "summary": "Seit der Landtagswahl in Sachsen-Anhalt ist die Resilienz demokratischer Institutionen in aller Munde. Für so eine Resilienz ist das Berufsbeamtentum mitentscheidend. Daher stellt sich die Frage, ob Beamte bestimmte Dienstvergehen aus dem Kollegenkreis melden müssen, um präventiven Schutz vor verfassungsfeindlichen…",
+   "link": "https://verfassungsblog.de/meldepflicht-beamte/",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Unter Kontrolle",
+   "summary": "Die Bundesrepublik ist der fünftgrößte Exporteur von Rüstungsgut. Dennoch spielte das Thema der Rüstungsexporte lange Zeit keine große Rolle. Die fehlende Aufmerksamkeit trug dazu bei, dass ein Politikfeld von erheblicher außen- und sicherheitspolitischer Relevanz weitgehend exekutiv geprägt blieb: Der Bundestag hat…",
+   "link": "https://verfassungsblog.de/rustungsexporte-volkerrecht-wehrverfassung/",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Constitutional Law Association",
+   "region": "uk",
+   "title": "Dane Luo: The Church Appointments (Repeal of Discriminatory Provision) Bill 2026 and Constitutional Advice to the Sovereign",
+   "summary": "Prime Minister Andy Burnham has said that, while he is no longer a regular Mass-goer, he still professes the Catholic faith. His religious beliefs triggered the operation of s 18 of the Roman Catholic Relief Act 1829, which makes it unlawful for any person professing the Roman Catholic religion ‘directly or indirectly…",
+   "link": "https://ukconstitutionallaw.org/2026/11/09/dane-luo-the-church-appointments-repeal-of-discriminatory-provision-bill-2026-and-constitutional-advice-to-the-sovereign/",
+   "date": "2026-11-09",
+   "topics": [
+    "constitutional",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "Punjab’s Habitual Offenders Bill Undermines The Right to Privacy",
+   "summary": "The Government of Punjab in Pakistan recently introduced the Punjab Control of Habitual Offenders and Anti-Social Behaviour Bill 2026 (‘Bill’) in the Assembly of Punjab. The Bill aims to control and curb a category of ‘anti-social’ activities through punishments such as impounding of passport, blocking of National ID…",
+   "link": "https://ohrh.law.ox.ac.uk/punjabs-habitual-offenders-bill-undermines-the-right-to-privacy/",
+   "date": "2026-11-09",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Foresight That Changes Decisions",
+   "summary": "Regulators can use simple foresight methods to test today’s decisions against tomorrow’s conditions. The post Foresight That Changes Decisions first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/09/warner-foresight-that-changes-decisions/",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
   {
    "source": "I·CONnect",
    "region": "intl",
@@ -221,63 +353,6 @@
    "summary_fa": ""
   },
   {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Sicherheitshalber für das Recht",
-   "summary": "„Wenn es ernst wird“, so lautet der Titel dieser Beitragsreihe. Ein Blick in die gegenwärtige Weltpolitik zeigt: Es ist längst ernst. In der Bundesrepublik wird über Kriegs- bzw. Verteidigungsfähigkeit debattiert, über Abschreckung und Aufrüstung, über Wehrdienst und Wehrpflicht. Zugleich gehen mit der Fokussierung…",
-   "link": "https://verfassungsblog.de/sicherheitspolitik-verfassungsrecht-zeitenwende/",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "The Road to the ICC Prosecution of Philippine Warlord Rodrigo Duterte",
-   "summary": "In 2025, former Philippine President Rodrigo Duterte was arrested and brought before the ICC to face charges of crimes against humanity. But the struggle for accountability began years earlier, amid a brutal “war on drugs” that claimed tens of thousands of lives. As the killings continued, Philippine human rights…",
-   "link": "https://verfassungsblog.de/the-road-to-the-icc-prosecution-of-philippine-warlord-rodrigo-duterte/",
-   "date": "2026-11-06",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Defending Indigenous Territories Through Law and Collective Power",
-   "summary": "Law’s capacity to transform unequal power relations depends on how legal action supports community organising and whether this support remains guided by communities’ own priorities and decisions. This matters because energy projects begin to transform territories before construction starts: Contracts establish claims…",
-   "link": "https://verfassungsblog.de/defending-indigenous-territories-through-law-and-collective-power/",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Das pazifistische Grundgesetz und die „Zeitenwende“",
-   "summary": "Wenn es um militärische Machtmittel aus verfassungsrechtlicher Perspektive geht, stehen Normen des Grundgesetzes im Mittelpunkt, die zwischen 1954 und 1968 in das Grundgesetz eingefügt worden sind. Im Folgenden sollen demgegenüber Verfassungsnormen in den Blick genommen werden, die bereits in der Urfassung des…",
-   "link": "https://verfassungsblog.de/das-pazifistische-grundgesetz-und-die-zeitenwende/",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Auch Arbeitgeber müssen sich bewerben",
-   "summary": "Die Frist zur Umsetzung der Entgelttransparenzrichtlinie ist am 7. Juni 2026 verstrichen, und es gibt noch immer keinen Referentenentwurf. Wir wollen die Aufmerksamkeit auf ein unterschätztes Instrument lenken, das bei zielorientierter Umsetzung erhebliche Effekte verspricht und zudem mit Leichtigkeit „bürokratiearm“…",
-   "link": "https://verfassungsblog.de/entgelttransparenzrichtlinie/",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Strasbourg Observers",
    "region": "eu",
    "title": "Bazhenov and Others v. Russia and Ukraine: Property Rights under Occupation",
@@ -414,30 +489,6 @@
    "summary_fa": ""
   },
   {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Die Freiheit der Person ist (un-)verletzlich",
-   "summary": "„Der Beginn einer migrationspolitischen Eiszeit“ – so lässt sich das aktuelle migrationspolitische Klima in Deutschland und Europa wohl zutreffend beschreiben. Schutzsuchende in Deutschland sind bereits seit Jahren zunehmend restriktiveren Maßnahmen ausgesetzt. Während die politischen Debatten und Entwicklungen sich…",
-   "link": "https://verfassungsblog.de/die-freiheit-der-person-ist-un-verletzlich/",
-   "date": "2026-11-05",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Versammlungsfreiheit regelt",
-   "summary": "In mehreren Großstädten haben verschiedene Initiativen Versammlungen unter dem Motto „Gen Z regelt“ abgehalten, mit denen sie gegen gegenwärtige und künftige Belastungen der jüngeren Generation protestieren wollten. Im Anschluss an die ganz überwiegend störungsfrei verlaufenen Versammlungen kam es etwa in…",
-   "link": "https://verfassungsblog.de/versammlungsfreiheit-gen-z-proteste/",
-   "date": "2026-11-05",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "UK Constitutional Law Association",
    "region": "uk",
    "title": "Elena De Nictolis and Thomas Poole: Fiscal Capacity without Fiscal Autonomy: Regional and Local Fiscal Devolution in the Autumn Budget",
@@ -543,19 +594,6 @@
    "link": "https://www.iconnectblog.com/call-for-nominations-icon%c2%b7s-book-prize-2027/",
    "date": "2026-11-04",
    "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Symposium on the 10th Anniversary of the Colombian Peace Agreement – Part VI: Constitutional Plasticity: The Making of a President as the Constitutional Drafter in Chief",
-   "summary": "—Luis Botello-Moncada, Lawyer and Economist. Master of Laws (LL.M.) from Duke University,North Carolina, United States. Adjunct Professor at Universidad de los Andes and UniversidadExternado de Colombia. 1. Introduction During 1990-2022,... The post Symposium on the 10th Anniversary of the Colombian Peace Agreement –…",
-   "link": "https://www.iconnectblog.com/symposium-on-the-10th-anniversary-of-the-colombian-peace-agreement-part-vi-constitutional-plasticity-the-making-of-a-president-as-the-constitutional-drafter-in-chief/",
-   "date": "2026-11-04",
-   "topics": [
-    "constitutional"
-   ],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -809,19 +847,6 @@
    "summary_fa": ""
   },
   {
-   "source": "The Regulatory Review",
-   "region": "us",
-   "title": "A Legislative Lifeline for Independent Regulatory Agencies?",
-   "summary": "Congress should require the President to replace agency heads after terminating them. The post A Legislative Lifeline for Independent Regulatory Agencies? first appeared on The Regulatory Review .",
-   "link": "https://www.theregreview.org/2026/10/28/braganza-a-legislative-lifeline-for-independent-regulatory-agencies/",
-   "date": "2026-10-28",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Strasbourg Observers",
    "region": "eu",
    "title": "Le Syndicat GJ v France: The creeping normalisation of restrictions on protest",
@@ -1063,17 +1088,6 @@
    "summary_fa": ""
   },
   {
-   "source": "Oxford Human Rights Hub",
-   "region": "other",
-   "title": "La vivienda y el derecho de propiedad: financiarización, turistificación y comunidades locales",
-   "summary": "El derecho a la vivienda y el derecho de propiedad suelen entenderse como derechos en conflicto, de tal forma que la protección de uno de ellos requeriría la limitación del otro. En su reciente publicación, Hohmann cuestiona esta perspectiva y analiza cómo estos derechos no solo pueden coexistir, sino también…",
-   "link": "https://ohrh.law.ox.ac.uk/la-vivienda-y-el-derecho-de-propiedad-financiarizacion-turistificacion-y-comunidades-locales/",
-   "date": "2026-10-12",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Strasbourg Observers",
    "region": "eu",
    "title": "Cross-Border Recognition of Parenthood by Same-Sex Couples under the ECHR – The Judgment in A.P. and R.P. v. Poland",
@@ -1111,19 +1125,6 @@
    "summary_fa": ""
   },
   {
-   "source": "UK Constitutional Law Association",
-   "region": "uk",
-   "title": "Joanna Bell & Hayley J Hooper: Not in my (Constitutional) Backyard: How Not to Speed Up Planning Challenges",
-   "summary": "Important issues of UK constitutional law can arise in the most unusual of places. Some of the most important cases on undergraduate reading lists, for example, concerned disputes about fishing licences and whether goods could be measured in imperial, rather than metric, units. In this blog we draw attention to a…",
-   "link": "https://ukconstitutionallaw.org/2026/10/08/joanna-bell-hayley-j-hooper-not-in-my-constitutional-backyard-how-not-to-speed-up-planning-challenges/",
-   "date": "2026-10-08",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Strasbourg Observers",
    "region": "eu",
    "title": "A Conviction Void in Strasbourg but Still in Force at Home: Kavala v. Türkiye (No. 2) and Article 46 ECHR",
@@ -1138,6 +1139,270 @@
   }
  ],
  "laws": [
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Air Departure Tax (Scotland) Amendment Regulations 2026",
+   "summary": "These Regulations amend the Air Departure Tax (Scotland) Act 2017 (“the 2017 Act”) to make provision concerning who is a non-chargeable passenger in respect of certain flights which begin or end at an airport in a designated area of Scotland and related consequential amendments to the 2017 Act. In addition, these…",
+   "link": "http://www.legislation.gov.uk/ssi/2026/333/made/data.htm",
+   "date": "2026-11-09",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Registration of Births and Deaths (Amendment) Regulations 2026",
+   "summary": "These Regulations amend the Registration of Births and Deaths Regulations 1987 (S.I. 1987/2088) (“the 1987 Regulations”) and the Registration of Births and Deaths (Welsh Language) Regulations 1987 (S.I. 1987/2089) (“the Welsh Language Regulations”).",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1172/made/data.htm",
+   "date": "2026-11-09",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Air Departure Tax (Administration) (Scotland) Amendment Regulations 2026",
+   "summary": "These Regulations amend the provisions concerning the administration of Air Departure Tax (“ADT”) in Part 4 (Payment, collection and management of tax) of the Air Departure Tax (Scotland) Act 2017 (“the 2017 Act”). In addition, these Regulations make amendments to section 44 (interpretation) and schedules 2 (minor and…",
+   "link": "http://www.legislation.gov.uk/ssi/2026/330/made/data.htm",
+   "date": "2026-11-09",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Children’s Wellbeing and Schools Act 2026 (Commencement No. 1) Regulations 2026",
+   "summary": "These Regulations are the fourth set of commencement regulations bringing into force provisions of the Children’s Wellbeing and Schools Act 2026 (c. 21) (“the Act”). They are the first set of regulations commencing provisions of the Act which substantively relate to a territory other than England, namely section 10…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1165/made/data.htm",
+   "date": "2026-11-09",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Notice of Public Meetings of the Maryland Advisory Committee to the U.S. Commission on Civil Rights",
+   "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Maryland Advisory Committee (Committee) to the Commission will hold public meetings via Zoom. The purpose is for the committee to begin…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22799/notice-of-public-meetings-of-the-maryland-advisory-committee-to-the-us-commission-on-civil-rights",
+   "date": "2026-11-09",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "summary": "This final rule addresses: changes to the physician fee schedule (PFS); other changes to Medicare Part B payment policies to ensure that payment systems are updated to reflect changes in medical practice, relative value of services, and changes in the statute; codification of establishment of new policies for: the…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Airworthiness Directives; The Boeing Company Airplanes",
+   "summary": "The FAA is adopting a new airworthiness directive (AD) for certain The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. This AD was prompted by reports that the low range radio altimeter (LRRA) system has an increased rate of non-computed data (NCD) outputs at low altitudes during approach and landing, which…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22817/airworthiness-directives-the-boeing-company-airplanes",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Policy Statement on Jurisdiction and Preemption Under the ICC Termination Act",
+   "summary": "The Surface Transportation Board (STB or Board) is issuing this policy statement on the scope of its jurisdiction over transportation by rail carriers and on preemption of conflicting state and federal laws under the ICC Termination Act of 1995 (ICCTA). The policy statement provides an overview of the Board's…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22811/policy-statement-on-jurisdiction-and-preemption-under-the-icc-termination-act",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program",
+   "summary": "This rule finalizes and codifies the Medicare Drug Price Negotiation Program (\"Negotiation Program\") and establishes certain new policies for the Negotiation Program and the Medicare Prescription Drug Benefit Program (\"Part D Program\") as required by the Inflation Reduction Act of 2022. This final rule also finalizes…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22792/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "National Emission Standards for Hazardous Air Pollutants: Polyvinyl Chloride and Copolymer Production Reconsideration; New Major Source Process Wastewater Standards",
+   "summary": "The U.S. Environmental Protection Agency (EPA) is finalizing amendments to the national emission standards for hazardous air pollutants (NESHAP) for the Polyvinyl Chloride (PVC) and Copolymer Production source category (\"PVC NESHAP\") under Clean Air Act (CAA) section 112. For new major sources, the EPA is finalizing…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22788/national-emission-standards-for-hazardous-air-pollutants-polyvinyl-chloride-and-copolymer-production",
+   "date": "2026-11-09",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Airworthiness Directives; Lycoming Engines",
+   "summary": "The FAA is superseding Airworthiness Directive (AD) 2026-17- 10, which applied to Lycoming Engines (Lycoming) Model O-235, O-540, and IO-540 engines with a certain piston pin installed. AD 2026-17-10 required replacement of the affected piston pin with a part eligible for installation and, for certain engines, oil…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22785/airworthiness-directives-lycoming-engines",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+   "date": "2026-11-09",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Flight Safety Limits Objectives Burden Reducing Clarification",
+   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to clarify the requirements for establishing flight safety limits that define when a vehicle operator must initiate…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22783/flight-safety-limits-objectives-burden-reducing-clarification",
+   "date": "2026-11-09",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Flight Abort Burden Reducing Clarification on End of Flight Safety Limits",
+   "summary": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to clarify the conditions under which a vehicle operator is not required to abort a flight.",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22782/flight-abort-burden-reducing-clarification-on-end-of-flight-safety-limits",
+   "date": "2026-11-09",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Privacy Act of 1974; System of Records",
+   "summary": "In accordance with the Privacy Act of 1974, the Office of Personnel Management (OPM) proposes to modify and republish in full a system of records previously titled \"OPM/Central-21, Federal Employee Viewpoint Survey\" which will be renamed \"OPM/Central-21, Annual Employee Survey.\" The modification is necessary to…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22837/privacy-act-of-1974-system-of-records",
+   "date": "2026-11-09",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From India: Initiation of Countervailing Duty Investigation",
+   "summary": "",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22836/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-india-initiation-of",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From Georgia and India: Initiation of Less-Than-Fair-Value Investigations",
+   "summary": "",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22835/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-georgia-and-india-initiation-of",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Pecans Grown in the States of Alabama, Arkansas, Arizona, California, Florida, Georgia, Kansas, Louisiana, Missouri, Mississippi, North Carolina, New Mexico, Oklahoma, South Carolina, and Texas; Changes to Membership and Handling Requirements",
+   "summary": "This proposed rule would implement recommendations from the American Pecan Council (Council) to eliminate regional and size designations for sheller members, modify the nomination process for sheller members, adjust the requirements of the inter-handler transfer report form, and establish a late fee and interest…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22826/pecans-grown-in-the-states-of-alabama-arkansas-arizona-california-florida-georgia-kansas-louisiana",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Crystalline Silicon Photovoltaic Cells, Whether or Not Assembled Into Modules From India, Indonesia, and the Lao People's Democratic Republic: Countervailing Duty Orders",
+   "summary": "Based on affirmative final determinations by the U.S. Department of Commerce (Commerce) and U.S. International Trade Commission (ITC), Commerce is issuing countervailing duty (CVD) orders on crystalline silicon photovoltaic cells, whether or not assembled into modules (solar cells) from India, Indonesia, and the Lao…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22824/crystalline-silicon-photovoltaic-cells-whether-or-not-assembled-into-modules-from-india-indonesia",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Pacific Island Fisheries; Commercial Fishing in the Pacific Remote Islands Marine National Monument Expansion",
+   "summary": "NMFS proposes to amend regulations that prohibit commercial fishing in the Pacific Remote Islands Marine National Monument Expansion (PRIMNM Expansion), which comprises waters of the U.S. exclusive economic zone (EEZ) between 50 to 200 nautical miles (nmi; 93 to 370 kilometers (km)) around Johnston Atoll and Wake and…",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22815/pacific-island-fisheries-commercial-fishing-in-the-pacific-remote-islands-marine-national-monument",
+   "date": "2026-11-09",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Application for Authorization To Export Electric Energy; KPT Energy LLC",
+   "summary": "KPT Energy LLC (the Applicant or KPT Energy) has applied for renewed authorization to transmit electric energy from the United States to Canada pursuant to the Federal Power Act.",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22796/application-for-authorization-to-export-electric-energy-kpt-energy-llc",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Extension of the Suspension of Expansion of End-User Controls for Affiliates of Certain Listed Entities",
+   "summary": "The Bureau of Industry and Security (BIS) is extending the suspension of the interim final rule (IFR), \"Expansion of End-User Controls to Cover Affiliates of Certain Listed Entities.\" The suspension was set to end November 9, 2026. This final rule extends the suspension through January 10, 2027.",
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22793/extension-of-the-suspension-of-expansion-of-end-user-controls-for-affiliates-of-certain-listed",
+   "date": "2026-11-09",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
   {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
@@ -1178,20 +1443,6 @@
    "summary_fa": ""
   },
   {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "Correction slip",
-   "summary": "These Regulations, made under sections 51(3), 52(1) and 52(3) of the Immigration, Asylum and Nationality Act 2006, specify fees relating to immigration and nationality. They follow on from the Immigration and Nationality (Fees) Order 2011, which sets out the applications, services and processes related to immigration…",
-   "link": "http://www.legislation.gov.uk/uksi/2011/1055/pdfs/uksics_20111055_en_001.pdf",
-   "date": "2026-11-06",
-   "topics": [
-    "administrative",
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "US Federal Register",
    "region": "us",
    "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots",
@@ -1214,207 +1465,6 @@
    "topics": [
     "labor",
     "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Heightened Requirements for Foreign Importers of Record",
-   "summary": "This document amends the U.S. Customs and Border Protection (CBP) regulations, consistent with Section 2 of Executive Order 14411, \"Strengthening Customs Enforcement,\" by establishing new requirements for foreign importers of record (IORs) when making entry, and corresponding responsibilities for licensed customs…",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22735/heightened-requirements-for-foreign-importers-of-record",
-   "date": "2026-11-06",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V ISLAND VIBEZ",
-   "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is…",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22703/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Request Notice: Use of Foreign-built Small Passenger Vessel in United States Coastwise Trade, M/V NIUHI 2",
-   "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is…",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22702/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv-niuhi",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V JULIANA",
-   "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is…",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22699/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Notice of Adjustment of Minimum Project Worksheet Amount",
-   "summary": "FEMA gives notice that the minimum Project Worksheet Amount under the Public Assistance program for disasters and emergencies declared on or after October 1, 2026, will be increased.",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22697/notice-of-adjustment-of-minimum-project-worksheet-amount",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Notice of Adjustment of Disaster Grant Amounts",
-   "summary": "FEMA gives notice of an adjustment to the threshold for Small Project subgrants made to state, tribal, and local governments and private nonprofit facilities for disasters declared on or after October 1, 2026.",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22696/notice-of-adjustment-of-disaster-grant-amounts",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Notice of Adjustment of Statewide Per Capita Impact Indicator",
-   "summary": "FEMA gives notice that the statewide per capita impact indicator under the Public Assistance program for disasters with an incident start date on or after October 1, 2026, will be increased.",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22694/notice-of-adjustment-of-statewide-per-capita-impact-indicator",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Amendments to the “Small Business” and “Small Organization” Definitions for Investment Companies and Investment Advisers for Purposes of the Regulatory Flexibility Act",
-   "summary": "The Securities and Exchange Commission (the \"Commission\" or the \"SEC\") is amending the definitions of \"small business\" and \"small organization\" (collectively, \"small entities\") that are used in connection with Commission rulemaking under the Investment Company Act of 1940 (the \"Investment Company Act\") and the…",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22741/amendments-to-the-small-business-and-small-organization-definitions-for-investment-companies-and",
-   "date": "2026-11-06",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Specific Listing for 3-Chloromethcathinone, A Currently Controlled Schedule I Substance",
-   "summary": "The Drug Enforcement Administration (DEA) is establishing a specific listing and DEA Controlled Substances Code Number (drug code) for 1-(3-chlorophenyl)-2-(methylamino)propan-1-one (3- chloromethcathinone; 3-CMC) in schedule I of the Controlled Substances Act (CSA). Although 3-chloromethcathinone is not specifically…",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22717/specific-listing-for-3-chloromethcathinone-a-currently-controlled-schedule-i-substance",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "N-Cyclohexylbenzothiazole-2-Sulfenamide From the People's Republic of China: Preliminary Affirmative Determination of Sales at Less Than Fair Value and Preliminary Affirmative Determination of Critical Circumstances",
-   "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that N-Cyclohexylbenzothiazole-2-Sulfenamide (CBS) from the People's Republic of China (China) is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is October 1, 2025, through March…",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22710/n-cyclohexylbenzothiazole-2-sulfenamide-from-the-peoples-republic-of-china-preliminary-affirmative",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Endangered and Threatened Wildlife and Plants; Technical Corrections for 43 Wildlife and Plant Species on the Lists of Endangered and Threatened Wildlife and Plants",
-   "summary": "We, the U.S. Fish and Wildlife Service (Service), announce technical corrections for 43 wildlife and plant species under the Endangered Species Act of 1973, as amended (Act). For 7 wildlife species and 30 plant species that predominately occur in California and Nevada, we are revising the List of Endangered and…",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22682/endangered-and-threatened-wildlife-and-plants-technical-corrections-for-43-wildlife-and-plant",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Online Ordering and Transactions and Food Delivery Revisions To Meet the Needs of a Modern, Data-Driven Program",
-   "summary": "This final rule considers public comments submitted in response to the proposed rule to remove barriers to online ordering and internet-based transactions in the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) published on February 23, 2023. USDA FNA is issuing this regulatory action to…",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22679/special-supplemental-nutrition-program-for-women-infants-and-children-wic-online-ordering-and",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Air Navigation (Restriction of Flying) (Hampstead) Regulations 2026",
-   "summary": "",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1169/made",
-   "date": "2026-11-05",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Registration of Births and Deaths (England and Wales) (Specified Requirements) Regulations 2026",
-   "summary": "Under the Births and Deaths Registration Act 1953, certain people are required to attend the register office to give information about a birth, death or still-birth, and physically sign the register. Section 38B of that Act allows the Minister to specify requirements and to provide that the duty to sign the register…",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1168/made/data.htm",
-   "date": "2026-11-05",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Strategic Planning Authorities (Spatial Development Strategy) Regulations 2026",
-   "summary": "Part 1A of the Planning and Compulsory Purchase Act 2004 (c. 5) (inserted by section 58 of the Planning and Infrastructure Act 2025 (c. 34)) requires strategic planning authorities to prepare a spatial development strategy (“SDS”) for their area. These Regulations make provision as to the procedure to be followed in…",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1162/made/data.htm",
-   "date": "2026-11-05",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Strategic Planning (Consequential and Miscellaneous Amendments) Regulations 2026",
-   "summary": "These Regulations revoke and amend secondary legislation relating to strategic planning.",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1164/made/data.htm",
-   "date": "2026-11-05",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Strategic Planning (Costs of Public Examinations) (Standard Daily Amount) (England) Regulations 2026",
-   "summary": "These Regulations, which apply in relation to England only, apply where the Secretary of State is authorised to recover costs arising in connection with a public examination under section 12I or 12P(6)(a) of the Planning and Compulsory Purchase Act 2004 (c. 5).",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1163/made/data.htm",
-   "date": "2026-11-05",
-   "topics": [
-    "administrative"
    ],
    "title_fa": "",
    "summary_fa": ""
@@ -1466,30 +1516,6 @@
    "topics": [
     "administrative"
    ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Accreditation, Innovation, and Modernization: The Secretary's Recognition of Accrediting Agencies; Institutional Eligibility Under the Higher Education Act of 1965, as Amended; Student Assistance General Provisions",
-   "summary": "The Department revises the existing accrediting agency recognition regulations to implement the directives set forth in Executive Order 14279, Reforming Accreditation to Strengthen Higher Education, and other Administration priorities, align the regulations more closely with statute, and reduce regulatory burden.",
-   "link": "https://www.federalregister.gov/documents/2026/10/30/2026-22174/accreditation-innovation-and-modernization-the-secretarys-recognition-of-accrediting-agencies",
-   "date": "2026-10-30",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Eunice Kennedy Shriver National Institute of Child Health & Human Development; Notice of Meeting",
-   "summary": "",
-   "link": "https://www.federalregister.gov/documents/2026/10/29/2026-22112/eunice-kennedy-shriver-national-institute-of-child-health-and-human-development-notice-of-meeting",
-   "date": "2026-10-29",
-   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   }
