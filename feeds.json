@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T11:59:42Z",
+ "updated": "2026-11-12T13:00:34Z",
  "status": {
   "I·CONnect": {
    "ok": true,
@@ -42,8 +42,8 @@
    "items": 12
   },
   "The Regulatory Review": {
-   "ok": false,
-   "error": "HTTPSConnectionPool(host='www.theregreview.org', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLError(1, '[SSL: SSL"
+   "ok": true,
+   "items": 12
   },
   "Notice & Comment": {
    "ok": true,
@@ -70,9 +70,125 @@
   {
    "source": "I·CONnect",
    "region": "intl",
+   "title": "The Construction and Evolution of Constitutional Identity: Bangladesh in Context",
+   "summary": "—Ragib Mahtab, SJD Candidate, Central European University Introduction The idea that constitutional identity (i.e., certain non-derogable cores of the constitution) requires preservation, was formally institutionalised through the basic structure doctrine... The post The Construction and Evolution of Constitutional…",
+   "link": "https://www.iconnectblog.com/the-construction-and-evolution-of-constitutional-identity-bangladesh-in-context/",
+   "date": "2026-11-12",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Auf Vorrat",
+   "summary": "Die Wirksamkeit vieler Notstandsregelungen knüpft an den Verteidigungs- oder Spannungsfall an. Sie reichen von Vorschriften zur Sicherstellung der Versorgung mit Nahrungsmitteln, Kraftstoff und Transportmitteln bis hin zu Vorgaben des Wehrpflichtgesetzes. Durch weitreichende (Verordnungs-)Ermächtigungen macht das…",
+   "link": "https://verfassungsblog.de/sicherstellungsgesetze-notstand-wehrpflicht/",
+   "date": "2026-11-12",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Der Verteidigungsfall und sein Vorhof",
+   "summary": "Der Ernstfall ist auch verfassungsrechtlich ein Wendepunkt. Das Grundgesetz bezeichnet ihn als „Verteidigungsfall“. Zugleich versieht es ihn mit einem Vorhof rechtlicher Vorstadien, die einzelne seiner Rechtsfolgen bereits zu einem früheren Zeitpunkt vorwegnehmen können: dem Spannungsfall, dem Zustimmungsfall und dem…",
+   "link": "https://verfassungsblog.de/wehrverfassung-verteidigungsfall-ernstfall/",
+   "date": "2026-11-12",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Grenzen setzen in der Entgrenzung",
+   "summary": "Der Cyberraum: Unendliche Weite! Doch diese unendliche Weite des Internets eröffnet zugleich unbegrenzte Möglichkeiten für grenzüberschreitende Cyberangriffe von innen und außen. Vor dem Hintergrund verblassender Orts- und Staatsgrenzen erweist sich die verfassungsrechtliche Trennung zwischen innerer und äußerer…",
+   "link": "https://verfassungsblog.de/cyberabwehr-bka-hybride-angriffe/",
+   "date": "2026-11-12",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "Quand les victimes deviennent des dossiers : le recul de Strasbourg dans l’affaire Lebedeva c. Russie",
+   "summary": "Le 3 septembre 2026, la Cour européenne des droits de l’homme (CEDH) a rendu publique sa décision dans l’affaire Lebedeva et autres c. Russie, adoptée le 7 juillet, par laquelle elle a rayé du rôle 879 requêtes dirigées contre la Russie. Les violations alléguées de la Convention européenne des droits de l’homme…",
+   "link": "https://ohrh.law.ox.ac.uk/quand-les-victimes-deviennent-des-dossiers-le-recul-de-strasbourg-dans-laffaire-lebedeva-c-russie/",
+   "date": "2026-11-12",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Just Security’s Russia–Ukraine War Archive",
+   "summary": "A catalog of over 100 articles (many with Ukrainian translations) on the Russia Ukraine War -- law, diplomacy, policy options, and more. The post Just Security’s Russia–Ukraine War Archive appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/82513/just-securitys-russia-ukraine-war-archive/?utm_source=rss&utm_medium=rss&utm_campaign=just-securitys-russia-ukraine-war-archive",
+   "date": "2026-11-12",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "California’s Effort to Regulate E-Bikes",
+   "summary": "The state recently updated rules restricting high-speed electric bikes. The post California’s Effort to Regulate E-Bikes first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/12/cotton-californias-effort-to-regulate-e-bikes/",
+   "date": "2026-11-12",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Deregulation by the Backdoor",
+   "summary": "Scholars argue that the anti-zoning consensus hides other causes of the affordable housing crisis. The post Deregulation by the Backdoor first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/12/henderson-deregulation-by-the-backdoor/",
+   "date": "2026-11-12",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
    "title": "Putting Power Back: A Reply to Stephen Gardbaum",
    "summary": "—Tarunabh Khaitan, Professor (Chair) of Public Law, LSE Law School; Visiting Professor, Harvard Law School; Honorary Professorial Fellow, Melbourne Law School Stephen Gardbaum has given my chapter, ‘Putting Power Back... The post Putting Power Back: A Reply to Stephen Gardbaum appeared first on www.iconnectblog.com .",
    "link": "https://www.iconnectblog.com/putting-power-back-a-reply-to-stephen-gardbaum/",
+   "date": "2026-11-11",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Ein neues Gesetz für gestern",
+   "summary": "Dass Bewerberinnen oft schlechter bewertet werden als männliche Mitbewerber, ist nichts Neues. Doch inzwischen treffen nicht mehr nur Personalverantwortliche diese Entscheidung, sondern algorithmische Systeme. So sperrte etwa ein Lieferdienst einem Schwarzen Fahrer den Zugang zu seinem Arbeitsaccount, weil die…",
+   "link": "https://verfassungsblog.de/agg-algorithmische-diskriminierung/",
+   "date": "2026-11-11",
+   "topics": [
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "The Delegitimisation of the Arab Vote in Israel",
+   "summary": "Political uncertainty in Israel has intensified following inconclusive election results. Since the election, the political right has sought to delegitimise the unprecedented electoral success of Arab citizens, whose representatives secured 19 of the Knesset’s 120 seats. The right has united behind Netanyahu’s…",
+   "link": "https://verfassungsblog.de/the-delegitimisation-of-the-arab-vote-in-israel/",
    "date": "2026-11-11",
    "topics": [],
    "title_fa": "",
@@ -111,6 +227,132 @@
     "rights",
     "intl"
    ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "This Veterans Day, Honor Service Members’ Character by Restoring Trust in the Institutions They Serve",
+   "summary": "Veterans Day should mark an opportunity for leaders to begin the difficult work of rebuilding trust in U.S. institutions at home and abroad. The post This Veterans Day, Honor Service Members’ Character by Restoring Trust in the Institutions They Serve appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/163904/veterans-day-restore-trust-institutions/?utm_source=rss&utm_medium=rss&utm_campaign=veterans-day-restore-trust-institutions",
+   "date": "2026-11-11",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "What a Democratic Congress is Likely to Do on Foreign Policy",
+   "summary": "What actions the incoming House and Senate majorities may take on the Iran war, tariffs, foreign assistance, and more. The post What a Democratic Congress is Likely to Do on Foreign Policy appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/163835/democratic-congress-likely-do-foreign-policy/?utm_source=rss&utm_medium=rss&utm_campaign=democratic-congress-likely-do-foreign-policy",
+   "date": "2026-11-11",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "An Urgent and Existential Threat: The Climate Crisis Is Also a Rule of Law Emergency",
+   "summary": "Legal frameworks that were not developed to respond to the climate crisis must quickly adapt to solve the justice problems they create. The post An Urgent and Existential Threat: The Climate Crisis Is Also a Rule of Law Emergency appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/163602/climate-crisis-rule-of-law-emergency/?utm_source=rss&utm_medium=rss&utm_campaign=climate-crisis-rule-of-law-emergency",
+   "date": "2026-11-11",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "America’s Civic Renewal Is Here, And Veterans Are Leading It",
+   "summary": "This Veterans Day should remind us that Americans do not have to agree on everything to build something together. The post America’s Civic Renewal Is Here, And Veterans Are Leading It appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/163906/americas-civic-renewal-veterans-leading/?utm_source=rss&utm_medium=rss&utm_campaign=americas-civic-renewal-veterans-leading",
+   "date": "2026-11-11",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Early Edition: November 11, 2026",
+   "summary": "Sign up to receive the Early Edition in your inbox here. A curated weekday guide to major news and developments over the last 24 hours. Here’s today’s news: IRAN WAR U.S. Secretary of State Marco Rubio yesterday said that the Trump administration’s economic pressure campaign against Iran was effective enough that…",
+   "link": "https://www.justsecurity.org/164111/early-edition-november-11-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-11-2026",
+   "date": "2026-11-11",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Just Security’s Israel-Hamas War Archive",
+   "summary": "Just Security's collection of more than 110 articles covering the Israel-Hamas War and its diplomatic, legal, and humanitarian consequences. The post Just Security’s Israel-Hamas War Archive appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/91970/just-securitys-israel-hamas-war-archive/?utm_source=rss&utm_medium=rss&utm_campaign=just-securitys-israel-hamas-war-archive",
+   "date": "2026-11-11",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions",
+   "summary": "A public resource tracking all the legal challenges to the Trump administration's executive orders and actions. The post Litigation Tracker: Legal Challenges to Trump Administration Actions appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=tracker-litigation-legal-challenges-trump-administration",
+   "date": "2026-11-11",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Just Security’s Climate Archive",
+   "summary": "A catalog of articles analyzing the diplomatic, political, legal, security, and humanitarian consequences of the international climate crisis. The post Just Security’s Climate Archive appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/84303/just-securitys-climate-archive/?utm_source=rss&utm_medium=rss&utm_campaign=just-securitys-climate-archive",
+   "date": "2026-11-11",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Just Security’s Artificial Intelligence Archive",
+   "summary": "Just Security's collection of 100+ articles analyzing the implications of AI for society, democracy, human rights, and warfare. The post Just Security’s Artificial Intelligence Archive appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/99958/just-securitys-artificial-intelligence-archive/?utm_source=rss&utm_medium=rss&utm_campaign=just-securitys-artificial-intelligence-archive",
+   "date": "2026-11-11",
+   "topics": [
+    "ai",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Google’s AI Overviews Face Antitrust Scrutiny",
+   "summary": "Scholars argue that Google's use of publisher data to train AI violates U.S. and EU antitrust laws. The post Google’s AI Overviews Face Antitrust Scrutiny first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/11/sinha-googles-ai-overviews-face-antitrust-scrutiny/",
+   "date": "2026-11-11",
+   "topics": [
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Historical Argument and Presidential Removal",
+   "summary": "Scholars argue historical evidence does not support unlimited presidential power to remove federal officers. The post Historical Argument and Presidential Removal first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/11/guerra-historical-argument-and-presidential-removal/",
+   "date": "2026-11-11",
+   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -199,17 +441,6 @@
    "summary_fa": ""
   },
   {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "The Clock That Has Yet to Start Ticking",
-   "summary": "More than fifty years after they were allegedly tortured by the Shah’s secret police, three Iranian men are seeking justice in a Florida courtroom. In a landmark ruling, a US federal court has allowed their claims to proceed, finding that the statute of limitations has yet to begin running. But the case reaches far…",
-   "link": "https://verfassungsblog.de/iran-us-torture-tvpa/",
-   "date": "2026-11-10",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Strasbourg Observers",
    "region": "eu",
    "title": "Withdrawal of treatment on the basis of an advance directive in Medmoune v. France: ‘unreasonable obstinacy’ for a dignified end",
@@ -232,90 +463,11 @@
    "summary_fa": ""
   },
   {
-   "source": "Just Security",
+   "source": "The Regulatory Review",
    "region": "us",
-   "title": "Exclusive: Judge Bars DOJ Attorney from Appearing in Case: “Deliberate Attempt to Mislead the Court”",
-   "summary": "Federal judge accused DOJ attorneys of “prima facie Rule 11 violations,” barred an attorney from future appearances in case, launching review of other DOJ attorneys. The post Exclusive: Judge Bars DOJ Attorney from Appearing in Case: “Deliberate Attempt to Mislead the Court” appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/163989/judge-bars-doj-attorney-thomas-price/?utm_source=rss&utm_medium=rss&utm_campaign=judge-bars-doj-attorney-thomas-price",
-   "date": "2026-11-10",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Getting Serious About Accountability in the United States",
-   "summary": "The fundamental principle that no person is above the law is an American value and a prerequisite to a functioning democracy. The post Getting Serious About Accountability in the United States appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/164034/getting-serious-accountability-united-states/?utm_source=rss&utm_medium=rss&utm_campaign=getting-serious-accountability-united-states",
-   "date": "2026-11-10",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Syria on the Road to Trials of Chemical Weapons Use: Attributing an Attack Does Not Prove Individual Criminal Responsibility",
-   "summary": "Syrian prosecutors should not bring chemical weapons charges against any detainee unless they can identify a specific incident and evidence linking them to it. The post Syria on the Road to Trials of Chemical Weapons Use: Attributing an Attack Does Not Prove Individual Criminal Responsibility appeared first on Just…",
-   "link": "https://www.justsecurity.org/160365/syria-trials-chemical-weapons-use/?utm_source=rss&utm_medium=rss&utm_campaign=syria-trials-chemical-weapons-use",
-   "date": "2026-11-10",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "COP31 and the U.S. Retreat from Global Climate Leadership",
-   "summary": "Expect COP31 to be judged less by its concrete outcomes than by who steps into the space the United States has left behind. The post COP31 and the U.S. Retreat from Global Climate Leadership appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/163811/cop31-us-retreat-global-climate-leadership/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-us-retreat-global-climate-leadership",
-   "date": "2026-11-10",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "The Nord Stream Prosecution: Immunity, Military Objectives, and Superior Orders",
-   "summary": "Top experts examine international legal issues in German efforts to prosecute Ukraine military members for the 2022 Nord Stream sabotage. The post The Nord Stream Prosecution: Immunity, Military Objectives, and Superior Orders appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/163881/germany-ukraine-nord-stream-prosecution/?utm_source=rss&utm_medium=rss&utm_campaign=germany-ukraine-nord-stream-prosecution",
-   "date": "2026-11-10",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Early Edition: November 10, 2026",
-   "summary": "Sign up to receive the Early Edition in your inbox here. A curated weekday guide to major news and developments over the last 24 hours. Here’s today’s news: IRAN WAR President Trump yesterday reiterated that a renewed military campaign against Iran is “quite unlikely,” and “doesn’t seem to be necessary.” Trump’s…",
-   "link": "https://www.justsecurity.org/163937/early-edition-november-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-10-2026",
-   "date": "2026-11-10",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Syria in Transition Series",
-   "summary": "Experts asses accountability, reconciliation, institutional reform, constitutionalism, and more in transitional Syria. The post Syria in Transition Series appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/134688/syria-in-transition-series/?utm_source=rss&utm_medium=rss&utm_campaign=syria-in-transition-series",
-   "date": "2026-11-10",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions",
-   "summary": "A public resource tracking all the legal challenges to the Trump administration's executive orders and actions. The post Litigation Tracker: Legal Challenges to Trump Administration Actions appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=tracker-litigation-legal-challenges-trump-administration",
+   "title": "Brazil’s Bet on Prohibition",
+   "summary": "Brazilian regulators must justify their reversal on gambling policy. The post Brazil’s Bet on Prohibition first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/10/capecchi-amaral-brazils-bet-on-prohibition/",
    "date": "2026-11-10",
    "topics": [],
    "title_fa": "",
@@ -335,52 +487,6 @@
    "summary_fa": ""
   },
   {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "A Renewed Mandate to Do Better",
-   "summary": "On 4 November 2026, ten days after Luiz Inácio Lula da Silva won a fourth presidential term, the Brazilian COP30 Presidency published two roadmaps: one on transitioning away from fossil fuels and one on halting and reversing deforestation by 2030. Brazil had promised them at the close of COP30 in Belém, after efforts…",
-   "link": "https://verfassungsblog.de/a-renewed-mandate-to-do-better/",
-   "date": "2026-11-09",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "MMA Fighters Will Not Restore the Rule of Law",
-   "summary": "On 30 October 2026, Constitutional Tribunal judge, Anna Korwin-Piotrowska, decided to suspend the President and Vice-President of the Constitutional Tribunal. In a recent post on Verfassungsblog, Kim-Lane Scheppele, Laurent Pech and Maciej Kisilowski praised this move as lawful and necessary to restore the rule of…",
-   "link": "https://verfassungsblog.de/mma-fighters-will-not-restore-the-rule-of-law/",
-   "date": "2026-11-09",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Claims to the City",
-   "summary": "I suppose property professors are always on the lookout for unconventional uses of land. My work examines the transformation of various cities under financial capitalism. City governments regulate land to attract real estate investors just as they make governance decisions as if they were financial actors and not…",
-   "link": "https://verfassungsblog.de/claims-to-the-city/",
-   "date": "2026-11-09",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Tech Power’s Violence",
-   "summary": "As the lament swells around democratic crisis and the rise of the right, with populist moped-riders sweeping elections and traditional political parties left “shocked”, attention increasingly turns to the actual processes and spaces of political deliberation and their corrosion through social media and artificial…",
-   "link": "https://verfassungsblog.de/tech-powers-violence/",
-   "date": "2026-11-09",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "UK Constitutional Law Association",
    "region": "uk",
    "title": "Dane Luo: The Church Appointments (Repeal of Discriminatory Provision) Bill 2026 and Constitutional Advice to the Sovereign",
@@ -395,35 +501,11 @@
    "summary_fa": ""
   },
   {
-   "source": "Oxford Human Rights Hub",
-   "region": "other",
-   "title": "Punjab’s Habitual Offenders Bill Undermines The Right to Privacy",
-   "summary": "The Government of Punjab in Pakistan recently introduced the Punjab Control of Habitual Offenders and Anti-Social Behaviour Bill 2026 (‘Bill’) in the Assembly of Punjab. The Bill aims to control and curb a category of ‘anti-social’ activities through punishments such as impounding of passport, blocking of National ID…",
-   "link": "https://ohrh.law.ox.ac.uk/punjabs-habitual-offenders-bill-undermines-the-right-to-privacy/",
-   "date": "2026-11-09",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
+   "source": "The Regulatory Review",
    "region": "us",
-   "title": "Guantanamo Dispatches: Military Judge Accepts First U.S. Navy Officer on Jury in USS Cole Bombing Case",
-   "summary": "The military judge in the USS Cole bombing trial at Guantanamo Bay added the first U.S. Navy officer to the jury. The post Guantanamo Dispatches: Military Judge Accepts First U.S. Navy Officer on Jury in USS Cole Bombing Case appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/163847/judge-accepts-navy-officer-cole-bombing-case/?utm_source=rss&utm_medium=rss&utm_campaign=judge-accepts-navy-officer-cole-bombing-case",
-   "date": "2026-11-09",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Deference, the Insurrection Act, and the Statutory History",
-   "summary": "Any court deciding whether to defer to the president when he invokes the Insurrection Act must engage with the law's statutory history. The post Deference, the Insurrection Act, and the Statutory History appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/163273/deference-insurrection-act-statutory-history/?utm_source=rss&utm_medium=rss&utm_campaign=deference-insurrection-act-statutory-history",
+   "title": "Foresight That Changes Decisions",
+   "summary": "Regulators can use simple foresight methods to test today’s decisions against tomorrow’s conditions. The post Foresight That Changes Decisions first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/09/warner-foresight-that-changes-decisions/",
    "date": "2026-11-09",
    "topics": [],
    "title_fa": "",
@@ -477,6 +559,17 @@
    "summary_fa": ""
   },
   {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "The Costs of Government Efficiency",
+   "summary": "Scholars examine how federal workforce reforms affect government expertise, independence, and effectiveness. The post The Costs of Government Efficiency first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/07/seminar-the-costs-of-government-efficiency/",
+   "date": "2026-11-07",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
    "source": "I·CONnect",
    "region": "intl",
    "title": "Two Extra Hours: Brazil’s Runoff and the Court That Kept the Polls Open",
@@ -502,17 +595,6 @@
    "summary_fa": ""
   },
   {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Symposium on the 10th Anniversary of the Colombian Peace Agreement – Part VIII: The JEP, The Awá People, and the New Forms of Legal Pluralism",
-   "summary": "–Belkis Izquierdo Torres (Aty Seikuinduwa)[1], Magistrate at the Special Jurisdiction for Peace (JEP) with Alexandra Huneeus, Evjue-Bascom Professor of Law, University of Wisconsin-Madison The Colombian armed conflict caused serious,... The post Symposium on the 10th Anniversary of the Colombian Peace Agreement – Part…",
-   "link": "https://www.iconnectblog.com/symposium-on-the-10th-anniversary-of-the-colombian-peace-agreement-part-viii-the-jep-the-awa-people-and-the-new-forms-of-legal-pluralism/",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Strasbourg Observers",
    "region": "eu",
    "title": "Bazhenov and Others v. Russia and Ukraine: Property Rights under Occupation",
@@ -531,6 +613,28 @@
    "title": "How Jury Equity in England and Wales Undermines the Right to a Fair Trial",
    "summary": "The recent contempt proceedings brought by Mr. Justice Johnson against Rajiv Menon KC has drawn attention to the principle of Jury Equity. This principle empowers Jurors to give verdicts ‘according to their conscience’ (Warner, para 16). Mr. Menon has been accused of informing Jurors in a hearing about this power…",
    "link": "https://ohrh.law.ox.ac.uk/how-jury-equity-in-england-and-wales-undermines-the-right-to-a-fair-trial/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Week in Review",
+   "summary": "Democrats win control of the U.S. House and Senate, Montana voters restrict corporate spending, and more... The post Week in Review first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/06/week-in-review-436/",
+   "date": "2026-11-06",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Restoring Land-Use Authority to American Indian Tribes",
+   "summary": "Scholar proposes three future pathways to reverse the erosion of tribal regulatory authority over reservation land use. The post Restoring Land-Use Authority to American Indian Tribes first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/06/botchev-restoring-land-use-authority-to-american-indian-tribes/",
    "date": "2026-11-06",
    "topics": [],
    "title_fa": "",
@@ -573,6 +677,17 @@
    "summary_fa": ""
   },
   {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Borrowing in the Dark",
+   "summary": "Scholars argue that private lending can hide companies from view. The post Borrowing in the Dark first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/05/wang-borrowing-in-the-dark/",
+   "date": "2026-11-05",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
    "source": "UK Constitutional Law Association",
    "region": "uk",
    "title": "Bernard Keenan and Ewan Smith: Proscription, Proportion and Palestine Action – Part 2",
@@ -600,6 +715,17 @@
    "title": "Donald Trump and Grover Cleveland",
    "summary": "Everyone knows that they are the only two Presidents elected to non-consecutive terms. Few know that Venezuela was a significant issue for both in their second terms. But after yesterday's results, Trump and Cleveland may end up sharing something else: realigning the electorate against their party. Cleveland's second…",
    "link": "https://balkin.blogspot.com/2026/11/donald-trump-and-grover-cleveland.html",
+   "date": "2026-11-04",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "The New Pig Butchering",
+   "summary": "Scholar unpacks cryptocurrency scams and recommends regulatory reform. The post The New Pig Butchering first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/04/schuette-the-new-pig-butchering/",
    "date": "2026-11-04",
    "topics": [],
    "title_fa": "",
@@ -646,6 +772,17 @@
    "title": "Thoughts on Progressive Ethnic Politics and El-Sayed",
    "summary": "Contemporary Democrats might benefit from thinking about how Democrats built winning coalitions during the New Deal and Great Society despite significant ethnic differences within progressive movements. Winning Democrats of the time understood that political actors are pulled by ethnic ties, that there is a difference…",
    "link": "https://balkin.blogspot.com/2026/11/thoughts-on-progressive-ethnic-politics.html",
+   "date": "2026-11-03",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "A Proposed FAA Rule Could Reshape Commercial Drone Operations",
+   "summary": "Federal aviation regulators should ensure that new flight standards leave room for small operators. The post A Proposed FAA Rule Could Reshape Commercial Drone Operations first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/03/akram-a-proposed-faa-rule-could-reshape-commercial-drone-operations/",
    "date": "2026-11-03",
    "topics": [],
    "title_fa": "",
@@ -989,127 +1126,48 @@
    ],
    "title_fa": "",
    "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Weekly Round-up: Labour Party conference, ‘one in, one out’ and competing extradition requests",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog In the news…",
-   "link": "https://ukhumanrightsblog.com/2026/10/03/weekly-round-up-labour-party-conference-one-in-one-out-and-competing-extradition-requests/",
-   "date": "2026-10-03",
-   "topics": [
-    "labor",
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Guest Post – Supreme Court: child sentencing legislation compatible with ECHR",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog The UK Human…",
-   "link": "https://ukhumanrightsblog.com/2026/09/23/guest-post-supreme-court-child-sentencing-legislation-compatible-with-echr/",
-   "date": "2026-09-23",
-   "topics": [
-    "constitutional",
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Redacted Rights: When does Article 10 ECHR confer a right to information?",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog A…",
-   "link": "https://ukhumanrightsblog.com/2026/09/21/redacted-rights-when-does-article-10-echr-confer-a-right-to-information/",
-   "date": "2026-09-21",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Law Pod UK latest episode: AI in healthcare",
-   "summary": "On the 10th of September, the National Commission into the Regulation of AI in Healthcare published its blueprint for regulating AI in the health service. It runs to 119 pages and 44 recommendations. This follows the equally hefty Jurisdiction Task Force legal statement on liability for AI harms, which I discussed…",
-   "link": "https://ukhumanrightsblog.com/2026/09/21/law-pod-uk-latest-episode-ai-in-healthcare/",
-   "date": "2026-09-21",
-   "topics": [
-    "administrative",
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "The Weekly Round Up: 80th Anniversary of David Maxwell Fyfe’s Nuremberg Speech, EU Return Hubs, Terrorist Connections, and Retrospective Denial of Parole",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog In the news…",
-   "link": "https://ukhumanrightsblog.com/2026/09/09/the-weekly-round-up-80th-anniversary-of-david-maxwell-fyfes-nuremberg-speech-eu-return-hubs-terrorist-connections-and-retrospective-denial-of-parole/",
-   "date": "2026-09-09",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Falcons: turning and turning in the widening gyre – nuisance and sensitivity",
-   "summary": "Thomas v. Nicholas [2026] EWCA Civ 947 This unusual neighbour dispute may clarify in time the law of nuisance upon which the Court of Appeal was divided. The CA took the unusual step of granting permission to appeal to the Supreme Court on a 2-1 decision. The Nicholas brothers, who breed falcons for the Middle […] The…",
-   "link": "https://ukhumanrightsblog.com/2026/09/01/falcons-turning-and-turning-in-the-widening-gyre-nuisance-and-sensitivity/",
-   "date": "2026-09-01",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Leaky sandboxes and bursting reservoirs",
-   "summary": "Strange are the ways in which AI can escape and do harm; equally strange are the curious mechanisms whereby water can escape and do harm. Water Let’s start in the 19th century with water, and one of the most famous cases of all time, Rylands v. Fletcher. Fletcher owned a mine, Rylands (of The John […] The post Leaky…",
-   "link": "https://ukhumanrightsblog.com/2026/08/28/leaky-sandboxes-and-bursting-reservoirs/",
-   "date": "2026-08-28",
-   "topics": [
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "When can the Home Secretary revive an argument she withdrew below?",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog Secretary of…",
-   "link": "https://ukhumanrightsblog.com/2026/08/21/when-can-the-home-secretary-revive-an-argument-she-withdrew-below/",
-   "date": "2026-08-21",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Notice & Comment",
-   "region": "us",
-   "title": "Untethered: How the Roberts Court is Rethinking the Law-Policy Relationship by Bennett Johnson and Daniel G. Aaron",
-   "summary": "The traditional conception of the judicial role in the U.S. government is to decide “cases” and “controversies” by “say[ing] what the law is.” Yet, an enduring question is to what extent consideration of policy may inform that task. Some might quickly dispose of this issue, as legal scholars have framed policy as a…",
-   "link": "https://www.yalejreg.com/untethered-how-the-roberts-court-is-rethinking-the-law-policy-relationship-by-bennett-johnson-and-daniel-g-aaron/",
-   "date": "2026-04-23",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
   }
  ],
  "laws": [
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Children (Care and Justice) (Scotland) Act 2024 (Commencement No. 4) Regulations 2026",
+   "summary": "These Regulations bring into force various provisions of the Children (Care and Justice) (Scotland) Act 2024 (“the Act”).",
+   "link": "http://www.legislation.gov.uk/ssi/2026/335/made/data.htm",
+   "date": "2026-11-12",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (Commencement No. 3) Regulations 2026",
+   "summary": "These Regulations bring into force certain provisions of the Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (“the Act”).",
+   "link": "http://www.legislation.gov.uk/ssi/2026/334/made/data.htm",
+   "date": "2026-11-12",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Marine Licensing (Exempted Activities and Fees) (Amendment) (No. 2) Regulations 2026",
+   "summary": "These Regulations amend the Marine Licensing (Exempted Activities) Order 2011 (S.I. 2011/409) (“the 2011 Order”) and the Marine Licensing (Application Fees) Regulations 2014 (S.I. 2014/615) (“the Fees Regulations”).",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1180/made/data.htm",
+   "date": "2026-11-12",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
   {
    "source": "US Federal Register",
    "region": "us",
@@ -1303,9 +1361,9 @@
   {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
-   "title": "The Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) (Amendment No. 2) Regulations (Northern Ireland) 2026",
-   "summary": "These Regulations amend the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016 (S.R. 2016 No. 220) so as to make provision for reclaims of universal credit for claimants taking part in a funded employment…",
-   "link": "http://www.legislation.gov.uk/nisr/2026/186/made/data.htm",
+   "title": "The Withdrawal Agreement (Windsor Framework and Governance) (Amendment) Regulations 2026",
+   "summary": "Regulation 2(6) omits section 15C of the European Union (Withdrawal) Act 2018 to allow the United Kingdom co-chair to consent to the Joint Committee adopting decisions or recommendations by written procedure for the period in between meetings, provided for in Rule 9(1) of Annex VIII of the Withdrawal Agreement.",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1186/made/data.htm",
    "date": "2026-11-11",
    "topics": [
     "administrative",
@@ -1317,10 +1375,10 @@
   {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
-   "title": "The Air Navigation (Restriction of Flying) (RAF Mildenhall, Norfolk) (Emergency) Regulations 2026",
-   "summary": "",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1178/made",
-   "date": "2026-11-10",
+   "title": "The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 3) Regulations 2026",
+   "summary": "These Regulations make amendments to the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (“the PLPS Regulations”). The PLPS Regulations govern arrangements, in England, for the provision of pharmaceutical services and local pharmaceutical services under Part 7 of the…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1184/made/data.htm",
+   "date": "2026-11-11",
    "topics": [
     "administrative"
    ],
@@ -1330,78 +1388,12 @@
   {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
-   "title": "The Air Navigation (Restriction of Flying) (RAF Feltwell, Norfolk) (Emergency) Regulations 2026",
-   "summary": "",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1177/made",
-   "date": "2026-11-10",
+   "title": "The Education (Student Loans) (Repayment) (Amendment) (No. 2) Regulations 2026",
+   "summary": "These Regulations amend the Education (Student Loans) (Repayment) Regulations 2009 (S.I. 2009/470) (“the Repayment Regulations”) which make provision for the repayment of income-contingent student loans in England and Wales.",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1175/made/data.htm",
+   "date": "2026-11-11",
    "topics": [
     "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Air Navigation (Restriction of Flying) (RAF Lakenheath, Norfolk) (Emergency) Regulations 2026",
-   "summary": "",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1176/made",
-   "date": "2026-11-10",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Fostering Panels (Establishment and Functions) (Wales) (Amendment and Transitional Provision) Regulations 2026 / Rheoliadau Paneli Maethu (Sefydlu a Swyddogaethau) (Cymru) (Diwygio a Darpariaeth Drosiannol) 2026",
-   "summary": "These Regulations amend the Fostering Panels (Establishment and Functions) (Wales) Regulations 2018 (“the 2018 Regulations”). Mae’r Rheoliadau hyn yn diwygio Rheoliadau Paneli Maethu (Sefydlu a Swyddogaethau) (Cymru) 2018 (“Rheoliadau 2018”).",
-   "link": "http://www.legislation.gov.uk/wsi/2026/135/made/welsh/data.htm",
-   "date": "2026-11-10",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Products of Animal Origin (Disease Control) (Wales) (Amendment) Order 2026 / Gorchymyn Cynhyrchion sy’n Dod o Anifeiliaid (Rheoli Clefydau) (Cymru) (Diwygio) 2026",
-   "summary": "This Order amends the Products of Animal Origin (Disease Control) (Wales) Regulations 2008 (S.I. 2008/1275 (W. 132)) (“the 2008 Regulations”). The definitions of “disease” and “restricted meat” in the 2008 Regulations are updated, and a new Schedule 2 is substituted into the 2008 Regulations to reflect the current…",
-   "link": "http://www.legislation.gov.uk/wsi/2026/134/made/welsh/data.htm",
-   "date": "2026-11-10",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Air Navigation (Restriction of Flying) (Tilbury Docks, Essex) Regulations 2026",
-   "summary": "",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1170/made",
-   "date": "2026-11-10",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "Correction Slip",
-   "summary": "These Regulations are made under the Sanctions and Anti-Money Laundering Act 2018 (c. 13) (“the Sanctions Act”).",
-   "link": "http://www.legislation.gov.uk/uksi/2026/443/pdfs/uksics_20260443_en_001.pdf",
-   "date": "2026-11-10",
-   "topics": [
-    "administrative",
-    "intl"
    ],
    "title_fa": "",
    "summary_fa": ""
@@ -1415,32 +1407,6 @@
    "date": "2026-11-10",
    "topics": [
     "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Air Departure Tax (Scotland) Amendment Regulations 2026",
-   "summary": "These Regulations amend the Air Departure Tax (Scotland) Act 2017 (“the 2017 Act”) to make provision concerning who is a non-chargeable passenger in respect of certain flights which begin or end at an airport in a designated area of Scotland and related consequential amendments to the 2017 Act. In addition, these…",
-   "link": "http://www.legislation.gov.uk/ssi/2026/333/made/data.htm",
-   "date": "2026-11-09",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Registration of Births and Deaths (Amendment) Regulations 2026",
-   "summary": "These Regulations amend the Registration of Births and Deaths Regulations 1987 (S.I. 1987/2088) (“the 1987 Regulations”) and the Registration of Births and Deaths (Welsh Language) Regulations 1987 (S.I. 1987/2089) (“the Welsh Language Regulations”).",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1172/made/data.htm",
-   "date": "2026-11-09",
-   "topics": [
-    "administrative"
    ],
    "title_fa": "",
    "summary_fa": ""
