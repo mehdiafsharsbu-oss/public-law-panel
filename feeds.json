@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-16T12:59:52Z",
+ "updated": "2026-11-17T13:41:45Z",
  "status": {
   "I·CONnect": {
    "ok": true,
-   "items": 0
+   "items": 10
   },
   "IACL-IADC Blog": {
    "ok": false,
@@ -68,6 +68,171 @@
  },
  "articles": [
   {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Resigning to Escape? Paraguay’s Congress Refused Santiago Peña’s Resignation and Impeached Him Anyway",
+   "summary": "—Adwaldo Lins Peixoto Neto, Federal University of Minas Gerais (Brazil) Impeachment is a democratic but turbulent legal and political instrument. Its turbulence usually comes from the legislature: rushed trials, flimsy... The post Resigning to Escape? Paraguay’s Congress Refused Santiago Peña’s Resignation and…",
+   "link": "https://www.iconnectblog.com/resigning-to-escape-paraguays-congress-refused-santiago-penas-resignation-and-impeached-him-anyway/",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Constitutional Autochthony in Bangladesh: Revisiting Professor K. C. Wheare",
+   "summary": "—Oishe Rahman, Lecturer, Department of Law, East West University, Dhaka, Bangladesh The idea of an autochthonous constitution, as the concept has been used by Professor K. C. Wheare, means a... The post Constitutional Autochthony in Bangladesh: Revisiting Professor K. C. Wheare appeared first on www.iconnectblog.com .",
+   "link": "https://www.iconnectblog.com/constitutional-autochthony-in-bangladesh-revisiting-professor-k-c-wheare/",
+   "date": "2026-11-17",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Das Trennungsgebot zwischen Misstrauensspiralen und kämpferischer Demokratie",
+   "summary": "Der Bundestag hat das Gesetz zur Reform des Nachrichtendienstrechts verabschiedet, das im Vorfeld das vertraute Debattenmuster „Sicherheit gegen Freiheit“ getriggert hatte. Soweit es den Verfassungsschutz betrifft, geht die Kontroverse um das Trennungsgebot, das nachrichtendienstliche Beobachtung und polizeiliche…",
+   "link": "https://verfassungsblog.de/verfassungsschutz-geheimdienstreform-trennungsgebot/",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Delisted in Brussels, Sanctioned in Tallinn",
+   "summary": "The Council of the European Union removed Russian businessmen Mikhail Fridman and Alisher Usmanov from its sanctions list. However, that same day, Latvia imposed national financial sanctions against Fridman and corresponding measures against Usmanov. Estonia followed on 23 September. The national sanctions raise a…",
+   "link": "https://verfassungsblog.de/delisted-in-brussels-sanctioned-in-tallinn/",
+   "date": "2026-11-17",
+   "topics": [
+    "labor",
+    "intl"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Hauptsache bündnisfähig",
+   "summary": "Die Bündnisfähigkeit Deutschlands ist zu einem neuen, zentralen Verfassungsgut in der Rechtsprechung des Bundesverfassungsgerichts geworden. Deutlich wird das in einem Beschluss des Gerichts vom 3. Februar 2026. Ausgangspunkt für diesen Beschluss war die Verfassungsbeschwerde von Abed J., einem in Gaza lebenden…",
+   "link": "https://verfassungsblog.de/bundnisfahigkeit-bverfg-rustungsexporte/",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Die Bundeswehr in der Straße von Hormus",
+   "summary": "Seit der „Zeitenwende“ erhalten die grundgesetzlichen Bestimmungen zur Landesverteidigung zu Recht wieder mehr Aufmerksamkeit. Das heißt freilich nicht, dass die Dringlichkeit der Diskussion um den rechtlichen Rahmen von Auslandseinsätzen der Bundeswehr abgenommen hat. Wie der angedachte Einsatz von Minensuchbooten in…",
+   "link": "https://verfassungsblog.de/bundeswehr-auslandseinsatze-strase-von-hormus/",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Die Grenzen der Automatisierung im Krieg",
+   "summary": "Die Bundeswehr will zukünftig mit autonomen Fähigkeiten ausgestattete Waffensysteme einsetzen. Der Einsatz künstlicher Intelligenz in Waffensystemen wirft grundlegende, bislang ungeklärte Fragen auf. Völkerrechtlich scheiterten die Staaten sowohl daran, vollautonome Waffen zu verbieten, als auch eine Konvention zur…",
+   "link": "https://verfassungsblog.de/krieg-ki-automatisierung/",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "Caribbean High Court Declares Colonial-Era Criminal Abortion Law A Violation of Women’s Rights",
+   "summary": "In July 2026, the High Court in Dominica delivered a long overdue victory for women and girls in the Commonwealth Caribbean. In AB and Geoffrey Lafond v the Commonwealth of Dominica, the court found the country’s colonial-era abortion laws violated women’s and girl’s rights to security of the person, liberty,…",
+   "link": "https://ohrh.law.ox.ac.uk/caribbean-high-court-declares-colonial-era-criminal-abortion-law-a-violation-of-womens-rights/",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Early Edition: November 17, 2026",
+   "summary": "Sign up to receive the Early Edition in your inbox here. A curated weekday guide to major news and developments over the last 24 hours. Here’s today’s news: IRAN WAR Iran today fired drones at a U.S. military radar system in Bahrain. Iran’s Islamic Revolutionary Guards Corps said the radar system it attacked was at…",
+   "link": "https://www.justsecurity.org/164914/early-edition-november-17-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-17-2026",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Making Better Rules by Encouraging Discussions Between Agencies",
+   "summary": "ACUS recommends early dialogue and flexible communication practices to improve interagency input in rulemaking. The post Making Better Rules by Encouraging Discussions Between Agencies first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/17/carrigan-cline-making-better-rules-by-encouraging-discussions-between-agencies/",
+   "date": "2026-11-17",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Improving Federal Coordination and Accountability",
+   "summary": "ACUS recommends best practices for interagency coordination, regulatory explanations, and benefits payments. The post Improving Federal Coordination and Accountability first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/17/series-improving-federal-coordination-and-accountability/",
+   "date": "2026-11-17",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Restoration by Borrowed Powers? European Law and the Suspension of Poland’s Constitutional Tribunal Leadership",
+   "summary": "—Fruela Río Santos, Professor of Constitutional Law, University of Oviedo On the evening of 30 October 2026, a judge who had been kept out of Poland’s Constitutional Tribunal since her... The post Restoration by Borrowed Powers? European Law and the Suspension of Poland’s Constitutional Tribunal Leadership appeared…",
+   "link": "https://www.iconnectblog.com/restoration-by-borrowed-powers-european-law-and-the-suspension-of-polands-constitutional-tribunal-leadership/",
+   "date": "2026-11-16",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "What’s New: Week of November 16",
+   "summary": "—Sumit Kumar Ganguly, Assistant Professor, The Neotia University, Diamond Harbour, India. In this weekly feature, I-CONnect publishes a curated reading list of developments in public law. “Developments” may include a... The post What’s New: Week of November 16 appeared first on www.iconnectblog.com .",
+   "link": "https://www.iconnectblog.com/whats-new-week-of-november-16/",
+   "date": "2026-11-16",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Anything goes in der „Zeitenwende“?",
+   "summary": "Die grundlegende Reform des Nachrichtendienstrechts hat nach kontroverser Debatte den Bundestag passiert. Wir widmen uns den im Entwurf angelegten neuen KI-Befugnissen der Nachrichtendienste. Im Kern zeigt sich, dass der Gesetzentwurf die unter dem Stichwort „Zeitenwende“ verhandelte gefühlte Dringlichkeit als eine…",
+   "link": "https://verfassungsblog.de/geheimdienstreform-zeitenwende-ki-befugnisse/",
+   "date": "2026-11-16",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
    "source": "Verfassungsblog",
    "region": "eu",
    "title": "Poland’s Captured Judiciary and the Challenges of Repair",
@@ -125,14 +290,121 @@
    "summary_fa": ""
   },
   {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Guantanamo Dispatches: First Marine Added, Space Force Officer Excused from USS Cole Jury",
+   "summary": "The latest from Carol Rosenberg as the jury forms for first Guantanamo military commission trial. The post Guantanamo Dispatches: First Marine Added, Space Force Officer Excused from USS Cole Jury appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/164854/first-marine-uss-cole-jury/?utm_source=rss&utm_medium=rss&utm_campaign=first-marine-uss-cole-jury",
+   "date": "2026-11-16",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "On the Gaiser Nomination",
+   "summary": "T. Elliot Gaiser has been the Trump administration's \"legal architect\" justifying the Iran war campaign of boat strikes. The post On the Gaiser Nomination appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/164725/gaiser-nomination/?utm_source=rss&utm_medium=rss&utm_campaign=gaiser-nomination",
+   "date": "2026-11-16",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Inspector General Report Shows State Department’s Unlawful “Israel Exception” to the Leahy Law",
+   "summary": "The report sheds additional light on the Department’s failure to comply with the law with regard to U.S. security assistance to Israel. The post Inspector General Report Shows State Department’s Unlawful “Israel Exception” to the Leahy Law appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/164505/state-department-israel-leahy-laws/?utm_source=rss&utm_medium=rss&utm_campaign=state-department-israel-leahy-laws",
+   "date": "2026-11-16",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Chasing Yalta: Putin Reverts to Goal of Dividing Europe, as U.S. Appears to Open Door",
+   "summary": "Russia emerges from a flurry of meetings in a stronger position, extracting U.S. agreement to consider the \"European security order,\" Kremlin code for \"spheres of influence.\" The post Chasing Yalta: Putin Reverts to Goal of Dividing Europe, as U.S. Appears to Open Door appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/164424/putin-goal-dividing-europe-us-open-door/?utm_source=rss&utm_medium=rss&utm_campaign=putin-goal-dividing-europe-us-open-door",
+   "date": "2026-11-16",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Early Edition: November 16, 2026",
+   "summary": "Sign up to receive the Early Edition in your inbox here. A curated weekday guide to major news and developments over the weekend. Here’s today’s news: IRAN WAR Bahrain’s Defense Ministry yesterday said the country’s armed forces intercepted several “Iranian aerial threats.” Iran’s Islamic Revolutionary Guard Corps…",
+   "link": "https://www.justsecurity.org/164727/early-edition-november-16-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-16-2026",
+   "date": "2026-11-16",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
    "source": "The Regulatory Review",
    "region": "us",
    "title": "Beyond ESG",
-   "summary": "To save our planet, we must learn from the failures of ESG to devise stronger regulations. The post Beyond ESG first appeared on The Regulatory Review .",
+   "summary": "To save our planet, we must learn from the failures of ESG and devise stronger regulations. The post Beyond ESG first appeared on The Regulatory Review .",
    "link": "https://www.theregreview.org/2026/11/16/orts-beyond-esg/",
    "date": "2026-11-16",
    "topics": [
     "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Inclusive Voting Practices in Brazil",
+   "summary": "—Antonio Moreira Maués, Professor of Constitutional Law, Federal University of Pará The second round of the 2026 Brazilian presidential election was marked by Lula’s surprising victory. No presidential candidate trailing... The post Inclusive Voting Practices in Brazil appeared first on www.iconnectblog.com .",
+   "link": "https://www.iconnectblog.com/inclusive-voting-practices-in-brazil/",
+   "date": "2026-11-15",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "The Costs of Climate Adaptation: What New York’s Climate Superfund Litigation Reveals About State Power",
+   "summary": "–Marco Solazzo, PhD Candidate in Law, University of Insubria, specializing in comparative public law and climate governance Climate change raises questions that go well beyond reducing emissions. Alongside mitigation, another... The post The Costs of Climate Adaptation: What New York’s Climate Superfund Litigation…",
+   "link": "https://www.iconnectblog.com/the-costs-of-climate-adaptation-what-new-yorks-climate-superfund-litigation-reveals-about-state-power/",
+   "date": "2026-11-15",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "A Case of Metropolis? The Position of AI within Future Austrian Administrative Law and Procedures",
+   "summary": "–Dimitrios Parashu’, Associate Professor (Privatdozent), Faculty of Law, Gottfried Wilhelm Leibniz University of Hannover Fritz Lang’s movie Metropolis will celebrate its 100th anniversary in early 2027. The plot centers on... The post A Case of Metropolis? The Position of AI within Future Austrian Administrative Law…",
+   "link": "https://www.iconnectblog.com/a-case-of-metropolis-the-position-of-ai-within-future-austrian-administrative-law-and-procedures/",
+   "date": "2026-11-14",
+   "topics": [
+    "administrative",
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "The Battle for the Constitutional Court in Poland",
+   "summary": "–Zuzanna Nowicka, PhD candidate, Doctoral School of Social Sciences, Jagiellonian University; Head of the Freedom of Speech Programme, Helsinki Foundation of Human Rights The Script October 30 was one of... The post The Battle for the Constitutional Court in Poland appeared first on www.iconnectblog.com .",
+   "link": "https://www.iconnectblog.com/the-battle-for-the-constitutional-court-in-poland/",
+   "date": "2026-11-14",
+   "topics": [
+    "constitutional",
+    "rights"
    ],
    "title_fa": "",
    "summary_fa": ""
@@ -171,22 +443,24 @@
    "summary_fa": ""
   },
   {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "„Eine Rückkehr zur Autokratie ist schlicht inakzeptabel“",
-   "summary": "Am 3. Dezember 2024 verhängte Präsident Yoon Suk Yeol das Kriegsrecht und befahl Militär und Polizei, die Nationalversammlung zu besetzen. Er wollte verhindern, dass das Parlament seine Erklärung aufhebt – ohne Erfolg. Zwei Tage später begannen die koreanische Verfassungsrechtslehr:innen, sich zu organisieren. Am 25.…",
-   "link": "https://verfassungsblog.de/korea-scholactivism/",
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "From International Obligations to Judicial Action: The Courage and Risks of Restoring Poland’s Constitutional Tribunal",
+   "summary": "—Adam Bodnar, Professor of Law, SWPS University in Warsaw [Editor’s Note: This is one of our ICONnect columns. For more information on our 2026 columnists, see here.] Recent events in... The post From International Obligations to Judicial Action: The Courage and Risks of Restoring Poland’s Constitutional Tribunal…",
+   "link": "https://www.iconnectblog.com/from-international-obligations-to-judicial-action-the-courage-and-risks-of-restoring-polands-constitutional-tribunal/",
    "date": "2026-11-13",
-   "topics": [],
+   "topics": [
+    "constitutional"
+   ],
    "title_fa": "",
    "summary_fa": ""
   },
   {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "“Going Back to Authoritarianism is Simply Unacceptable”",
-   "summary": "For Korean democracy, the winter of 2024 was a decisive time. On 3 December, the Korean President Yoon Suk Yeol declared martial law and ordered the military and police to seize control of the National Assembly. He tried in vain to prevent parliament from lifting his declaration. Two days later, constitutional…",
-   "link": "https://verfassungsblog.de/k-scholactivism/",
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "The Abuja Misdirection: How the Federal High Court Misread the Constitution in Joe Kyari Gadzama, SAN v. The Body of Benchers & Ors.",
+   "summary": "–Prince Amadi, Doctoral Researcher, Law Department, European University Institute, Florence, Italy; Visiting Researcher, Faculty of Law, University of Zurich, Switzerland Since Nigeria’s return to democracy in 1999, a hallmark of... The post The Abuja Misdirection: How the Federal High Court Misread the Constitution…",
+   "link": "https://www.iconnectblog.com/the-abuja-misdirection-how-the-federal-high-court-misread-the-constitution-in-joe-kyari-gadzama-san-v-the-body-of-benchers-ors/",
    "date": "2026-11-13",
    "topics": [
     "constitutional"
@@ -197,9 +471,9 @@
   {
    "source": "Verfassungsblog",
    "region": "eu",
-   "title": "Die Freiheit, sich zu verpflichten",
-   "summary": "Will ein Truppenführer den Verlauf eines Gefechts ändern, greift er auf seine Reserve zurück. Mit dem Reservestärkungsgesetz will die Bundesregierung eine einsatzfähige Reserve auf strategischer Ebene schaffen. Dafür sollen Reservisten auch ohne freiwillige Meldung zu Reservedienstleistungen einberufen werden können.…",
-   "link": "https://verfassungsblog.de/reserve-bundeswehr-starkung/",
+   "title": "„Eine Rückkehr zur Autokratie ist schlicht inakzeptabel“",
+   "summary": "Am 3. Dezember 2024 verhängte Präsident Yoon Suk Yeol das Kriegsrecht und befahl Militär und Polizei, die Nationalversammlung zu besetzen. Er wollte verhindern, dass das Parlament seine Erklärung aufhebt – ohne Erfolg. Zwei Tage später begannen die koreanische Verfassungsrechtslehr:innen, sich zu organisieren. Am 25.…",
+   "link": "https://verfassungsblog.de/korea-scholactivism/",
    "date": "2026-11-13",
    "topics": [],
    "title_fa": "",
@@ -267,50 +541,6 @@
    "summary_fa": ""
   },
   {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Breaking the Cycle of Corruption: Congress Needs to Show Historic Leadership on Accountability",
-   "summary": "To put the country on a path toward democratic renewal, Congress must prioritize genuine accountability for executive branch abuses. The post Breaking the Cycle of Corruption: Congress Needs to Show Historic Leadership on Accountability appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/163908/breaking-cycle-corruption-congress-accountability/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-cycle-corruption-congress-accountability",
-   "date": "2026-11-13",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Early Edition: November 13, 2026",
-   "summary": "Sign up to receive the Early Edition in your inbox here. A curated weekday guide to major news and developments over the last 24 hours. Here’s today’s news: IRAN WAR President Trump on social media yesterday said he has pulled Vice President JD Vance from engaging in potential peace talks with Iran to focus instead on…",
-   "link": "https://www.justsecurity.org/164357/early-edition-november-13-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-13-2026",
-   "date": "2026-11-13",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions",
-   "summary": "A public resource tracking all the legal challenges to the Trump administration's executive orders and actions. The post Litigation Tracker: Legal Challenges to Trump Administration Actions appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=tracker-litigation-legal-challenges-trump-administration",
-   "date": "2026-11-13",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Welcome to Just Security’s Reinvention Blueprints",
-   "summary": "Just Security's Reinvention Blueprints series features expert proposals to rebuild U.S. government institutions so they serve the public and meet today's challenges. The post Welcome to <i>Just Security</i>’s Reinvention Blueprints appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/147423/just-security-reinvention-blueprints-series/?utm_source=rss&utm_medium=rss&utm_campaign=just-security-reinvention-blueprints-series",
-   "date": "2026-11-13",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Balkinization",
    "region": "us",
    "title": "Using Advisory Opinions (Not the Podcast)",
@@ -335,79 +565,11 @@
    "summary_fa": ""
   },
   {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Preparing for an ICC Crisis",
-   "summary": "The United States’ sanctions against the International Criminal Court threaten to paralyze the core institution of international criminal justice. If the worst-case scenario became reality, could ICC States Parties fill the enforcement gap? Asian States Parties have so far largely refrained from prosecuting…",
-   "link": "https://verfassungsblog.de/icc-sanctions-asia/",
-   "date": "2026-11-12",
-   "topics": [
-    "intl"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "So etwas tut ein Rechtsstaat nicht",
-   "summary": "Der Bundestag wird aller Voraussicht nach am 13. November 2026 das Gesetz zur Reform des Nachrichtendienstrechts verabschieden. Dieses Gesetz soll die Rechtsgrundlagen des BND und des Bundesamts für Verfassungsschutz grundlegend novellieren. In einem Punkt geht der Gesetzentwurf jedoch über den sicherheitsrechtlichen…",
-   "link": "https://verfassungsblog.de/geheimdienstreform-rechtsstaat-schutzmassnahmen/",
-   "date": "2026-11-12",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Auf Vorrat",
-   "summary": "Die Wirksamkeit vieler Notstandsregelungen knüpft an den Verteidigungs- oder Spannungsfall an. Sie reichen von Vorschriften zur Sicherstellung der Versorgung mit Nahrungsmitteln, Kraftstoff und Transportmitteln bis hin zu Vorgaben des Wehrpflichtgesetzes. Durch weitreichende (Verordnungs-)Ermächtigungen macht das…",
-   "link": "https://verfassungsblog.de/sicherstellungsgesetze-notstand-wehrpflicht/",
-   "date": "2026-11-12",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Der Verteidigungsfall und sein Vorhof",
-   "summary": "Der Ernstfall ist auch verfassungsrechtlich ein Wendepunkt. Das Grundgesetz bezeichnet ihn als „Verteidigungsfall“. Zugleich versieht es ihn mit einem Vorhof rechtlicher Vorstadien, die einzelne seiner Rechtsfolgen bereits zu einem früheren Zeitpunkt vorwegnehmen können: dem Spannungsfall, dem Zustimmungsfall und dem…",
-   "link": "https://verfassungsblog.de/wehrverfassung-verteidigungsfall-ernstfall/",
-   "date": "2026-11-12",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Oxford Human Rights Hub",
    "region": "other",
    "title": "Quand les victimes deviennent des dossiers : le recul de Strasbourg dans l’affaire Lebedeva c. Russie",
    "summary": "Le 3 septembre 2026, la Cour européenne des droits de l’homme (CEDH) a rendu publique sa décision dans l’affaire Lebedeva et autres c. Russie, adoptée le 7 juillet, par laquelle elle a rayé du rôle 879 requêtes dirigées contre la Russie. Les violations alléguées de la Convention européenne des droits de l’homme…",
    "link": "https://ohrh.law.ox.ac.uk/quand-les-victimes-deviennent-des-dossiers-le-recul-de-strasbourg-dans-laffaire-lebedeva-c-russie/",
-   "date": "2026-11-12",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Just the Docs: UK Leads 53 Signatories Calling on Israel’s Government to Expand Gaza Aid",
-   "summary": "Statement: 53 countries and organizations urge Israel’s incoming government to allow rapid, unimpeded humanitarian access throughout Gaza. The post Just the Docs: UK Leads 53 Signatories Calling on Israel’s Government to Expand Gaza Aid appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/164307/gaza-call-to-action-joint-statement-humanitarian-access/?utm_source=rss&utm_medium=rss&utm_campaign=gaza-call-to-action-joint-statement-humanitarian-access",
-   "date": "2026-11-12",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Just the Docs: Rep. Massie Forces House Vote on Eight Articles of Impeachment Against Defense Secretary Hegseth",
-   "summary": "Resolution: Rep. Massie Introduces Eight Articles of Impeachment Against Defense Secretary Hegseth. The post Just the Docs: Rep. Massie Forces House Vote on Eight Articles of Impeachment Against Defense Secretary Hegseth appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/164302/massie-articles-impeachment-hegseth/?utm_source=rss&utm_medium=rss&utm_campaign=massie-articles-impeachment-hegseth",
    "date": "2026-11-12",
    "topics": [],
    "title_fa": "",
@@ -591,28 +753,6 @@
    "summary_fa": ""
   },
   {
-   "source": "The Regulatory Review",
-   "region": "us",
-   "title": "Week in Review",
-   "summary": "Democrats win control of the U.S. House and Senate, Montana voters restrict corporate spending, and more... The post Week in Review first appeared on The Regulatory Review .",
-   "link": "https://www.theregreview.org/2026/11/06/week-in-review-436/",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "The Regulatory Review",
-   "region": "us",
-   "title": "Restoring Land-Use Authority to American Indian Tribes",
-   "summary": "Scholar proposes three future pathways to reverse the erosion of tribal regulatory authority over reservation land use. The post Restoring Land-Use Authority to American Indian Tribes first appeared on The Regulatory Review .",
-   "link": "https://www.theregreview.org/2026/11/06/botchev-restoring-land-use-authority-to-american-indian-tribes/",
-   "date": "2026-11-06",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "UK Constitutional Law Association",
    "region": "uk",
    "title": "Elena De Nictolis and Thomas Poole: Fiscal Capacity without Fiscal Autonomy: Regional and Local Fiscal Devolution in the Autumn Budget",
@@ -689,17 +829,6 @@
    "title": "Cuando la prisión preventiva se convierte en castigo: la advertencia de la Corte Interamericana a Ecuador: Reyes Mantilla y otros vs. Ecuador",
    "summary": "La prisión preventiva tiene por objeto garantizar el desarrollo del proceso penal, no anticipar su resultado. Sin embargo, cuando la gravedad de una acusación basta para justificar el encarcelamiento de una persona, la detención corre el riesgo de convertirse en un castigo impuesto antes de que se dicte una condena.…",
    "link": "https://ohrh.law.ox.ac.uk/cuando-la-prision-preventiva-se-convierte-en-castigo-la-advertencia-de-la-corte-interamericana-a-ecuador-reyes-mantilla-y-otros-vs-ecuador/",
-   "date": "2026-11-03",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Oxford Human Rights Hub",
-   "region": "other",
-   "title": "When Pre-Trial Detention Becomes Punishment: The Inter-American Court’s Warning to Ecuador in Reyes Mantilla et al. v. Ecuador",
-   "summary": "Pre-trial detention is intended to secure criminal proceedings, not to anticipate their outcome. Yet when the seriousness of an accusation becomes sufficient reason to imprison a suspect, detention risks becoming punishment before a conviction which justifies it. In Reyes Mantilla et al. v. Ecuador, the Inter-American…",
-   "link": "https://ohrh.law.ox.ac.uk/when-pre-trial-detention-becomes-punishment-the-inter-american-courts-warning-to-ecuador-in-reyes-mantilla-et-al-v-ecuador/",
    "date": "2026-11-03",
    "topics": [],
    "title_fa": "",
@@ -1008,134 +1137,16 @@
    ],
    "title_fa": "",
    "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Weekly Round-up: Labour Party conference, ‘one in, one out’ and competing extradition requests",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog In the news…",
-   "link": "https://ukhumanrightsblog.com/2026/10/03/weekly-round-up-labour-party-conference-one-in-one-out-and-competing-extradition-requests/",
-   "date": "2026-10-03",
-   "topics": [
-    "labor",
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Guest Post – Supreme Court: child sentencing legislation compatible with ECHR",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog The UK Human…",
-   "link": "https://ukhumanrightsblog.com/2026/09/23/guest-post-supreme-court-child-sentencing-legislation-compatible-with-echr/",
-   "date": "2026-09-23",
-   "topics": [
-    "constitutional",
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Redacted Rights: When does Article 10 ECHR confer a right to information?",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog A…",
-   "link": "https://ukhumanrightsblog.com/2026/09/21/redacted-rights-when-does-article-10-echr-confer-a-right-to-information/",
-   "date": "2026-09-21",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Law Pod UK latest episode: AI in healthcare",
-   "summary": "On the 10th of September, the National Commission into the Regulation of AI in Healthcare published its blueprint for regulating AI in the health service. It runs to 119 pages and 44 recommendations. This follows the equally hefty Jurisdiction Task Force legal statement on liability for AI harms, which I discussed…",
-   "link": "https://ukhumanrightsblog.com/2026/09/21/law-pod-uk-latest-episode-ai-in-healthcare/",
-   "date": "2026-09-21",
-   "topics": [
-    "administrative",
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "The Weekly Round Up: 80th Anniversary of David Maxwell Fyfe’s Nuremberg Speech, EU Return Hubs, Terrorist Connections, and Retrospective Denial of Parole",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog In the news…",
-   "link": "https://ukhumanrightsblog.com/2026/09/09/the-weekly-round-up-80th-anniversary-of-david-maxwell-fyfes-nuremberg-speech-eu-return-hubs-terrorist-connections-and-retrospective-denial-of-parole/",
-   "date": "2026-09-09",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Falcons: turning and turning in the widening gyre – nuisance and sensitivity",
-   "summary": "Thomas v. Nicholas [2026] EWCA Civ 947 This unusual neighbour dispute may clarify in time the law of nuisance upon which the Court of Appeal was divided. The CA took the unusual step of granting permission to appeal to the Supreme Court on a 2-1 decision. The Nicholas brothers, who breed falcons for the Middle […] The…",
-   "link": "https://ukhumanrightsblog.com/2026/09/01/falcons-turning-and-turning-in-the-widening-gyre-nuisance-and-sensitivity/",
-   "date": "2026-09-01",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Leaky sandboxes and bursting reservoirs",
-   "summary": "Strange are the ways in which AI can escape and do harm; equally strange are the curious mechanisms whereby water can escape and do harm. Water Let’s start in the 19th century with water, and one of the most famous cases of all time, Rylands v. Fletcher. Fletcher owned a mine, Rylands (of The John […] The post Leaky…",
-   "link": "https://ukhumanrightsblog.com/2026/08/28/leaky-sandboxes-and-bursting-reservoirs/",
-   "date": "2026-08-28",
-   "topics": [
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "When can the Home Secretary revive an argument she withdrew below?",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog Secretary of…",
-   "link": "https://ukhumanrightsblog.com/2026/08/21/when-can-the-home-secretary-revive-an-argument-she-withdrew-below/",
-   "date": "2026-08-21",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Notice & Comment",
-   "region": "us",
-   "title": "Untethered: How the Roberts Court is Rethinking the Law-Policy Relationship by Bennett Johnson and Daniel G. Aaron",
-   "summary": "The traditional conception of the judicial role in the U.S. government is to decide “cases” and “controversies” by “say[ing] what the law is.” Yet, an enduring question is to what extent consideration of policy may inform that task. Some might quickly dispose of this issue, as legal scholars have framed policy as a…",
-   "link": "https://www.yalejreg.com/untethered-how-the-roberts-court-is-rethinking-the-law-policy-relationship-by-bennett-johnson-and-daniel-g-aaron/",
-   "date": "2026-04-23",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
   }
  ],
  "laws": [
   {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
-   "title": "The Air Navigation (Restriction of Flying) (Preston, Lancashire) Regulations 2026",
-   "summary": "",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1173/made",
-   "date": "2026-11-16",
+   "title": "The Critical Third Parties (Designation) (Amendment) Regulations 2026",
+   "summary": "These Regulations designate BlackRock Financial Management, Inc., Bloomberg L.P., Bottomline Technologies Limited, Broadridge Financial Solutions Limited and Form3 UK Limited as critical third parties. The Regulations amend the Critical Third Parties (Designation) Regulations 2026 (S.I. 2026/777) to add the entities…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1203/made/data.htm",
+   "date": "2026-11-17",
    "topics": [
     "administrative"
    ],
@@ -1143,142 +1154,25 @@
    "summary_fa": ""
   },
   {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Claim Adjudication Process for the Alleged Presence of Pneumoconiosis",
-   "summary": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23298/agency-information-collection-activities-submission-for-omb-review-comment-request-claim",
-   "date": "2026-11-16",
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Human Rights Act 1998 (Remedial) Order 2026",
+   "summary": "This Order amends the Human Rights Act 1998 (“the HRA”) to address a finding of the European Court of Human Rights of a breach of Article 13 of the European Convention on Human Rights (“the Convention”) in the case of S.W. v United Kingdom (Application no. 87/18).",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1205/made/data.htm",
+   "date": "2026-11-17",
    "topics": [
-    "administrative",
-    "labor"
+    "rights"
    ],
    "title_fa": "",
    "summary_fa": ""
   },
   {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Application for Continuation of Death Benefit for Student",
-   "summary": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23297/agency-information-collection-activities-submission-for-omb-review-comment-request-application-for",
-   "date": "2026-11-16",
-   "topics": [
-    "administrative",
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Administration of the Longshore and Harbor Workers' Compensation Act",
-   "summary": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23296/agency-information-collection-activities-submission-for-omb-review-comment-request-administration-of",
-   "date": "2026-11-16",
-   "topics": [
-    "administrative",
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Request for Information on Earnings, Dual Benefits, Dependents, and Third Party Settlements",
-   "summary": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23295/agency-information-collection-activities-submission-for-omb-review-comment-request-request-for",
-   "date": "2026-11-16",
-   "topics": [
-    "administrative",
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Proposed Revision of Information Collection; Certification of Medical Necessity",
-   "summary": "The Department of Labor (DOL) is soliciting comments concerning a proposed extension for the authority to conduct the information collection request (ICR) titled, \"Certificate of Medical Necessity\". This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance…",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23294/proposed-revision-of-information-collection-certification-of-medical-necessity",
-   "date": "2026-11-16",
-   "topics": [
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Agency Information Collection Activities; Comment Request; Quarterly Narrative Progress Report, Employment and Training Supplemental Budget Request Activities",
-   "summary": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Quarterly Narrative Progress Report, Employment and Training Supplemental Budget Request Activities.\" This…",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23293/agency-information-collection-activities-comment-request-quarterly-narrative-progress-report",
-   "date": "2026-11-16",
-   "topics": [
-    "administrative",
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Agency Information Collection Activities; Comment Request; Workforce Innovation and Opportunity Act Joint Quarterly Narrative Report",
-   "summary": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Workforce Innovation and Opportunity Act Joint Quarterly Narrative Report.\" This comment request is part of…",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23292/agency-information-collection-activities-comment-request-workforce-innovation-and-opportunity-act",
-   "date": "2026-11-16",
-   "topics": [
-    "administrative",
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Restoring Flexibility To Support Head Start Program Access",
-   "summary": "In this final rule, the Administration for Children and Families (ACF) removes requirements from the Head Start Program Performance Standards (Performance Standards) to restore local flexibility to Head Start programs and improve access to quality services. Specifically, this final rule removes requirements related to…",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23279/restoring-flexibility-to-support-head-start-program-access",
-   "date": "2026-11-16",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Certain Railway Tank Cars and Subassemblies Thereof From Mexico: Initiation of Countervailing Duty Investigation",
-   "summary": "",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23291/certain-railway-tank-cars-and-subassemblies-thereof-from-mexico-initiation-of-countervailing-duty",
-   "date": "2026-11-16",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Certain Railway Tank Cars and Subassemblies Thereof From Mexico: Initiation of Less-Than-Fair-Value Investigation",
-   "summary": "",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23290/certain-railway-tank-cars-and-subassemblies-thereof-from-mexico-initiation-of-less-than-fair-value",
-   "date": "2026-11-16",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Accuracy of Advertising and Notice of Insured Status",
-   "summary": "The NCUA Board (Board) is issuing this final rule to streamline its regulations governing advertising and the notice of insured status. This final rule eliminates provisions concerning the official advertising statement. This action is undertaken to reduce regulatory complexity, and the intended effect is to reduce…",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23288/accuracy-of-advertising-and-notice-of-insured-status",
-   "date": "2026-11-16",
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Electrical Safety Standards in the Private Rented Sector and Social Rented Sector (England) (Amendment) Regulations 2026",
+   "summary": "These Regulations amend the Electrical Safety Standards in the Private Rented Sector and Social Rented Sector (England) Regulations 2020 (S.I. 2020/312) (“the Principal Regulations”).",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1196/made/data.htm",
+   "date": "2026-11-17",
    "topics": [
     "administrative"
    ],
@@ -1286,12 +1180,25 @@
    "summary_fa": ""
   },
   {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Privacy of Consumer Financial Information",
-   "summary": "The NCUA Board (Board) is issuing a final rule to make technical corrections to provisions of the NCUA's regulations. The technical amendments improve clarity by removing obsolete references to the privacy of consumer financial information regulation, which the NCUA no longer administers.",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23286/privacy-of-consumer-financial-information",
-   "date": "2026-11-16",
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Hazards in Social Housing (Prescribed Requirements) (England) (Amendment) Regulations 2026",
+   "summary": "These Regulations amend the Hazards in Social Housing (Prescribed Requirements) (England) Regulations 2025 (S.I. 2025/1042) (“the 2025 Regulations”), also known as “Awaab’s Law”, which prescribe requirements with which a landlord of social housing is required to comply by virtue of the covenant implied by section…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1195/made/data.htm",
+   "date": "2026-11-17",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Border Security, Asylum and Immigration Act 2025 (Specified Purposes Related to Policing) Regulations 2026",
+   "summary": "These Regulations specify purposes related to policing for the purposes of sections 30 to 34 of the Border Security, Asylum and Immigration Act 2025 (c. 31) (“the 2025 Act”).",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1194/made/data.htm",
+   "date": "2026-11-17",
    "topics": [
     "administrative",
     "rights"
@@ -1302,10 +1209,59 @@
   {
    "source": "US Federal Register",
    "region": "us",
-   "title": "Registration of Mortgage Loan Originators",
-   "summary": "The NCUA Board (Board) is issuing a final rule to make technical corrections to provisions of the NCUA's regulations. The technical amendments in this final rule improve clarity by removing obsolete references to the registration of mortgage loan originators.",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23280/registration-of-mortgage-loan-originators",
-   "date": "2026-11-16",
+   "title": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
+   "summary": "The Department of Labor (Department or DOL) proposes to amend its regulations regarding the certification of job opportunities offered by employers seeking to employ aliens on a permanent basis in the United States. This Notice of Proposed Rulemaking (NPRM or proposed rule) strengthens the standards by which the…",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant",
+   "date": "2026-11-17",
+   "topics": [
+    "administrative",
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Modernizing to Electronic Payments",
+   "summary": "FAA proposes to modernize its payment systems to require electronic payments and eliminate the option to pay by paper payment methods such as cash, money orders, and paper checks. This proposal complies with Executive Order 14247 titled \"Modernizing Payments To and From America's Bank Account,\" which seeks to increase…",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23397/modernizing-to-electronic-payments",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Chartering and Field of Membership for Federal Credit Unions; Associational Common Bonds and Client-Customer Relationships",
+   "summary": "The NCUA Board (Board) is issuing a final rule to amend its criteria for determining associational common bonds. The amendments clarify that requiring members to buy a good, product, or service from a group as a condition of membership will no longer automatically bar eligibility as a recognized association. After…",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23392/chartering-and-field-of-membership-for-federal-credit-unions-associational-common-bonds-and",
+   "date": "2026-11-17",
+   "topics": [
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Airworthiness Directives; Daher Aircraft, SAS",
+   "summary": "The FAA proposes to supersede Airworthiness Directive (AD) 2015-17-10, which applies to certain SOCATA (type certificate currently held by Daher Aircraft, SAS) (Daher) Model TBM 700 airplanes. AD 2015- 17-10 requires repetitively inspecting the forging body of the main landing gear (MLG) for cracks and, depending on…",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23372/airworthiness-directives-daher-aircraft-sas",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Rulemaking To Provide That N-acetyl-L-cysteine Is Not Excluded From the Dietary Supplement Definition",
+   "summary": "The Food and Drug Administration (FDA or we) is proposing to issue a regulation finding that N-acetyl-L-cysteine (NAC) is not excluded from the dietary supplement definition in the Federal Food, Drug, and Cosmetic Act (FD&C Act). This action, if finalized, would allow products containing NAC to be lawfully marketed as…",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23351/rulemaking-to-provide-that-n-acetyl-l-cysteine-is-not-excluded-from-the-dietary-supplement",
+   "date": "2026-11-17",
    "topics": [
     "administrative"
    ],
@@ -1315,10 +1271,10 @@
   {
    "source": "US Federal Register",
    "region": "us",
-   "title": "Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
-   "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that producers and/or exporters subject to this administrative review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), August 1, 2024, through July 31, 2025. In addition, we are rescinding the review…",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23278/finished-carbon-steel-flanges-from-india-preliminary-results-and-rescission-in-part-of-antidumping",
-   "date": "2026-11-16",
+   "title": "Advisory Committee on Reactor Safeguards Functions",
+   "summary": "The U.S. Nuclear Regulatory Commission (NRC) is amending its regulations in response to section 4.(b) of Executive Order (E.O.) 14300, \"Ordering the Reform of the Nuclear Regulatory Commission.\" Specifically, this direct final rule revises the NRC's regulations to reduce the personnel and functions of the Advisory…",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23343/advisory-committee-on-reactor-safeguards-functions",
+   "date": "2026-11-17",
    "topics": [
     "administrative"
    ],
@@ -1328,10 +1284,10 @@
   {
    "source": "US Federal Register",
    "region": "us",
-   "title": "Utility Scale Wind Towers From Indonesia: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2024-2025",
-   "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review did not make sales of subject merchandise at less than normal value (NV) during the period of review (POR), August 1, 2024, through July 31, 2025. In addition, we are rescinding the review with respect…",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23273/utility-scale-wind-towers-from-indonesia-preliminary-results-and-partial-rescission-of-the",
-   "date": "2026-11-16",
+   "title": "UL LLC: Application for Expansion of Recognition",
+   "summary": "In this notice, OSHA announces the application of UL LLC for expansion of the scope of recognition as a Nationally Recognized Testing Laboratory (NRTL) and presents the agency's preliminary finding to grant the application.",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23315/ul-llc-application-for-expansion-of-recognition",
+   "date": "2026-11-17",
    "topics": [
     "administrative"
    ],
@@ -1341,9 +1297,106 @@
   {
    "source": "US Federal Register",
    "region": "us",
-   "title": "Certain Metal Lockers and Parts Thereof From the People's Republic of China: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
-   "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies were provided to Xingyi Metalworking Technology (Zhejiang) Co., Ltd. (XMT) for Certain Metal Lockers and Parts Thereof (Metal Lockers) from the People's Republic of China (China). The period of review (POR) is January 1,…",
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23271/certain-metal-lockers-and-parts-thereof-from-the-peoples-republic-of-china-preliminary-results-and",
+   "title": "SGS North America, Inc.: Grant of Expansion of Recognition",
+   "summary": "In this notice, OSHA announces the final decision to expand the scope of recognition for SGS North America, Inc. as a Nationally Recognized Testing Laboratory (NRTL).",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23314/sgs-north-america-inc-grant-of-expansion-of-recognition",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Modernizing the Commission's National Environmental Policy Act Rules",
+   "summary": "In this document (Order), the Federal Communications Commission (\"Commission\" or \"FCC\") takes action to cut through outdated and unnecessary burdens that have slowed deployment of critical communications networks. These reforms restore balance to the Commission's National Environmental Policy Act (NEPA) implementation…",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23385/modernizing-the-commissions-national-environmental-policy-act-rules",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Louisiana: Approval of State Coal Combustion Residuals Permit Program",
+   "summary": "The Environmental Protection Agency (EPA or the Agency) is approving the Louisiana coal combustion residuals (CCR) permit program under the Resource Conservation and Recovery Act (RCRA). After reviewing the CCR permit program application submitted by the Louisiana Department of Environmental Quality (LDEQ), EPA has…",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23383/louisiana-approval-of-state-coal-combustion-residuals-permit-program",
+   "date": "2026-11-17",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Washington State Parks and Recreation Commission's Marine Facilities Replacement Program in North Puget Sound, Washington",
+   "summary": "NMFS, upon request from the Washington State Parks and Recreation Commission (State Parks), issues this final rule and associated 5-year letter of authorization (LOA) pursuant to the Marine Mammal Protection Act (MMPA) to govern the taking of marine mammals incidental to construction activities conducted in support of…",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23365/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Discontinuing Premium Collection From Policyholders on Certain National Service Life Insurance Policies",
+   "summary": "The Department of Veterans Affairs (VA) is proposing to amend its National Service Life Insurance (NSLI) regulations to cease collecting premiums from veterans with NSLI policies identified by the prefixes \"V,\" \"J,\" and \"JR.\" VA has determined there are sufficient financial resources to cover the remaining active…",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23364/discontinuing-premium-collection-from-policyholders-on-certain-national-service-life-insurance",
+   "date": "2026-11-17",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Sunshine Act Meeting Notice",
+   "summary": "",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23359/sunshine-act-meeting-notice",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Small Business Investment Company (SBIC) Leverage Availability",
+   "summary": "The U.S. Small Business Administration (\"SBA\" or \"Agency\") is publishing this interim final rule (\"IFR\") amending the U.S. Small Business Administration's loan guarantee regulations applicable to the Small Business Investment Company (\"SBIC\") program to implement the provisions of the Investing in All of America Act…",
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23358/small-business-investment-company-sbic-leverage-availability",
+   "date": "2026-11-17",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Statement of Trade Union Rights Regulations 2026",
+   "summary": "These Regulations make provision about the written statement which an employer is required to give to a worker under section 136A of the Trade Union and Labour Relations (Consolidation) Act 1992 (“the 1992 Act”). Section 136A was inserted into the 1992 Act by section 58 of the Employment Rights Act 2025 (“the 2025…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1193/made/data.htm",
+   "date": "2026-11-16",
+   "topics": [
+    "administrative",
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Air Navigation (Restriction of Flying) (Preston, Lancashire) Regulations 2026",
+   "summary": "",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1173/made",
    "date": "2026-11-16",
    "topics": [
     "administrative"
@@ -1391,20 +1444,6 @@
    "summary_fa": ""
   },
   {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Scotland Act 1998 (Agency Arrangements) (Specification) (Digital Waste Tracking) Order 2026",
-   "summary": "This Order paves the way for the Scottish Ministers and a Minister of the Crown to enter into agency arrangements, under which a Minister of the Crown can exercise certain functions of the designated person acting under, or in accordance with, any regulations made under section 34CA of the Environmental Protection Act…",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1188/made/data.htm",
-   "date": "2026-11-13",
-   "topics": [
-    "administrative",
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "US Federal Register",
    "region": "us",
    "title": "Request for Information",
@@ -1412,45 +1451,6 @@
    "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23155/request-for-information",
    "date": "2026-11-13",
    "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Secretaries of State for Business, Innovation, Science and Trade and for Digital, Culture, Media and Sport and the Chancellor of the Duchy of Lancaster Order 2026",
-   "summary": "This Order in Council is made under sections 1 and 2 of the Ministers of the Crown Act 1975 (c. 26).",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1147/made/data.htm",
-   "date": "2026-11-12",
-   "topics": [
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Collective Investment Schemes (Amendment etc.) (EU Exit) (Amendment) Regulations 2026",
-   "summary": "These Regulations make an amendment to the Collective Investment Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/325) (“CIS Regulations”), regarding temporary recognition for the purposes of Part 17 of the Financial Services and Markets Act 2000 (c. 8).",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1183/made/data.htm",
-   "date": "2026-11-12",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Building Insurance Information (England) Regulations 2026",
-   "summary": "These Regulations make provision regarding information about insurance that a landlord must give to a tenant where a service charge includes an amount payable for that insurance. They concern leases of dwellings in England.",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1181/made/data.htm",
-   "date": "2026-11-12",
-   "topics": [
-    "administrative"
-   ],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -1526,19 +1526,6 @@
    "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions",
    "date": "2026-11-05",
    "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
-   "summary": "The Food and Drug Administration (FDA) is classifying the digital cervical cytology slide imaging system with artificial intelligence algorithm into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification…",
-   "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology",
-   "date": "2026-11-05",
-   "topics": [
-    "ai"
-   ],
    "title_fa": "",
    "summary_fa": ""
   }
