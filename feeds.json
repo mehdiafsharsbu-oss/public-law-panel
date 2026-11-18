@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-17T13:41:45Z",
+ "updated": "2026-11-18T13:16:28Z",
  "status": {
   "I·CONnect": {
    "ok": true,
-   "items": 10
+   "items": 0
   },
   "IACL-IADC Blog": {
    "ok": false,
    "error": "404 Client Error: Not Found for url: https://blog-iacl-aidc.org/feed/"
   },
   "EJIL: Talk!": {
-   "ok": false,
-   "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+   "ok": true,
+   "items": 0
   },
   "Verfassungsblog": {
    "ok": true,
@@ -26,8 +26,8 @@
    "items": 10
   },
   "UK Human Rights Blog": {
-   "ok": true,
-   "items": 12
+   "ok": false,
+   "error": "403 Client Error: Forbidden for url: https://ukhumanrightsblog.com/feed/"
   },
   "Oxford Human Rights Hub": {
    "ok": true,
@@ -68,26 +68,89 @@
  },
  "articles": [
   {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Resigning to Escape? Paraguay’s Congress Refused Santiago Peña’s Resignation and Impeached Him Anyway",
-   "summary": "—Adwaldo Lins Peixoto Neto, Federal University of Minas Gerais (Brazil) Impeachment is a democratic but turbulent legal and political instrument. Its turbulence usually comes from the legislature: rushed trials, flimsy... The post Resigning to Escape? Paraguay’s Congress Refused Santiago Peña’s Resignation and…",
-   "link": "https://www.iconnectblog.com/resigning-to-escape-paraguays-congress-refused-santiago-penas-resignation-and-impeached-him-anyway/",
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Hybride Kriegsführung im Supermarkt?",
+   "summary": "Spätestens seit dem russischen Überfall auf die Ukraine sind digitale Bedrohungen für europäische Infrastruktur ins öffentliche Bewusstsein gerückt. Im Fokus standen bislang Bereiche wie Stromversorgung, Gesundheitswesen und öffentliche Verwaltung. Jüngst nahmen Hacker jedoch ein überraschendes Ziel ins Visier:…",
+   "link": "https://verfassungsblog.de/hybride-kriegsfuhrung-im-supermarkt/",
+   "date": "2026-11-18",
+   "topics": [
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "Prevention Over Punishment: Fiji’s Post-Colonial Penal Legacy Harmonised to Uphold the Constitutional Right to Health and Accelerate the HIV Outbreak Response",
+   "summary": "The realisation of public health mandates entails the dismantling of inherited penal frameworks that compromise fundamental human rights. Fiji is currently experiencing a severe HIV outbreak driven by an exponential rise in injecting methamphetamine use, where evidence-based harm reduction is an urgent priority. The…",
+   "link": "https://ohrh.law.ox.ac.uk/prevention-over-punishment-fijis-post-colonial-penal-legacy-harmonised-to-uphold-the-constitutional-right-to-health-and-accelerate-the-hiv-outbreak-response/",
+   "date": "2026-11-18",
+   "topics": [
+    "constitutional",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Early Edition: November 18, 2026",
+   "summary": "Sign up to receive the Early Edition in your inbox here. A curated weekday guide to major news and developments over the last 24 hours. Here’s today’s news: IRAN WAR Iran early today launched strikes against Kuwait and Bahrain. Iran said it targeted Kuwait’s Ali Al Salem Air Base, which hosts U.S. forces, after the…",
+   "link": "https://www.justsecurity.org/165038/early-edition-november-18-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-18-2026",
+   "date": "2026-11-18",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Drafting Regulatory Preambles for Judicial Review",
+   "summary": "ACUS recommends best practices for explaining agencies’ statutory interpretations and regulatory choices as judicial review evolves. The post Drafting Regulatory Preambles for Judicial Review first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/18/deacon-nowacki-drafting-regulatory-preambles-for-judicial-review/",
+   "date": "2026-11-18",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "The Great Norwegian Reset",
+   "summary": "On 13 November 2026, the Norwegian Supreme Court delivered a landmark judgment in the North Sea Fields case. The Court held that environmental impact assessments (EIAs) must address downstream emissions from burning extracted oil and gas (Scope 3). Just as the ICJ reframed States’ responsibility for climate change in…",
+   "link": "https://verfassungsblog.de/the-great-norwegian-reset/",
+   "date": "2026-11-17",
+   "topics": [
+    "constitutional",
+    "intl"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Will Kosovo Compromise its International Obligations?",
+   "summary": "On 16 September 2026, Trial Panel II of the Kosovo Specialist Chambers (KSC/Specialist Chambers) rendered its judgment in the Hashim Thaҫi et al. case. The judgment triggered strong negative reactions in Kosovo. A few days after the pronouncement of the judgment, the Democratic Party of Kosovo introduced an amendment…",
+   "link": "https://verfassungsblog.de/will-kosovo-compromise-its-international-obligations/",
    "date": "2026-11-17",
    "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
   {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Constitutional Autochthony in Bangladesh: Revisiting Professor K. C. Wheare",
-   "summary": "—Oishe Rahman, Lecturer, Department of Law, East West University, Dhaka, Bangladesh The idea of an autochthonous constitution, as the concept has been used by Professor K. C. Wheare, means a... The post Constitutional Autochthony in Bangladesh: Revisiting Professor K. C. Wheare appeared first on www.iconnectblog.com .",
-   "link": "https://www.iconnectblog.com/constitutional-autochthony-in-bangladesh-revisiting-professor-k-c-wheare/",
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Komparse oder Mitspieler",
+   "summary": "Etwa eineinhalb Jahre nach dem Sturz Baschar al-Assads trat am 12. Juli 2026 das neue syrische Parlament zusammen. In der fragilen Nachkriegsordnung stehen seine Chancen, sich zu einem eigenständigen und handlungsfähigen politischen Akteur zu entwickeln, nicht besonders gut. Seine Konstituierung, seine…",
+   "link": "https://verfassungsblog.de/komparse-oder-mitspieler/",
    "date": "2026-11-17",
-   "topics": [
-    "constitutional"
-   ],
+   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -150,6 +213,19 @@
    "summary_fa": ""
   },
   {
+   "source": "Strasbourg Observers",
+   "region": "eu",
+   "title": "Evidence in the proceedings of the European Court of Human Rights with Anne Heinisch",
+   "summary": "In this episode of the Strasbourg Observers Podcast, Eva Brems speaks with Anne Heinisch, postdoctoral researcher at the Cluster of Excellence “Transforming Human Rights” at Friedrich-Alexander-Universität Erlangen-Nürnberg, about the role of evidence in the proceedings of the European Court of Human Rights. Drawing…",
+   "link": "https://strasbourgobservers.com/2026/11/17/evidence-in-the-proceedings-of-the-european-court-of-human-rights-with-anne-heinisch/",
+   "date": "2026-11-17",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
    "source": "Oxford Human Rights Hub",
    "region": "other",
    "title": "Caribbean High Court Declares Colonial-Era Criminal Abortion Law A Violation of Women’s Rights",
@@ -163,9 +239,55 @@
   {
    "source": "Just Security",
    "region": "us",
+   "title": "The United States Has Space Weapons: How Should It Use Them?",
+   "summary": "U.S. leadership has the opportunity to actively shape space warfare, expanding beyond the current legal framework into a holistic approach. The post The United States Has Space Weapons: How Should It Use Them? appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/161720/how-should-us-use-space-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=how-should-us-use-space-weapons",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "The United States’ Missile Strike on Minab’s Shajareh Tayyebeh Elementary School: Part I",
+   "summary": "Experts examine the available evidence to determine whether the Minab strike was a violation of international humanitarian law. The post The United States’ Missile Strike on Minab’s Shajareh Tayyebeh Elementary School: Part I appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/160956/us-missile-strike-minab-ihl-part-i/?utm_source=rss&utm_medium=rss&utm_campaign=us-missile-strike-minab-ihl-part-i",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "A Game-Theory Basis for U.S.-China Cooperation on AI Governance (Part I)",
+   "summary": "In the \"AI race\" between the United States and China, mutual restraint on frontier AI development is the rational choice for each state. The post A Game-Theory Basis for U.S.-China Cooperation on AI Governance (Part I) appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/164387/game-theory-basis-us-china-cooperation-ai/?utm_source=rss&utm_medium=rss&utm_campaign=game-theory-basis-us-china-cooperation-ai",
+   "date": "2026-11-17",
+   "topics": [
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
    "title": "Early Edition: November 17, 2026",
    "summary": "Sign up to receive the Early Edition in your inbox here. A curated weekday guide to major news and developments over the last 24 hours. Here’s today’s news: IRAN WAR Iran today fired drones at a U.S. military radar system in Bahrain. Iran’s Islamic Revolutionary Guards Corps said the radar system it attacked was at…",
    "link": "https://www.justsecurity.org/164914/early-edition-november-17-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-17-2026",
+   "date": "2026-11-17",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions",
+   "summary": "A public resource tracking all the legal challenges to the Trump administration's executive orders and actions. The post Litigation Tracker: Legal Challenges to Trump Administration Actions appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=tracker-litigation-legal-challenges-trump-administration",
    "date": "2026-11-17",
    "topics": [],
    "title_fa": "",
@@ -194,30 +316,6 @@
    "topics": [
     "administrative"
    ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Restoration by Borrowed Powers? European Law and the Suspension of Poland’s Constitutional Tribunal Leadership",
-   "summary": "—Fruela Río Santos, Professor of Constitutional Law, University of Oviedo On the evening of 30 October 2026, a judge who had been kept out of Poland’s Constitutional Tribunal since her... The post Restoration by Borrowed Powers? European Law and the Suspension of Poland’s Constitutional Tribunal Leadership appeared…",
-   "link": "https://www.iconnectblog.com/restoration-by-borrowed-powers-european-law-and-the-suspension-of-polands-constitutional-tribunal-leadership/",
-   "date": "2026-11-16",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "What’s New: Week of November 16",
-   "summary": "—Sumit Kumar Ganguly, Assistant Professor, The Neotia University, Diamond Harbour, India. In this weekly feature, I-CONnect publishes a curated reading list of developments in public law. “Developments” may include a... The post What’s New: Week of November 16 appeared first on www.iconnectblog.com .",
-   "link": "https://www.iconnectblog.com/whats-new-week-of-november-16/",
-   "date": "2026-11-16",
-   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -251,39 +349,6 @@
    "title": "Geheimhaltung braucht Kontrolle",
    "summary": "„Ein Teil dieser Antworten würde die Bevölkerung verunsichern“. Mit dieser Erklärung rechtfertigte der damalige Bundesinnenminister Thomas de Maizière, weshalb er keine näheren Angaben zu einer befürchteten Terrorgefahr machen wollte. Damit beschrieb er einen grundlegenden Zielkonflikt staatlicher Kommunikation, der…",
    "link": "https://verfassungsblog.de/informationspflicht-bundestag-verteidigungsfall/",
-   "date": "2026-11-16",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Die Reichweite der europäischen Beistandspflicht",
-   "summary": "Stellen wir uns einmal vor, Deutschland ist einem Bündnispartner zum Beistand verpflichtet, der Bundestag verweigert aber die vorherige Zustimmung zum militärischen oder zivilen Beistand – kein unwahrscheinliches Szenario. Mit Blick auf die EU hat das Bundesverfassungsgericht festgestellt, dass auch die Europäische…",
-   "link": "https://verfassungsblog.de/europaische-beistandspflicht-parlamentsvorbehalt/",
-   "date": "2026-11-16",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Verteidigungspolitische Integration am Scheideweg",
-   "summary": "Die Idee einer europäischen Armee, so tief sie auch in der Geschichte europäischer Kooperation verwurzelt sein mag, harrt bislang einer breiten politischen wie auch juristischen Diskussion. Jüngst wurde die Verteidigungsinitiative der Hohen Vertreterin Kaja Kallas durch mehrere Mitgliedstaaten gestoppt. Trotz…",
-   "link": "https://verfassungsblog.de/europaische-armee-verfassungsrecht/",
-   "date": "2026-11-16",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Resisting the Chainsaw",
-   "summary": "Since Javier Milei took office in December 2023, the budget of Argentina’s national universities has lost more than a fifth of its value in real terms. University funding has fallen from 0.72% to about 0.53% of GDP, and by May 2026, university salaries had lost more than a third of their purchasing power. These…",
-   "link": "https://verfassungsblog.de/resisting-the-chainsaw/",
    "date": "2026-11-16",
    "topics": [],
    "title_fa": "",
@@ -334,17 +399,6 @@
    "summary_fa": ""
   },
   {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Early Edition: November 16, 2026",
-   "summary": "Sign up to receive the Early Edition in your inbox here. A curated weekday guide to major news and developments over the weekend. Here’s today’s news: IRAN WAR Bahrain’s Defense Ministry yesterday said the country’s armed forces intercepted several “Iranian aerial threats.” Iran’s Islamic Revolutionary Guard Corps…",
-   "link": "https://www.justsecurity.org/164727/early-edition-november-16-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-16-2026",
-   "date": "2026-11-16",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "The Regulatory Review",
    "region": "us",
    "title": "Beyond ESG",
@@ -353,58 +407,6 @@
    "date": "2026-11-16",
    "topics": [
     "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Inclusive Voting Practices in Brazil",
-   "summary": "—Antonio Moreira Maués, Professor of Constitutional Law, Federal University of Pará The second round of the 2026 Brazilian presidential election was marked by Lula’s surprising victory. No presidential candidate trailing... The post Inclusive Voting Practices in Brazil appeared first on www.iconnectblog.com .",
-   "link": "https://www.iconnectblog.com/inclusive-voting-practices-in-brazil/",
-   "date": "2026-11-15",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "The Costs of Climate Adaptation: What New York’s Climate Superfund Litigation Reveals About State Power",
-   "summary": "–Marco Solazzo, PhD Candidate in Law, University of Insubria, specializing in comparative public law and climate governance Climate change raises questions that go well beyond reducing emissions. Alongside mitigation, another... The post The Costs of Climate Adaptation: What New York’s Climate Superfund Litigation…",
-   "link": "https://www.iconnectblog.com/the-costs-of-climate-adaptation-what-new-yorks-climate-superfund-litigation-reveals-about-state-power/",
-   "date": "2026-11-15",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "A Case of Metropolis? The Position of AI within Future Austrian Administrative Law and Procedures",
-   "summary": "–Dimitrios Parashu’, Associate Professor (Privatdozent), Faculty of Law, Gottfried Wilhelm Leibniz University of Hannover Fritz Lang’s movie Metropolis will celebrate its 100th anniversary in early 2027. The plot centers on... The post A Case of Metropolis? The Position of AI within Future Austrian Administrative Law…",
-   "link": "https://www.iconnectblog.com/a-case-of-metropolis-the-position-of-ai-within-future-austrian-administrative-law-and-procedures/",
-   "date": "2026-11-14",
-   "topics": [
-    "administrative",
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "The Battle for the Constitutional Court in Poland",
-   "summary": "–Zuzanna Nowicka, PhD candidate, Doctoral School of Social Sciences, Jagiellonian University; Head of the Freedom of Speech Programme, Helsinki Foundation of Human Rights The Script October 30 was one of... The post The Battle for the Constitutional Court in Poland appeared first on www.iconnectblog.com .",
-   "link": "https://www.iconnectblog.com/the-battle-for-the-constitutional-court-in-poland/",
-   "date": "2026-11-14",
-   "topics": [
-    "constitutional",
-    "rights"
    ],
    "title_fa": "",
    "summary_fa": ""
@@ -443,43 +445,6 @@
    "summary_fa": ""
   },
   {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "From International Obligations to Judicial Action: The Courage and Risks of Restoring Poland’s Constitutional Tribunal",
-   "summary": "—Adam Bodnar, Professor of Law, SWPS University in Warsaw [Editor’s Note: This is one of our ICONnect columns. For more information on our 2026 columnists, see here.] Recent events in... The post From International Obligations to Judicial Action: The Courage and Risks of Restoring Poland’s Constitutional Tribunal…",
-   "link": "https://www.iconnectblog.com/from-international-obligations-to-judicial-action-the-courage-and-risks-of-restoring-polands-constitutional-tribunal/",
-   "date": "2026-11-13",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "The Abuja Misdirection: How the Federal High Court Misread the Constitution in Joe Kyari Gadzama, SAN v. The Body of Benchers & Ors.",
-   "summary": "–Prince Amadi, Doctoral Researcher, Law Department, European University Institute, Florence, Italy; Visiting Researcher, Faculty of Law, University of Zurich, Switzerland Since Nigeria’s return to democracy in 1999, a hallmark of... The post The Abuja Misdirection: How the Federal High Court Misread the Constitution…",
-   "link": "https://www.iconnectblog.com/the-abuja-misdirection-how-the-federal-high-court-misread-the-constitution-in-joe-kyari-gadzama-san-v-the-body-of-benchers-ors/",
-   "date": "2026-11-13",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "„Eine Rückkehr zur Autokratie ist schlicht inakzeptabel“",
-   "summary": "Am 3. Dezember 2024 verhängte Präsident Yoon Suk Yeol das Kriegsrecht und befahl Militär und Polizei, die Nationalversammlung zu besetzen. Er wollte verhindern, dass das Parlament seine Erklärung aufhebt – ohne Erfolg. Zwei Tage später begannen die koreanische Verfassungsrechtslehr:innen, sich zu organisieren. Am 25.…",
-   "link": "https://verfassungsblog.de/korea-scholactivism/",
-   "date": "2026-11-13",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Strasbourg Observers",
    "region": "eu",
    "title": "Jesus Pinhal v. Portugal: calibrating or carving out an absolute right?",
@@ -489,54 +454,6 @@
    "topics": [
     "rights"
    ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Just the Docs: Nonprofits Sue Five Frontier AI Companies to Freeze Development, Citing Cyberattack and Catastrophic Risks",
-   "summary": "Four nonprofits sue Anthropic, Google, Meta, OpenAI, and SpaceXSI seeking to freeze frontier AI development over cyberattack and catastrophic risks. The post Just the Docs: Nonprofits Sue Five Frontier AI Companies to Freeze Development, Citing Cyberattack and Catastrophic Risks appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/164494/nonprofits-lawsuit-freeze-frontier-ai-development/?utm_source=rss&utm_medium=rss&utm_campaign=nonprofits-lawsuit-freeze-frontier-ai-development",
-   "date": "2026-11-13",
-   "topics": [
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Just the Docs: Treasury and State Department Designate Three Guatemalan Drug Trafficking Groups as Terrorists",
-   "summary": "Treasury sanctions Guatemala’s Los Mendoza and Los Huistas as terrorists while State designates Los Lorenzanas as a Foreign Terrorist Organization. The post Just the Docs: Treasury and State Department Designate Three Guatemalan Drug Trafficking Groups as Terrorists appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/164471/treasury-state-guatemala-cartels-terrorist-designations/?utm_source=rss&utm_medium=rss&utm_campaign=treasury-state-guatemala-cartels-terrorist-designations",
-   "date": "2026-11-13",
-   "topics": [
-    "intl"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Guantanamo Dispatches: Six Jurors Chosen, 14 More Needed For First Death Penalty Tribunal At Guantanamo Bay",
-   "summary": "Six U.S. military officers have been chosen to serve on the jury for the death penalty trial of the USS Cole suspect at Guantanamo. The post Guantanamo Dispatches: Six Jurors Chosen, 14 More Needed For First Death Penalty Tribunal At Guantanamo Bay appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/164450/six-jurors-chosen-death-penalty-tribunal-guantanamo/?utm_source=rss&utm_medium=rss&utm_campaign=six-jurors-chosen-death-penalty-tribunal-guantanamo",
-   "date": "2026-11-13",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Preparing for 2029: A Reconversion Strategy",
-   "summary": "The next U.S. administration should adopt a planning model of centralized strategic coordination and decentralized substantive execution. The post Preparing for 2029: A Reconversion Strategy appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/163851/preparing-2029-reconversion-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=preparing-2029-reconversion-strategy",
-   "date": "2026-11-13",
-   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -718,17 +635,6 @@
    "summary_fa": ""
   },
   {
-   "source": "The Regulatory Review",
-   "region": "us",
-   "title": "The Costs of Government Efficiency",
-   "summary": "Scholars examine how federal workforce reforms affect government expertise, independence, and effectiveness. The post The Costs of Government Efficiency first appeared on The Regulatory Review .",
-   "link": "https://www.theregreview.org/2026/11/07/seminar-the-costs-of-government-efficiency/",
-   "date": "2026-11-07",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Strasbourg Observers",
    "region": "eu",
    "title": "Bazhenov and Others v. Russia and Ukraine: Property Rights under Occupation",
@@ -820,17 +726,6 @@
    "topics": [
     "rights"
    ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Oxford Human Rights Hub",
-   "region": "other",
-   "title": "Cuando la prisión preventiva se convierte en castigo: la advertencia de la Corte Interamericana a Ecuador: Reyes Mantilla y otros vs. Ecuador",
-   "summary": "La prisión preventiva tiene por objeto garantizar el desarrollo del proceso penal, no anticipar su resultado. Sin embargo, cuando la gravedad de una acusación basta para justificar el encarcelamiento de una persona, la detención corre el riesgo de convertirse en un castigo impuesto antes de que se dicte una condena.…",
-   "link": "https://ohrh.law.ox.ac.uk/cuando-la-prision-preventiva-se-convierte-en-castigo-la-advertencia-de-la-corte-interamericana-a-ecuador-reyes-mantilla-y-otros-vs-ecuador/",
-   "date": "2026-11-03",
-   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -1043,62 +938,12 @@
    "summary_fa": ""
   },
   {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "The UK Human Rights Blog has moved to Substack",
-   "summary": "From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on this website. This site will remain available as an archive. To stay up to date with our latest articles and insights, please subscribe to our Substack here: https://substack.com/@ukhumanrightsblog The…",
-   "link": "https://ukhumanrightsblog.com/2026/10/19/the-uk-human-rights-blog-has-moved-to-substack/",
-   "date": "2026-10-19",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Balkinization",
    "region": "us",
    "title": "The Even More Conservative Case for Class Actions?",
    "summary": "For the Balkinization symposium on Diego Zambrano , How Americans Enforce the Law (Stanford University Press, 2026) . Brian T. Fitzpatrick How can the author of The Conservative Case for Class Actions say a bad word about a book that argues that private enforcement of the law is a vivid example of American…",
    "link": "https://balkin.blogspot.com/2026/10/the-even-more-conservative-case-for.html",
    "date": "2026-10-17",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Strasbourg Observers",
-   "region": "eu",
-   "title": "A Warning Shot for Applicants Seeking Interim Measures? Abuse of the Right of Application in Mouelhi v. Belgium",
-   "summary": "By Luna Lanckvrind What are the consequences when applicants distort the facts underlying requests for urgent protection before the European Court of Human Rights (ECtHR)? In the case of Mouelhi v. Belgium, the Court attempted to settle this question, venturing into territory not previously explored. In a particularly…",
-   "link": "https://strasbourgobservers.com/2026/10/13/a-warning-shot-for-applicants-seeking-interim-measures-abuse-of-the-right-of-application-in-mouelhi-v-belgium/",
-   "date": "2026-10-13",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Weekly Round Up: Article 8 under the Immigration and Asylum Bill, Record Terrorism Arrests, and Honours Forfeiture Decision",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog In the news…",
-   "link": "https://ukhumanrightsblog.com/2026/10/13/weekly-round-up-article-8-under-the-immigration-and-asylum-bill-record-terrorism-arrests-and-honours-forfeiture-decision/",
-   "date": "2026-10-13",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Law Pod UK new episode: Environmental enforcement here and in the EU",
-   "summary": "In Episode 245, Environmental expert David Hart KC talks to Sir Richard Macrory, author and editor of the recent book “EU Environmental Policy and Law: Reflections at 50.” They discuss the role of the Office of Environmental Protection, the difficulties of enforcement, issues of standing here and in the EU, and to…",
-   "link": "https://ukhumanrightsblog.com/2026/10/12/law-pod-uk-new-episode-environmental-enforcement-here-and-in-the-eu/",
-   "date": "2026-10-12",
    "topics": [],
    "title_fa": "",
    "summary_fa": ""
@@ -1126,20 +971,289 @@
    "summary_fa": ""
   },
   {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Discrimination in prison medication dispensing – objective justification and an unjustified failure to think about it",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog The…",
-   "link": "https://ukhumanrightsblog.com/2026/10/09/discrimination-in-prison-medication-dispensing-objective-justification-and-an-unjustified-failure-to-think-about-it/",
-   "date": "2026-10-09",
-   "topics": [
-    "rights"
-   ],
+   "source": "Notice & Comment",
+   "region": "us",
+   "title": "Untethered: How the Roberts Court is Rethinking the Law-Policy Relationship by Bennett Johnson and Daniel G. Aaron",
+   "summary": "The traditional conception of the judicial role in the U.S. government is to decide “cases” and “controversies” by “say[ing] what the law is.” Yet, an enduring question is to what extent consideration of policy may inform that task. Some might quickly dispose of this issue, as legal scholars have framed policy as a…",
+   "link": "https://www.yalejreg.com/untethered-how-the-roberts-court-is-rethinking-the-law-policy-relationship-by-bennett-johnson-and-daniel-g-aaron/",
+   "date": "2026-04-23",
+   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   }
  ],
  "laws": [
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Air Navigation (Restriction of Flying) (Specified Area) (Restricted Area EGR160) Regulations 2026",
+   "summary": "",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1210/made",
+   "date": "2026-11-18",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Online Safety Act 2023 (Commencement No. 8) Regulations 2026",
+   "summary": "These Regulations are the eighth commencement regulations made under the Online Safety Act 2023 (c. 50) (“the Act”). They bring into force section 75 of the Act which places duties on providers of Category 1, 2A and 2B services to set out their policies on disclosing information to the parents of deceased child users,…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1201/made/data.htm",
+   "date": "2026-11-18",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Police Act 1997 (Criminal Records) (Amendment No. 2) Regulations (Northern Ireland) 2026",
+   "summary": "These Regulations amend the Police Act 1997 (Criminal Records) (Disclosure) Regulations (Northern Ireland) 2008 (“the 2008 Regulations”) to make provision for enhanced criminal record checks with suitability information in relation to individuals who are seeking to assess children and vulnerable adults as registered…",
+   "link": "http://www.legislation.gov.uk/nisr/2026/190/made/data.htm",
+   "date": "2026-11-18",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Railways (Interoperability in Northern Ireland) (Convention on International Carriage by Rail) (Amendment) Regulations 2026",
+   "summary": "These Regulations implement Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the interoperability of the rail system within the European Union (O.J. No. L 138, 26.5.2016, p. 44) (the “2016 Directive”) for Northern Ireland, making technical provision for the placing on the market,…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1197/made/data.htm",
+   "date": "2026-11-18",
+   "topics": [
+    "administrative",
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Agency Information Collection Activities; Submission for OMB Review; American Time Use Survey (ATUS) Super Intelligence (SI) Questions",
+   "summary": "The Department of Labor (DOL) is submitting this Bureau of Labor Statistics (BLS)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23506/agency-information-collection-activities-submission-for-omb-review-american-time-use-survey-atus",
+   "date": "2026-11-18",
+   "topics": [
+    "administrative",
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "summary": "",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed",
+   "date": "2026-11-18",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "summary": "",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of",
+   "date": "2026-11-18",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Automatic Enrollment Requirements Under Section 414A",
+   "summary": "This document sets forth final regulations that provide guidance with respect to the automatic enrollment requirements that apply to certain retirement plans. The regulations reflect statutory changes made by the SECURE 2.0 Act of 2022 requiring that certain cash or deferred arrangements and salary reduction…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23530/automatic-enrollment-requirements-under-section-414a",
+   "date": "2026-11-18",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V ANNIE LAURIE",
+   "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23511/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv-annie",
+   "date": "2026-11-18",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V OSIRIS",
+   "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23510/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv",
+   "date": "2026-11-18",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V NEXUS",
+   "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23509/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv-nexus",
+   "date": "2026-11-18",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Proposed Extension of Information Collection; BLS Labor Market Information Cooperative Agreement Application Package",
+   "summary": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23505/proposed-extension-of-information-collection-bls-labor-market-information-cooperative-agreement",
+   "date": "2026-11-18",
+   "topics": [
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Agency Information Collection Activities; Comment Request; Unemployment Insurance State Quality Service Plan Planning and Reporting Guidelines",
+   "summary": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Unemployment Insurance (UI) State Quality Service Plan (SQSP) Planning and Reporting Guidelines.\" This…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23504/agency-information-collection-activities-comment-request-unemployment-insurance-state-quality",
+   "date": "2026-11-18",
+   "topics": [
+    "administrative",
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Proposed Revision of Information Collection; Report of Changes That May Affect Your Black Lung Benefits, CM-929, CM-929P and Quick Costumer Connect Form",
+   "summary": "The Department of Labor (DOL) is soliciting comments concerning a proposed extension for the authority to conduct the information collection requests (ICRs) titled, \"Report of Changes that May Affect Your Black Lung Benefits\" (Forms CM-929, CM-929P and Quick Costumer Connect). This comment request is part of…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23503/proposed-revision-of-information-collection-report-of-changes-that-may-affect-your-black-lung",
+   "date": "2026-11-18",
+   "topics": [
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Accepted Means of Compliance; Airworthiness Standards: Normal Category Airplanes",
+   "summary": "This document announces the availability of ASTM International (ASTM) consensus standards for use as an FAA-accepted means of compliance (MOC) to the applicable airworthiness standards for normal category airplanes. The FAA accepts ASTM F3264-25, \"Standard Specification for Normal Category Aeroplanes Certification,\"…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23525/accepted-means-of-compliance-airworthiness-standards-normal-category-airplanes",
+   "date": "2026-11-18",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Air Plan Approval; Texas; Collin County Second 10-Year Maintenance Plan for the 2008 Lead Standard",
+   "summary": "Pursuant to the Federal Clean Air Act (CAA or the Act), the U.S. Environmental Protection Agency (EPA) is proposing to approve a revision to the Texas State Implementation Plan (SIP) containing the State's plan for maintaining the 2008 Lead (Pb) National Ambient Air Quality Standard (NAAQS or standard) through 2037…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23519/air-plan-approval-texas-collin-county-second-10-year-maintenance-plan-for-the-2008-lead-standard",
+   "date": "2026-11-18",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Notice of Revised National Environmental Policy Act Implementing Procedures",
+   "summary": "The U.S. Department of Homeland Security (DHS or Department) is updating DHS Directive 023, Implementation of the National Environmental Policy Act, which establishes procedures for complying with the National Environmental Policy Act (NEPA). This update is necessary in light of the recent rescission of the Council on…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23515/notice-of-revised-national-environmental-policy-act-implementing-procedures",
+   "date": "2026-11-18",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Kyndahl D. Bertram, D.O.; Decision and Order",
+   "summary": "",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23513/kyndahl-d-bertram-do-decision-and-order",
+   "date": "2026-11-18",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Potassium Phosphate Salts From China; Scheduling of Expedited Five-Year Reviews",
+   "summary": "The Commission hereby gives notice of the scheduling of expedited reviews pursuant to the Tariff Act of 1930 (\"the Act\") to determine whether revocation of the countervailing and the antidumping duty orders on potassium phosphate salts from China would be likely to lead to continuation or recurrence of material injury…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23507/potassium-phosphate-salts-from-china-scheduling-of-expedited-five-year-reviews",
+   "date": "2026-11-18",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Proposed Information Collection: Office of Disability Employment Policy Quick Turnaround Surveys",
+   "summary": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance request for comment to provide the general public and Federal agencies with an opportunity to comment on proposed collections of information in accordance with the Paperwork Reduction Act of…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23487/proposed-information-collection-office-of-disability-employment-policy-quick-turnaround-surveys",
+   "date": "2026-11-18",
+   "topics": [
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Proposed Revision of Information Collection; Local Area Unemployment Statistics Program",
+   "summary": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork…",
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23485/proposed-revision-of-information-collection-local-area-unemployment-statistics-program",
+   "date": "2026-11-18",
+   "topics": [
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Bank Levy (Definitions and Amendments) Regulations 2026",
+   "summary": "These Regulations amend definitions in Schedule 19 to the Finance Act 2011 (“the Act”) and the Bank Levy (Loss Absorbing Instruments) Regulations 2020 in consequence of—",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1206/made/data.htm",
+   "date": "2026-11-17",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
   {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
@@ -1223,229 +1337,6 @@
   {
    "source": "US Federal Register",
    "region": "us",
-   "title": "Modernizing to Electronic Payments",
-   "summary": "FAA proposes to modernize its payment systems to require electronic payments and eliminate the option to pay by paper payment methods such as cash, money orders, and paper checks. This proposal complies with Executive Order 14247 titled \"Modernizing Payments To and From America's Bank Account,\" which seeks to increase…",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23397/modernizing-to-electronic-payments",
-   "date": "2026-11-17",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Chartering and Field of Membership for Federal Credit Unions; Associational Common Bonds and Client-Customer Relationships",
-   "summary": "The NCUA Board (Board) is issuing a final rule to amend its criteria for determining associational common bonds. The amendments clarify that requiring members to buy a good, product, or service from a group as a condition of membership will no longer automatically bar eligibility as a recognized association. After…",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23392/chartering-and-field-of-membership-for-federal-credit-unions-associational-common-bonds-and",
-   "date": "2026-11-17",
-   "topics": [
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Airworthiness Directives; Daher Aircraft, SAS",
-   "summary": "The FAA proposes to supersede Airworthiness Directive (AD) 2015-17-10, which applies to certain SOCATA (type certificate currently held by Daher Aircraft, SAS) (Daher) Model TBM 700 airplanes. AD 2015- 17-10 requires repetitively inspecting the forging body of the main landing gear (MLG) for cracks and, depending on…",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23372/airworthiness-directives-daher-aircraft-sas",
-   "date": "2026-11-17",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Rulemaking To Provide That N-acetyl-L-cysteine Is Not Excluded From the Dietary Supplement Definition",
-   "summary": "The Food and Drug Administration (FDA or we) is proposing to issue a regulation finding that N-acetyl-L-cysteine (NAC) is not excluded from the dietary supplement definition in the Federal Food, Drug, and Cosmetic Act (FD&C Act). This action, if finalized, would allow products containing NAC to be lawfully marketed as…",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23351/rulemaking-to-provide-that-n-acetyl-l-cysteine-is-not-excluded-from-the-dietary-supplement",
-   "date": "2026-11-17",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Advisory Committee on Reactor Safeguards Functions",
-   "summary": "The U.S. Nuclear Regulatory Commission (NRC) is amending its regulations in response to section 4.(b) of Executive Order (E.O.) 14300, \"Ordering the Reform of the Nuclear Regulatory Commission.\" Specifically, this direct final rule revises the NRC's regulations to reduce the personnel and functions of the Advisory…",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23343/advisory-committee-on-reactor-safeguards-functions",
-   "date": "2026-11-17",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "UL LLC: Application for Expansion of Recognition",
-   "summary": "In this notice, OSHA announces the application of UL LLC for expansion of the scope of recognition as a Nationally Recognized Testing Laboratory (NRTL) and presents the agency's preliminary finding to grant the application.",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23315/ul-llc-application-for-expansion-of-recognition",
-   "date": "2026-11-17",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "SGS North America, Inc.: Grant of Expansion of Recognition",
-   "summary": "In this notice, OSHA announces the final decision to expand the scope of recognition for SGS North America, Inc. as a Nationally Recognized Testing Laboratory (NRTL).",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23314/sgs-north-america-inc-grant-of-expansion-of-recognition",
-   "date": "2026-11-17",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Modernizing the Commission's National Environmental Policy Act Rules",
-   "summary": "In this document (Order), the Federal Communications Commission (\"Commission\" or \"FCC\") takes action to cut through outdated and unnecessary burdens that have slowed deployment of critical communications networks. These reforms restore balance to the Commission's National Environmental Policy Act (NEPA) implementation…",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23385/modernizing-the-commissions-national-environmental-policy-act-rules",
-   "date": "2026-11-17",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Louisiana: Approval of State Coal Combustion Residuals Permit Program",
-   "summary": "The Environmental Protection Agency (EPA or the Agency) is approving the Louisiana coal combustion residuals (CCR) permit program under the Resource Conservation and Recovery Act (RCRA). After reviewing the CCR permit program application submitted by the Louisiana Department of Environmental Quality (LDEQ), EPA has…",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23383/louisiana-approval-of-state-coal-combustion-residuals-permit-program",
-   "date": "2026-11-17",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Washington State Parks and Recreation Commission's Marine Facilities Replacement Program in North Puget Sound, Washington",
-   "summary": "NMFS, upon request from the Washington State Parks and Recreation Commission (State Parks), issues this final rule and associated 5-year letter of authorization (LOA) pursuant to the Marine Mammal Protection Act (MMPA) to govern the taking of marine mammals incidental to construction activities conducted in support of…",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23365/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the",
-   "date": "2026-11-17",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Discontinuing Premium Collection From Policyholders on Certain National Service Life Insurance Policies",
-   "summary": "The Department of Veterans Affairs (VA) is proposing to amend its National Service Life Insurance (NSLI) regulations to cease collecting premiums from veterans with NSLI policies identified by the prefixes \"V,\" \"J,\" and \"JR.\" VA has determined there are sufficient financial resources to cover the remaining active…",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23364/discontinuing-premium-collection-from-policyholders-on-certain-national-service-life-insurance",
-   "date": "2026-11-17",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Sunshine Act Meeting Notice",
-   "summary": "",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23359/sunshine-act-meeting-notice",
-   "date": "2026-11-17",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Small Business Investment Company (SBIC) Leverage Availability",
-   "summary": "The U.S. Small Business Administration (\"SBA\" or \"Agency\") is publishing this interim final rule (\"IFR\") amending the U.S. Small Business Administration's loan guarantee regulations applicable to the Small Business Investment Company (\"SBIC\") program to implement the provisions of the Investing in All of America Act…",
-   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23358/small-business-investment-company-sbic-leverage-availability",
-   "date": "2026-11-17",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Statement of Trade Union Rights Regulations 2026",
-   "summary": "These Regulations make provision about the written statement which an employer is required to give to a worker under section 136A of the Trade Union and Labour Relations (Consolidation) Act 1992 (“the 1992 Act”). Section 136A was inserted into the 1992 Act by section 58 of the Employment Rights Act 2025 (“the 2025…",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1193/made/data.htm",
-   "date": "2026-11-16",
-   "topics": [
-    "administrative",
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Air Navigation (Restriction of Flying) (Preston, Lancashire) Regulations 2026",
-   "summary": "",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1173/made",
-   "date": "2026-11-16",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) (Amendment and Transitional Provision) Regulations 2026",
-   "summary": "These Regulations amend the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012 (S.I. 2012/2920) (“the 2012 Regulations”).",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1192/made/data.htm",
-   "date": "2026-11-13",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 10) Regulations 2026",
-   "summary": "",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1191/made",
-   "date": "2026-11-13",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Service and Administration Charges (England) Regulations 2026",
-   "summary": "These Regulations make provision about service charges and administration charges in relation to leases of dwellings in England.",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1190/made/data.htm",
-   "date": "2026-11-13",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
    "title": "Request for Information",
    "summary": "The National Center for Education Evaluation (NCEE), a center within the U.S. Department of Education's Institute of Education Sciences (IES), is charged (20 U.S.C. 9561(b)(2)) with evaluating how effectively States and local agencies implement the Individuals with Disabilities Education Act (IDEA) and provide early…",
    "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23155/request-for-information",
@@ -1487,44 +1378,6 @@
    "summary": "This final rule addresses: changes to the physician fee schedule (PFS); other changes to Medicare Part B payment policies to ensure that payment systems are updated to reflect changes in medical practice, relative value of services, and changes in the statute; codification of establishment of new policies for: the…",
    "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other",
    "date": "2026-11-09",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots",
-   "summary": "This final rule with comment period revises the Medicare Hospital Outpatient Prospective Payment System (OPPS) and the Medicare Ambulatory Surgical Center (ASC) payment system for calendar year 2027 based on our continuing experience with these systems. We also describe the changes to the amounts and factors used to…",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment",
-   "date": "2026-11-06",
-   "topics": [
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Prohibiting Illegal Discrimination in Registered Apprenticeship Programs",
-   "summary": "The Department of Labor (DOL or the Department) is issuing this final rule to remove the onerous and legally questionable affirmative action requirements that were previously imposed by the Department on Registered Apprenticeship program sponsors. This final rule also streamlines and simplifies nondiscrimination…",
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22680/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs",
-   "date": "2026-11-06",
-   "topics": [
-    "labor",
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Proposed Priorities and Definitions-Secretary's Supplemental Priorities and Definitions",
-   "summary": "The Secretary proposes to amend the Notice of Final Priorities and Definitions--Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States published in the Federal Register on September 9, 2025, the Notice of Final Priority and…",
-   "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions",
-   "date": "2026-11-05",
    "topics": [],
    "title_fa": "",
    "summary_fa": ""
