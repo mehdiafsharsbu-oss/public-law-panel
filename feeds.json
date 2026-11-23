@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:44:31Z",
+ "updated": "2026-11-23T15:04:57Z",
  "status": {
   "I·CONnect": {
    "ok": true,
@@ -67,6 +67,180 @@
   }
  },
  "articles": [
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "What’s New: Week of November 23",
+   "summary": "— Mikołaj Wolanin, PhD student, University of Warsaw (Poland) In this weekly feature, I-CONnect publishes a curated reading list of developments in public law. “Developments” may include a selection of... The post What’s New: Week of November 23 appeared first on www.iconnectblog.com .",
+   "link": "https://www.iconnectblog.com/whats-new-week-of-november-23/",
+   "date": "2026-11-23",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "What the ICJ’s Judgment Means for Rohingya Women",
+   "summary": "For years, Rohingya women who survived rape and torture at the hands of Myanmar’s military were met with denial. Now, the ICJ’s historic genocide ruling has given their testimonies new weight and recognition. But the violence against the Rohingya continues, and many survivors remain displaced. Their stories offer a…",
+   "link": "https://verfassungsblog.de/gambia-v-myanmar-violence-women/",
+   "date": "2026-11-23",
+   "topics": [
+    "intl"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Repairing a Genocide",
+   "summary": "The ICJ’s landmark judgment in The Gambia v. Myanmar does more than hold a State responsible for genocide. By ordering reparations, the Court breaks new ground for the rights of genocide survivors. But turning legal recognition into meaningful redress is another matter entirely. The real test may have only just begun.…",
+   "link": "https://verfassungsblog.de/repairing-a-genocide/",
+   "date": "2026-11-23",
+   "topics": [
+    "intl"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "A General Strike against the Spanish Opposition?",
+   "summary": "On 11 November 2026, Spain went on a general strike – for the first time in 14 years. The strike and the ensuing demonstrations were called for the housing crisis. While the left considered the strike legitimate, the right and far right saw in it yet another trick of the Spanish Prime Minister, Pedro Sánchez, to hurt…",
+   "link": "https://verfassungsblog.de/general-strike-spain/",
+   "date": "2026-11-23",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Making Precarity Orderly",
+   "summary": "On 12 November 2026, the Bundestag adopted a reform of the Wissenschaftszeitvertragsgesetz, the statute that governs fixed-term employment in German academia. The Bundesrat will consider it on 18 December. The reform brings real improvements. But it rests on an assumption it never examines: that precarity is a problem…",
+   "link": "https://verfassungsblog.de/making-precarity-orderly/",
+   "date": "2026-11-23",
+   "topics": [
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Constitutional Law Association",
+   "region": "uk",
+   "title": "Joel Platt: Liberty by Nobody? Immigration Bail and Government by Regulation",
+   "summary": "Decisions about liberty should have a clear owner. Hannah Arendt’s concept of the “rule by Nobody” captures the difficulty of locating responsibility within complex systems of administrative government. The Immigration and Asylum Bill (the Bill)* would move certain bail decisions (cl 1(2)(b)) to a new non-judicial…",
+   "link": "https://ukconstitutionallaw.org/2026/11/23/joel-platt-liberty-by-nobody-immigration-bail-and-government-by-regulation/",
+   "date": "2026-11-23",
+   "topics": [
+    "administrative",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "Two Bangladeshi Workers Executed in Saudi Arabia: A Human Rights Concern",
+   "summary": "The recent execution of two Bangladeshi migrant workers in Saudi Arabia has sent shockwaves through Bangladesh, raising serious questions about the right to life, fair-trial guarantees, and the protection of migrant workers under international human rights law. Beyond the tragedy of two lives lost, the case highlights…",
+   "link": "https://ohrh.law.ox.ac.uk/two-bangladeshi-workers-executed-in-saudi-arabia-a-human-rights-concern/",
+   "date": "2026-11-23",
+   "topics": [
+    "labor",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Protection Through Objection to ICC Jurisdiction: The Culmination of the U.S. Approach",
+   "summary": "The United States has objected to ICC jurisdiction over U.S. nationals ever since the negotiating history of the Rome Statute itself. The post Protection Through Objection to ICC Jurisdiction: The Culmination of the U.S. Approach appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/165613/protection-through-objection-icc-us-approach/?utm_source=rss&utm_medium=rss&utm_campaign=protection-through-objection-icc-us-approach",
+   "date": "2026-11-23",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "The Myth of Inevitability: AI Safety, Industry Incentives, and the Role of Law",
+   "summary": "Unless Congress acts on AI, states face a political opening — and a moral duty — to protect citizens' safety and well-being. The post The Myth of Inevitability: AI Safety, Industry Incentives, and the Role of Law appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/163918/ai-safety-incentives-role-of-law/?utm_source=rss&utm_medium=rss&utm_campaign=ai-safety-incentives-role-of-law",
+   "date": "2026-11-23",
+   "topics": [
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "The Oleshky Test: When Humanitarian Action Meets Geopolitics",
+   "summary": "The recent ceasefire and evacuation of civilians from Oleskhy, Ukraine, backed by Melania Trump, was an ad hoc political arrangement, not a reliable humanitarian solution. The post The Oleshky Test: When Humanitarian Action Meets Geopolitics appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/165409/ukraine-oleshky-evacuation-geopolitics/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-oleshky-evacuation-geopolitics",
+   "date": "2026-11-23",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Closing the Gap Between the Courtroom and Refugee Camps: A Pathway Towards the Rohingya’s Legal Inclusion",
+   "summary": "The international community can take steps to support the Rohingya's ability to shape implementation of the ICJ's decision in the Myanmar genocide case. The post Closing the Gap Between the Courtroom and Refugee Camps: A Pathway Towards the Rohingya’s Legal Inclusion appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/165267/icj-myanmar-rohingya-inclusion/?utm_source=rss&utm_medium=rss&utm_campaign=icj-myanmar-rohingya-inclusion",
+   "date": "2026-11-23",
+   "topics": [
+    "intl"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Early Edition: November 23, 2026",
+   "summary": "Sign up to receive the Early Edition in your inbox here. A curated weekday guide to major news and developments over the weekend. Here’s today’s news: IRAN WAR President Trump on Friday said Iran wants a deal to end hostilities but not one that is “acceptable” to him. Trump said “we want to make a real […] The post…",
+   "link": "https://www.justsecurity.org/165610/early-edition-november-23-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-23-2026",
+   "date": "2026-11-23",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Gambia v. Myanmar: A Landmark Judgment That Unsettles the Law of Genocide",
+   "summary": "ICJ's new approach makes it hard to distinguish ethnic cleansing, crimes against humanity, genocide; blurring will not necessarily strengthen Genocide Convention protections The post Gambia v. Myanmar: A Landmark Judgment That Unsettles the Law of Genocide appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/165595/gambia-myanmar-unsettling-law-of-genocide/?utm_source=rss&utm_medium=rss&utm_campaign=gambia-myanmar-unsettling-law-of-genocide",
+   "date": "2026-11-23",
+   "topics": [
+    "intl"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "A New Framework for AI Governance by Organizations",
+   "summary": "A major standard-setting organization releases a new model for responsible governance of artificial intelligence. The post A New Framework for AI Governance by Organizations first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/23/marchant-a-new-framework-for-ai-governance-by-organizations/",
+   "date": "2026-11-23",
+   "topics": [
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
   {
    "source": "I·CONnect",
    "region": "intl",
@@ -298,52 +472,6 @@
    "summary_fa": ""
   },
   {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Early Edition: November 20, 2026",
-   "summary": "Sign up to receive the Early Edition in your inbox here. A curated weekday guide to major news and developments over the last 24 hours. Here’s today’s news: IRAN WAR President Trump yesterday told Axios that he won’t make a decision about the next step in the Iran war until the new year. Trump said “I […] The post…",
-   "link": "https://www.justsecurity.org/165471/early-edition-november-20-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-20-2026",
-   "date": "2026-11-20",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "What Can Congress Do to Stop the Iran War?",
-   "summary": "Brian Finucane and Tess Bridgeman discuss what authorities Congress could use to try to force the Trump administration to end the war in Iran. The post What Can Congress Do to Stop the Iran War? appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/165403/what-can-congress-do-stop-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=what-can-congress-do-stop-iran-war",
-   "date": "2026-11-20",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Collection: The Iran War",
-   "summary": "Experts analyze the US-Israel Iran military conflicts - covering nuclear diplomacy; strategic, security, and regional implications; and domestic and international law. The post Collection: The Iran War appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/114556/collection-israel-iran-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=collection-israel-iran-conflict",
-   "date": "2026-11-20",
-   "topics": [
-    "intl"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions",
-   "summary": "A public resource tracking all the legal challenges to the Trump administration's executive orders and actions. The post Litigation Tracker: Legal Challenges to Trump Administration Actions appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=tracker-litigation-legal-challenges-trump-administration",
-   "date": "2026-11-20",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "The Regulatory Review",
    "region": "us",
    "title": "Converting Awards of Federal Benefits Into Monetary Payments",
@@ -405,28 +533,6 @@
    "summary_fa": ""
   },
   {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Milestone Crossed: 1,000 Cases Filed Against Trump Administration Policies",
-   "summary": "Charts show different success rates for plaintiffs and the federal government. The post Milestone Crossed: 1,000 Cases Filed Against Trump Administration Policies appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/165130/1000-litigation-cases-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=1000-litigation-cases-trump-administration",
-   "date": "2026-11-19",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Bukele’s Troops in Haiti: The Frontlines of an Eroding Rules-Based Global Order?",
-   "summary": "The deployment of thousands of Salvadoran troops to Haiti entrenches a security model in the country beyond legal constraints and U.N. guardrails. The post Bukele’s Troops in Haiti: The Frontlines of an Eroding Rules-Based Global Order? appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/165102/bukeles-troops-haiti-eroding-rules-based-order/?utm_source=rss&utm_medium=rss&utm_campaign=bukeles-troops-haiti-eroding-rules-based-order",
-   "date": "2026-11-19",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "The Regulatory Review",
    "region": "us",
    "title": "Improving Agreements Between Agencies",
@@ -443,41 +549,6 @@
    "title": "The Public Turn in Trade Secrecy: Transparency and Institutional Power in EU Digital Law",
    "summary": "—Thomas Margoni, Research Professor of Intellectual Property Law, Director of the IP & IT Law Programme, and Board of Directors Member of Centre for IT and IP Law (CiTiP), Faculty... The post The Public Turn in Trade Secrecy: Transparency and Institutional Power in EU Digital Law appeared first on www.iconnectblog.com…",
    "link": "https://www.iconnectblog.com/the-public-turn-in-trade-secrecy-transparency-and-institutional-power-in-eu-digital-law/",
-   "date": "2026-11-18",
-   "topics": [
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Wissenschaftsfreiheit erfordert Wertneutralität",
-   "summary": "Die Forderung nach Wissenschaftsfreiheit wird traditionell damit begründet, dass Wissenschaft allein der Wahrheitssuche dient. Dem steht eine Gegenposition gegenüber, die von der unvermeidlichen Wertgebundenheit aller Erkenntnistätigkeit ausgeht. Mit dem Wiedererstarken rechtspopulistischer Strömungen birgt dieses…",
-   "link": "https://verfassungsblog.de/wissenschaftsfreiheit-erfordert-wertneutralitat/",
-   "date": "2026-11-18",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Das autoritäre Missverständnis",
-   "summary": "Der Streit um die Reform der Universitäten, ihre Funktionsbedingungen und zukünftige Verfasstheit ist in vollem Gange. Hierzulande setzen die Debatten an den – so heißt es – fiskalisch bedingten Kürzungen an, die in den einzelnen Bundesländern in unterschiedlicher Zeitlichkeit und mit ungleicher Vehemenz wirken. Die…",
-   "link": "https://verfassungsblog.de/das-autoritare-missverstandnis/",
-   "date": "2026-11-18",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Hybride Kriegsführung im Supermarkt?",
-   "summary": "Spätestens seit dem russischen Überfall auf die Ukraine sind digitale Bedrohungen für europäische Infrastruktur ins öffentliche Bewusstsein gerückt. Im Fokus standen bislang Bereiche wie Stromversorgung, Gesundheitswesen und öffentliche Verwaltung. Jüngst nahmen Hacker jedoch ein überraschendes Ziel ins Visier:…",
-   "link": "https://verfassungsblog.de/hybride-kriegsfuhrung-im-supermarkt/",
    "date": "2026-11-18",
    "topics": [
     "ai"
@@ -543,20 +614,6 @@
    "date": "2026-11-17",
    "topics": [
     "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "The Great Norwegian Reset",
-   "summary": "On 13 November 2026, the Norwegian Supreme Court delivered a landmark judgment in the North Sea Fields case. The Court held that environmental impact assessments (EIAs) must address downstream emissions from burning extracted oil and gas (Scope 3). Just as the ICJ reframed States’ responsibility for climate change in…",
-   "link": "https://verfassungsblog.de/the-great-norwegian-reset/",
-   "date": "2026-11-17",
-   "topics": [
-    "constitutional",
-    "intl"
    ],
    "title_fa": "",
    "summary_fa": ""
@@ -649,19 +706,6 @@
    "summary_fa": ""
   },
   {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Inclusive Voting Practices in Brazil",
-   "summary": "—Antonio Moreira Maués, Professor of Constitutional Law, Federal University of Pará The second round of the 2026 Brazilian presidential election was marked by Lula’s surprising victory. No presidential candidate trailing... The post Inclusive Voting Practices in Brazil appeared first on www.iconnectblog.com .",
-   "link": "https://www.iconnectblog.com/inclusive-voting-practices-in-brazil/",
-   "date": "2026-11-15",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Oxford Human Rights Hub",
    "region": "other",
    "title": "Quand le bourreau devient le télédiffuseur : retransmission en direct du peloton d’exécution de Fort Hood",
@@ -715,19 +759,6 @@
    "link": "https://balkin.blogspot.com/2026/11/using-advisory-opinions-not-podcast.html",
    "date": "2026-11-13",
    "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "The Regulatory Review",
-   "region": "us",
-   "title": "Week in Review",
-   "summary": "Supreme Court allows border wall construction in Big Bend, USDA seeks to tighten SNAP requirements, and more… The post Week in Review first appeared on The Regulatory Review .",
-   "link": "https://www.theregreview.org/2026/11/13/week-in-review-437/",
-   "date": "2026-11-13",
-   "topics": [
-    "constitutional"
-   ],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -824,17 +855,6 @@
    "topics": [
     "rights"
    ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Oxford Human Rights Hub",
-   "region": "other",
-   "title": "How Jury Equity in England and Wales Undermines the Right to a Fair Trial",
-   "summary": "The recent contempt proceedings brought by Mr. Justice Johnson against Rajiv Menon KC has drawn attention to the principle of Jury Equity. This principle empowers Jurors to give verdicts ‘according to their conscience’ (Warner, para 16). Mr. Menon has been accused of informing Jurors in a hearing about this power…",
-   "link": "https://ohrh.law.ox.ac.uk/how-jury-equity-in-england-and-wales-undermines-the-right-to-a-fair-trial/",
-   "date": "2026-11-06",
-   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -1077,19 +1097,6 @@
    "summary_fa": ""
   },
   {
-   "source": "UK Constitutional Law Association",
-   "region": "uk",
-   "title": "Craig Wells: The Veneer of Contentment: Mustafa, Salford and the Gaps the Deprivation of Liberty Reference Left Behind",
-   "summary": "In June I argued on this blog that the Supreme Court’s decision in A Reference by the Attorney General for Northern Ireland [2026] UKSC 16 broke faith with a discipline that runs from chapter 29 of the Magna Carta through the writ of habeas corpus to Article 5: that a confinement must rest on a […]",
-   "link": "https://ukconstitutionallaw.org/2026/10/19/craig-wells-the-veneer-of-contentment-mustafa-salford-and-the-gaps-the-deprivation-of-liberty-reference-left-behind/",
-   "date": "2026-10-19",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "UK Human Rights Blog",
    "region": "uk",
    "title": "The UK Human Rights Blog has moved to Substack",
@@ -1152,6 +1159,71 @@
   }
  ],
  "laws": [
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Air Navigation (Restriction of Flying) (Spring Park, Wiltshire) Regulations 2026",
+   "summary": "The Secretary of State for Transport has decided that it is necessary in the public interest for reasons of national defence to restrict the flying of unmanned aircraft in the vicinity of Corsham, Wiltshire.",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1220/made/data.htm",
+   "date": "2026-11-23",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Air Quality (Amendment) Regulations (Northern Ireland) 2026",
+   "summary": "These Regulations are made in exercise of the powers under Article 15(1), (2) and (5) of the Environment (Northern Ireland) Order 2002.",
+   "link": "http://www.legislation.gov.uk/nisr/2026/200/made/data.htm",
+   "date": "2026-11-23",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2026",
+   "summary": "These Regulations are made under the Health and Safety at Work (Northern Ireland) Order 1978 (“the 1978 Order”) and the Offshore, and Pipelines, Safety (Northern Ireland) Order 1992. They repeal certain provisions of the Factories Act (Northern Ireland) 1965 and the Office and Shop Premises Act (Northern Ireland)…",
+   "link": "http://www.legislation.gov.uk/nisr/2026/198/made/data.htm",
+   "date": "2026-11-23",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Gas Safety (Management) (Amendment) Regulations (Northern Ireland) 2026",
+   "summary": "These Regulations amend the Gas Safety (Management) Regulations (Northern Ireland) 1997 (S.R. 1997 No. 195) (“the 1997 Regulations”). The 1997 Regulations provide for the preparation and acceptance of safety cases in respect of the conveyance of gas in a network and impose requirements in respect of gas escapes and…",
+   "link": "http://www.legislation.gov.uk/nisr/2026/199/made/data.htm",
+   "date": "2026-11-23",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "Correction Slip",
+   "summary": "These Regulations introduce charges for or in connection with the carrying out by the Secretary of State of the Secretary of State’s functions under Part 4 of the Petroleum Act 1998 (c. 17) (“the 1998 Act”).",
+   "link": "http://www.legislation.gov.uk/uksi/2026/853/pdfs/uksics_20260853_en_001.pdf",
+   "date": "2026-11-23",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
   {
    "source": "US Federal Register",
    "region": "us",
@@ -1332,58 +1404,6 @@
    "summary_fa": ""
   },
   {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Air Navigation (Restriction of Flying) (Loch Goil) Regulations 2026",
-   "summary": "",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1216/made",
-   "date": "2026-11-21",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Air Navigation (Restriction of Flying) (Portmoak, Perth and Kinross) (Emergency) Regulations 2026",
-   "summary": "These Regulations impose restrictions of an emergency nature on flying in the area specified in the Schedule. They are intended to be of temporary duration and will be revoked as soon as the emergency in question has passed.",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1224/made/data.htm",
-   "date": "2026-11-20",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Financial Services and Markets Act 2000 (Cryptoassets) (Miscellaneous Amendments) Regulations 2026",
-   "summary": "These Regulations amend and add to the regulatory regime for certain cryptoasset activities pursuant to powers conferred by the Financial Services and Markets Act 2000 (c. 8) (“the Act”).",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1219/made/data.htm",
-   "date": "2026-11-20",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Air Navigation (Restriction of Flying) (Helicopter Flight) (No. 11) Regulations 2026",
-   "summary": "",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1211/made",
-   "date": "2026-11-20",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "US Federal Register",
    "region": "us",
    "title": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
@@ -1426,46 +1446,6 @@
    "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23729/federal-employees-retirement-system-present-value-conversion-factors-for-spouses-of-deceased",
    "date": "2026-11-20",
    "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Individual Savings Account (Amendment and Revocation) Regulations 2026",
-   "summary": "These Regulations amend the Individual Savings Accounts Regulations 1998 (“the principal Regulations”) and the Individual Savings Account (Amendment) Regulations 2025, and revoke the Individual Savings Account (Amendment) (No. 2) Regulations 2026.",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1218/made/data.htm",
-   "date": "2026-11-19",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Traffic Orders and Notices (Provision of Digital Information) (England) Regulations 2026",
-   "summary": "These Regulations make provision to require traffic regulation authorities in England to provide information to the Secretary of State about the traffic regulation measures that they make. The Secretary of State will, in turn, publish that data in open data format (available via…",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1202/made/data.htm",
-   "date": "2026-11-19",
-   "topics": [
-    "administrative",
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2026",
-   "summary": "These Regulations add to the list of “relevant enactments” for the purposes of sections 13 to 17 of the Financial Services and Markets Act 2023 (c. 29) (“the Act”). Under section 13 of the Act, the Treasury may make regulations (an “FMI sandbox”) which may modify the effect or application of such relevant enactments…",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1215/made/data.htm",
-   "date": "2026-11-19",
-   "topics": [
-    "administrative"
-   ],
    "title_fa": "",
    "summary_fa": ""
   },
