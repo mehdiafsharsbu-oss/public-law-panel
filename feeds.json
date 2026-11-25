@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:03:45Z",
+ "updated": "2026-11-25T14:43:34Z",
  "status": {
   "I·CONnect": {
    "ok": true,
@@ -10,8 +10,8 @@
    "error": "404 Client Error: Not Found for url: https://blog-iacl-aidc.org/feed/"
   },
   "EJIL: Talk!": {
-   "ok": true,
-   "items": 0
+   "ok": false,
+   "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "Verfassungsblog": {
    "ok": true,
@@ -68,11 +68,160 @@
  },
  "articles": [
   {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Es wird einmal",
+   "summary": "Das Strafrecht erzählt die Geschichte von Gewalt gegen Frauen von ihrem Ende her. Es rekonstruiert die Tat, klärt die Schuldfrage und bemisst die Strafe. Auch kriminalpolitische Debatten folgen häufig dieser Dramaturgie. Wie sehr andere Erzählweisen unseren Blick auf Gewalt und ihre Ursachen verändern können, lässt…",
+   "link": "https://verfassungsblog.de/gewalt-gegen-frauen-strafrecht/",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Im Schatten der Körperlichkeit",
+   "summary": "Mit dem Referentenentwurf vom 2. November 2026 will das BMJV erhebliche verbale und nonverbale sexuelle Belästigungen ohne körperliche Berührung unter Strafe stellen. Das Phänomen, bekannt als sog. Catcalling, ist vielgestaltig: Es umfasst Äußerungen zu sexualbezogenen Handlungen, Kommentare zum äußeren…",
+   "link": "https://verfassungsblog.de/catcalling/",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Sexual and Gender-Based Violence in The Gambia v. Myanmar",
+   "summary": "In The Gambia v. Myanmar, the International Court of Justice recognised rape, reproductive violence and decades of discriminatory policies as integral to the destruction of the Rohingya. In doing so, the Court has brought its jurisprudence closer to what feminist genocide scholars have long understood: that the…",
+   "link": "https://verfassungsblog.de/sexual-gender-based-violence-gambia-myanmar/",
+   "date": "2026-11-25",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Cornell and the “Rodeo” of Campus Sexual Violence",
+   "summary": "For the past decade, the battle over campus sexual violence in the United States has largely been a battle over Title IX. In the meantime, universities have had little incentive to find out how much sexual violence actually occurs on their campuses: the less they know, the better they look. A provision tucked into the…",
+   "link": "https://verfassungsblog.de/cornell-seven-title-ix/",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Gesetze allein schützen nicht",
+   "summary": "Eine Gewaltschutzanordnung soll eine Mutter vor ihrem Expartner schützen – eine Umgangsregelung zwingt sie, ihm regelmäßig zu begegnen. Was Familiengerichte als zwei getrennte Angelegenheiten behandeln, ist für die Betroffenen oft die Fortsetzung derselben Gewalt. Mit der geplanten Reform des Kindschaftsrechts will…",
+   "link": "https://verfassungsblog.de/kindschaftsrecht-reform/",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "The Right to Access to Adequate Housing in South Africa: Still a Human Right or has it become a Privilege?",
+   "summary": "In recent years, tensions among property owners, occupiers, and the government have intensified as South Africa’s housing crisis continues to worsen. Recent experiences indicate that the government takes forever to provide housing or temporary emergency accommodation to people facing evictions and who have no means to…",
+   "link": "https://ohrh.law.ox.ac.uk/the-right-to-access-to-adequate-housing-in-south-africa-still-a-human-right-or-has-it-become-a-privilege/",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Puppet Sovereigns and Occupation by Proxy",
+   "summary": "Experts examine whether proxy occupation can occur through a foreign power exerting control over a previously legitimate local government. The post Puppet Sovereigns and Occupation by Proxy appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/162181/puppet-sovereigns-and-occupation-by-proxy/?utm_source=rss&utm_medium=rss&utm_campaign=puppet-sovereigns-and-occupation-by-proxy",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "In The Gambia v. Myanmar, the ICJ Links Statelessness to Genocide – But Stops Short of Requiring Citizenship for all Members of the Rohingya Group",
+   "summary": "The ruling marks the first time the International Court of Justice has opined on the rights of stateless persons. The post In <i>The Gambia v. Myanmar</i>, the ICJ Links Statelessness to Genocide – But Stops Short of Requiring Citizenship for all Members of the Rohingya Group appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/165883/gambia-v-myanmar-statelessness-genocide-citizenship/?utm_source=rss&utm_medium=rss&utm_campaign=gambia-v-myanmar-statelessness-genocide-citizenship",
+   "date": "2026-11-25",
+   "topics": [
+    "intl"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Six Questions to Ask about COP 31",
+   "summary": "An expert answers six crucial questions about this year's United Nations Climate Change Conference in Antalya, Turkey. The post Six Questions to Ask about COP 31 appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/165836/six-questions-cop-31/?utm_source=rss&utm_medium=rss&utm_campaign=six-questions-cop-31",
+   "date": "2026-11-25",
+   "topics": [
+    "intl"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Why the Insurrection Act’s Broadest Trigger Should Be Read Narrowly",
+   "summary": "A look at the Insurrection Act's drafting history suggests that the law places substantial limits on presidential authority. The post Why the Insurrection Act’s Broadest Trigger Should Be Read Narrowly appeared first on Just Security .",
+   "link": "https://www.justsecurity.org/163241/insurrection-act-broadest-trigger-read-narrowly/?utm_source=rss&utm_medium=rss&utm_campaign=insurrection-act-broadest-trigger-read-narrowly",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Just Security",
+   "region": "us",
+   "title": "Early Edition: November 25, 2026",
+   "summary": "Sign up to receive the Early Edition in your inbox here. A curated weekday guide to major news and developments over the last 24 hours. Here’s today’s news: IRAN WAR Iran’s Islamic Revolutionary Guard Corps today said two oil tankers struck naval mines, and exploded and caught fire in the Strait of Hormuz. The IRGC’s…",
+   "link": "https://www.justsecurity.org/165910/early-edition-november-25-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-25-2026",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "The Role of Medicare Advantage in Reducing Medicare Spending",
+   "summary": "Medicare reforms could unlock cost-saving benefits while preserving the quality of care. The post The Role of Medicare Advantage in Reducing Medicare Spending first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/25/miller-the-role-of-medicare-advantage-in-reducing-medicare-spending/",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
    "source": "I·CONnect",
    "region": "intl",
    "title": "A Mayor in Dialogue with the ICC? Rethinking the Cartography of Legal Authority",
    "summary": "–Kiana Daryabeigi, PhD candidate, University of Geneva, Faculty of Law On 21 November 2024, Pre-Trial Chamber I of the International Criminal Court (ICC) issued an arrest warrant against Israeli Prime... The post A Mayor in Dialogue with the ICC? Rethinking the Cartography of Legal Authority appeared first on…",
    "link": "https://www.iconnectblog.com/a-mayor-in-dialogue-with-the-icc-rethinking-the-cartography-of-legal-authority/",
+   "date": "2026-11-24",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "The Only Reasonable Inference",
+   "summary": "Genocidal intent must be the only reasonable inference – but not the only intent. In The Gambia v. Myanmar, the judges of the International Court of Justice agreed on this distinction and disagreed on which inferences the evidence permitted. The existence of other intentions, such as forced displacement or collective…",
+   "link": "https://verfassungsblog.de/only-reasonable-inference-gambia-v-myanmar/",
    "date": "2026-11-24",
    "topics": [],
    "title_fa": "",
@@ -200,17 +349,6 @@
    "summary_fa": ""
   },
   {
-   "source": "Just Security",
-   "region": "us",
-   "title": "General Intent in Gambia v. Myanmar",
-   "summary": "Analysis of the International Court of Justice's judgment in The Gambia v. Myanmar on genocide. The post General Intent in <i>Gambia v. Myanmar</i> appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/165757/general-intent-in-igambia-v-myanmari/?utm_source=rss&utm_medium=rss&utm_campaign=general-intent-in-igambia-v-myanmari",
-   "date": "2026-11-24",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "The Regulatory Review",
    "region": "us",
    "title": "The Market Cannot Absorb America’s Flood Risk",
@@ -272,30 +410,6 @@
    "summary_fa": ""
   },
   {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "A General Strike against the Spanish Opposition?",
-   "summary": "On 11 November 2026, Spain went on a general strike – for the first time in 14 years. The strike and the ensuing demonstrations were called for the housing crisis. While the left considered the strike legitimate, the right and far right saw in it yet another trick of the Spanish Prime Minister, Pedro Sánchez, to hurt…",
-   "link": "https://verfassungsblog.de/general-strike-spain/",
-   "date": "2026-11-23",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Making Precarity Orderly",
-   "summary": "On 12 November 2026, the Bundestag adopted a reform of the Wissenschaftszeitvertragsgesetz, the statute that governs fixed-term employment in German academia. The Bundesrat will consider it on 18 December. The reform brings real improvements. But it rests on an assumption it never examines: that precarity is a problem…",
-   "link": "https://verfassungsblog.de/making-precarity-orderly/",
-   "date": "2026-11-23",
-   "topics": [
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "UK Constitutional Law Association",
    "region": "uk",
    "title": "Joel Platt: Liberty by Nobody? Immigration Bail and Government by Regulation",
@@ -320,54 +434,6 @@
     "labor",
     "rights"
    ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Series: Comparing National Trends in Cyber and Surveillance Expansion",
-   "summary": "Introducing a series on the expansion of cyber and surveillance powers convened by the Atlantic Council in partnership with Just Security. The post Series: Comparing National Trends in Cyber and Surveillance Expansion appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/165442/trends-cyber-surveillance-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=trends-cyber-surveillance-expansion",
-   "date": "2026-11-23",
-   "topics": [
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "Protection Through Objection to ICC Jurisdiction: The Culmination of the U.S. Approach",
-   "summary": "The United States has objected to ICC jurisdiction over U.S. nationals ever since the negotiating history of the Rome Statute itself. The post Protection Through Objection to ICC Jurisdiction: The Culmination of the U.S. Approach appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/165613/protection-through-objection-icc-us-approach/?utm_source=rss&utm_medium=rss&utm_campaign=protection-through-objection-icc-us-approach",
-   "date": "2026-11-23",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "The Myth of Inevitability: AI Safety, Industry Incentives, and the Role of Law",
-   "summary": "Unless Congress acts on AI, states face a political opening — and a moral duty — to protect citizens' safety and well-being. The post The Myth of Inevitability: AI Safety, Industry Incentives, and the Role of Law appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/163918/ai-safety-incentives-role-of-law/?utm_source=rss&utm_medium=rss&utm_campaign=ai-safety-incentives-role-of-law",
-   "date": "2026-11-23",
-   "topics": [
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Just Security",
-   "region": "us",
-   "title": "The Oleshky Test: When Humanitarian Action Meets Geopolitics",
-   "summary": "The recent ceasefire and evacuation of civilians from Oleskhy, Ukraine, backed by Melania Trump, was an ad hoc political arrangement, not a reliable humanitarian solution. The post The Oleshky Test: When Humanitarian Action Meets Geopolitics appeared first on Just Security .",
-   "link": "https://www.justsecurity.org/165409/ukraine-oleshky-evacuation-geopolitics/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-oleshky-evacuation-geopolitics",
-   "date": "2026-11-23",
-   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -455,52 +521,6 @@
    "topics": [
     "constitutional"
    ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "After Myanmar",
-   "summary": "On 19 November 2026, the International Court of Justice found that Myanmar committed genocide against the Rohingya in northern Rakhine State. For the first time in history, the Court held a state responsible for committing genocide, and not only for failing to prevent or punish it. What does this mean for South Africa…",
-   "link": "https://verfassungsblog.de/myanmar-icj-israel/",
-   "date": "2026-11-20",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "“The Court Has Now Opened the Door”",
-   "summary": "Thousands of miles separate The Gambia’s Atlantic coast from the villages and towns of Myanmar’s Rohingya. Yet in 2019, it was the small West African state that brought a case against Myanmar before the International Court of Justice (ICJ) in The Hague, accusing it of genocide. Seven years later, the Court has found…",
-   "link": "https://verfassungsblog.de/icj-the-gambia-v-myanmar/",
-   "date": "2026-11-20",
-   "topics": [
-    "intl"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "„Der Gerichtshof hat jetzt die Tür geöffnet“",
-   "summary": "Tausende Kilometer liegen zwischen der Atlantikküste Gambias und den Dörfern und Städten der Rohingya in Myanmar. Und doch war es der kleine westafrikanische Staat, der 2019 vor dem Internationalen Gerichtshof Klage gegen Myanmar erhob. Der Vorwurf: Völkermord. Sieben Jahre später hat der Gerichtshof Myanmar für…",
-   "link": "https://verfassungsblog.de/icj-the-gambia-v-myanmar-de/",
-   "date": "2026-11-20",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Long-Term Repair Through Inevitable Compromise",
-   "summary": "Kim Lane Scheppele, Laurent Pech and Maciej Kisilowski retorted Marcin Szwed’s response to their original blogpost. Unfortunately, the retort dismisses serious legal and social concerns. While the authors rightly blame the PiS government for inflicting the systemic rule-of-law crisis, they overlook serious concerns…",
-   "link": "https://verfassungsblog.de/long-term-repair-through-inevitable-compromise/",
-   "date": "2026-11-20",
-   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -730,19 +750,6 @@
    "summary_fa": ""
   },
   {
-   "source": "The Regulatory Review",
-   "region": "us",
-   "title": "Beyond ESG",
-   "summary": "To save our planet, we must learn from the failures of ESG and devise stronger regulations. The post Beyond ESG first appeared on The Regulatory Review .",
-   "link": "https://www.theregreview.org/2026/11/16/orts-beyond-esg/",
-   "date": "2026-11-16",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Oxford Human Rights Hub",
    "region": "other",
    "title": "Quand le bourreau devient le télédiffuseur : retransmission en direct du peloton d’exécution de Fort Hood",
@@ -784,17 +791,6 @@
    "summary": "The National Popular Vote Compact, if adopted by enough states, presents legal issues that are almost impossible to resolve in a federal court before a presidential election. This is a serious problem, as the ground rules for the campaign would be unclear and a crisis could ensue if the election results in a split…",
    "link": "https://balkin.blogspot.com/2026/11/using-advisory-opinions-not-podcast.html",
    "date": "2026-11-13",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Oxford Human Rights Hub",
-   "region": "other",
-   "title": "Quand les victimes deviennent des dossiers : le recul de Strasbourg dans l’affaire Lebedeva c. Russie",
-   "summary": "Le 3 septembre 2026, la Cour européenne des droits de l’homme (CEDH) a rendu publique sa décision dans l’affaire Lebedeva et autres c. Russie, adoptée le 7 juillet, par laquelle elle a rayé du rôle 879 requêtes dirigées contre la Russie. Les violations alléguées de la Convention européenne des droits de l’homme…",
-   "link": "https://ohrh.law.ox.ac.uk/quand-les-victimes-deviennent-des-dossiers-le-recul-de-strasbourg-dans-laffaire-lebedeva-c-russie/",
-   "date": "2026-11-12",
    "topics": [],
    "title_fa": "",
    "summary_fa": ""
@@ -1164,6 +1160,274 @@
   {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
+   "title": "The Domestic Abuse Act 2021 (Commencement No. 10) Regulations 2026",
+   "summary": "These Regulations are the tenth commencement regulations made under the Domestic Abuse Act 2021 (c. 17) (“the Act”).",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1212/made/data.htm",
+   "date": "2026-11-25",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Air Navigation (Restriction of Flying) (Stonehenge) (No. 2) Regulations 2026",
+   "summary": "These Regulations impose restrictions on the flying of aircraft in the vicinity of Stonehenge, Wiltshire during the winter solstice period where there will be a large gathering of persons. The Secretary of State for Transport has decided that flying should be restricted in that area for reasons of public safety and…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1234/made/data.htm",
+   "date": "2026-11-25",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "Correction Slip",
+   "summary": "The Infrastructure Consent (Pre-Application and Application Procedure and Transitional Provisions) (Wales) Regulations 2025 make provision for pre-application and application procedures for applications for infrastructure consent under the Infrastructure (Wales) Act 2024 (“the 2024 Act”). Mae Rheoliadau Cydsyniad…",
+   "link": "http://www.legislation.gov.uk/wsi/2025/1091/pdfs/wsics_20251091_en_001.pdf",
+   "date": "2026-11-25",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly",
+   "summary": "This proposed rule would revise the Medicare Advantage (Part C), Medicare Prescription Drug Benefit (Part D), and Programs of All- Inclusive Care for the Elderly regulations to implement changes related to marketing and communications, drug coverage, enrollment processes, special needs plans, and other programmatic…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program",
+   "date": "2026-11-25",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Protecting the Executive's Privileges and Enhancing Efficiencies in Federal Contracting",
+   "summary": "",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-24114/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Airworthiness Directives; The Boeing Company Airplanes",
+   "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 707 airplanes; Model 720 and 720B series airplanes; Model 727C, 727-100, -100C, -200, and -200F series airplanes; and Model 747-100, -100B, -100B SUD, -200B, -200C, -200F, - 300, 747SR, and 747SP series airplanes. This…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-24017/airworthiness-directives-the-boeing-company-airplanes",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Commission Information Collection Activities (FERC-549C); Comment Request; Extension",
+   "summary": "In compliance with the requirements of the Paperwork Reduction Act of 1995, the Federal Energy Regulatory Commission (Commission or FERC) is soliciting public comment on the currently approved information collection, FERC-549C (OMB Control No. 1902-0174), Standards for Business Practices of Interstate Natural Gas…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-24006/commission-information-collection-activities-ferc-549c-comment-request-extension",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Medicare, Medicaid, and Children's Health Insurance Programs; Provider Enrollment Application Fee Amount for Calendar Year 2027",
+   "summary": "This notice announces a $776.00 calendar year 2027 application fee for institutional providers that are initially enrolling in the Medicare or Medicaid program or the Children's Health Insurance Program (CHIP); revalidating their Medicare, Medicaid, or CHIP enrollment; or adding a new Medicare practice location. This…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-24000/medicare-medicaid-and-childrens-health-insurance-programs-provider-enrollment-application-fee-amount",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Agency Information Collection Activities: Comment Request",
+   "summary": "",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-23987/agency-information-collection-activities-comment-request",
+   "date": "2026-11-25",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Airworthiness Directives; Airbus SAS Airplanes",
+   "summary": "The FAA proposes to supersede Airworthiness Directive (AD) 2024-19-04, which applies to all Airbus SAS Model A350-941 and -1041 airplanes. AD 2024-19-04 requires a one-time detailed inspection of the engine nacelle anti-icing (NAI) forward bulkhead locating holes for elongation and loose fasteners and applicable…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-23985/airworthiness-directives-airbus-sas-airplanes",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Request for Comments Regarding International Trade Commission's Economic Analysis",
+   "summary": "Pursuant to Section 332 of the Tariff Act of 1930, the United States International Trade Commission (Commission) is seeking information from the public on its economic analysis, including its methodology and areas of focus.",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-23981/request-for-comments-regarding-international-trade-commissions-economic-analysis",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Airworthiness Directives; The Boeing Company Airplanes",
+   "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 757-200 and -300 series airplanes. This proposed AD was prompted by a report of missing and/or incorrectly installed lockwire on backshells found during engineering validation tests in the wing leading edge and engine…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-23979/airworthiness-directives-the-boeing-company-airplanes",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Establishment of Class E Airspace; Trading Bay Production Airport, Trading Bay, AK",
+   "summary": "This action establishes Class E airspace extending upward from 700 feet above the surface at Trading Bay Production Airport, Trading Bay, AK. This action supports the safety and management of instrument flight rules (IFR) operations at the airport.",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-24018/establishment-of-class-e-airspace-trading-bay-production-airport-trading-bay-ak",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Over-the-Counter Monograph Order Requests: Format and Content; Guidance for Industry; Availability",
+   "summary": "The Food and Drug Administration (FDA or Agency) is announcing the availability of a final guidance for industry titled \"Over-the- Counter Monograph Order Requests: Format and Content.\" This guidance provides recommendations on the format and content of the information that a requestor should provide in an…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-24015/over-the-counter-monograph-order-requests-format-and-content-guidance-for-industry-availability",
+   "date": "2026-11-25",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services; Notice and Filing Requirements, Minimum Opening Bids, Upfront Payments, and Other Procedures for Auction 115; Bidding Scheduled To Begin April 27, 2027",
+   "summary": "This document summarizes the procedures, deadlines, upfront payment, and minimum opening bid amounts adopted in the Auction 115 Procedures Public Notice for the Federal Communications Commission's (Commission) upcoming auction of 3,248 new flexible-use licenses in the 3.98-4.14 GHz portion of the Upper C-band. The…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-24013/auction-of-flexible-use-licenses-in-the-upper-c-band-for-next-generation-wireless-services-notice",
+   "date": "2026-11-25",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Mattresses From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+   "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that producers/exporters subject to this review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), March 1, 2024, through August 31, 2025. In addition, we are rescinding the review with respect to four…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-24012/mattresses-from-india-preliminary-results-and-rescission-in-part-of-antidumping-duty-administrative",
+   "date": "2026-11-25",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Petition for Rulemaking To Consider Amendments to Regulations Governing Interim Use of Rights-of-Way as Trails",
+   "summary": "The Board partially grants a petition for rulemaking and proposes amendments to its regulations implementing section 208 of the National Trails System Act Amendments of 1983 to streamline the railbanking process. Under the proposal, the Board would no longer issue Notices or Certificates of Interim Trail Use during…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-24003/petition-for-rulemaking-to-consider-amendments-to-regulations-governing-interim-use-of-rights-of-way",
+   "date": "2026-11-25",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Additions to the Entity List",
+   "summary": "In this rule, the Bureau of Industry and Security (BIS) amends the Export Administration Regulations (EAR) by adding 7 entities to the Entity List, under the destinations of Malaysia, Singapore, and Thailand. These entities have been determined by the U.S. Government to be acting contrary to the national security or…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list",
+   "date": "2026-11-25",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Thresholds Increase for the Major Assets Prohibition of the Depository Institution Management Interlocks Act Rule",
+   "summary": "The NCUA Board (Board) is issuing a final rule increasing two thresholds in its regulation implementing management official interlocks for purposes of the Depository Institution Management Interlocks Act (DIMIA). DIMIA authorizes NCUA to adjust the major assets prohibition thresholds through regulation to respond to…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-23994/thresholds-increase-for-the-major-assets-prohibition-of-the-depository-institution-management",
+   "date": "2026-11-25",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Control of Communicable Diseases; Foreign Quarantine",
+   "summary": "The Centers for Disease Control and Prevention (CDC), in the Department of Health and Human Services (HHS), is extending the expiration date of the interim final rule published on May 27, 2026. This interim final rule removes an exemption for lawful permanent residents from application of regulations implementing…",
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-23990/control-of-communicable-diseases-foreign-quarantine",
+   "date": "2026-11-25",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Voter Identification (Amendment of List of Specified Documents) (Northern Ireland) Regulations 2026",
+   "summary": "These Regulations make a change to the list of the types of photographic identification that can be used by a person wishing to vote in person at a polling station at UK Parliamentary elections in Northern Ireland. The changes to the UK Parliamentary election rules also apply to elections to the Northern Ireland…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1235/made/data.htm",
+   "date": "2026-11-24",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Air Navigation (Restriction of Flying) (Springholm, Dumfries and Galloway) (Emergency) Regulations 2026",
+   "summary": "These Regulations impose restrictions of an emergency nature on flying in the area specified in the Schedule. They are intended to be of temporary duration and will be revoked as soon as the emergency in question has passed.",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1233/made/data.htm",
+   "date": "2026-11-24",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
    "title": "The Air Traffic Management and Unmanned Aircraft (Specified Information etc.) Regulations 2026",
    "summary": "These Regulations specify, for the purposes of paragraph 5 of Schedule 9 to the Air Traffic Management and Unmanned Aircraft Act 2021, the information that a police officer may require from a person suspected of flying an unmanned aircraft.",
    "link": "http://www.legislation.gov.uk/uksi/2026/1228/made/data.htm",
@@ -1193,217 +1457,6 @@
    "title": "The Air Navigation (Restriction of Flying) (Edinburgh) (No. 3) Regulations 2026",
    "summary": "These Regulations impose restrictions on the flying of unmanned aircraft in the vicinity of Edinburgh, where the gathering of a large number of persons is due to take place for the Torchlight Parade and Hogmanay celebrations. The Civil Aviation Authority and the Department for Transport agree that it is necessary in…",
    "link": "http://www.legislation.gov.uk/uksi/2026/1223/made/data.htm",
-   "date": "2026-11-24",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Air Navigation (Restriction of Flying) (New Year Celebrations, London) Regulations 2026",
-   "summary": "",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1221/made",
-   "date": "2026-11-24",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Care Planning, Placement and Case Review (Wales) (Amendment) Regulations 2026 / Rheoliadau Cynllunio Gofal, Lleoli ac Adolygu Achosion (Cymru) (Diwygio) 2026",
-   "summary": "These Regulations amend the Care Planning, Placement and Case Review (Wales) Regulations 2015 (“the 2015 Regulations”). Mae’r Rheoliadau hyn yn diwygio Rheoliadau Cynllunio Gofal, Lleoli ac Adolygu Achosion (Cymru) 2015 (“Rheoliadau 2015”).",
-   "link": "http://www.legislation.gov.uk/wsi/2026/138/made/welsh/data.htm",
-   "date": "2026-11-24",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "Correction Slip",
-   "summary": "These Regulations bring into force sections 6, 7, 9, 10(3) and (4), 11, 12(2) to (4), 15(6) and (7), 18, 19, 22, 23, 24(2), 30(1), 31 and 32 of the Building Safety Levy (Scotland) Act 2026 (“the Act”) on 1 December 2026. This brings into force all the powers to make regulations under the Act.",
-   "link": "http://www.legislation.gov.uk/ssi/2026/324/pdfs/ssics_20260324_en_001.pdf",
-   "date": "2026-11-24",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Renewal of Department of Defense Federal Advisory Committees-Department of Defense Wage Committee",
-   "summary": "The DoD is publishing this notice to announce it is renewing the Department of Defense Wage Committee (\"the DoD Wage Committee\") as a discretionary Federal advisory committee.",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23946/renewal-of-department-of-defense-federal-advisory-committees-department-of-defense-wage-committee",
-   "date": "2026-11-24",
-   "topics": [
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Loyalty and the Exclusive Purpose Rule in Selecting Plan Investments and Exercising Shareholder Rights",
-   "summary": "In this proposed rule, the Department of Labor (Department) clarifies the fiduciary duty of loyalty under the Employee Retirement Income Security Act of 1974 (ERISA). The proposed rule affirms that ERISA's duty of loyalty requires fiduciaries to act with the exclusive purpose of ensuring retirement security and…",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23936/loyalty-and-the-exclusive-purpose-rule-in-selecting-plan-investments-and-exercising-shareholder",
-   "date": "2026-11-24",
-   "topics": [
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Airworthiness Directives; The Boeing Company Airplanes",
-   "summary": "The FAA is superseding Airworthiness Directive (AD) 2026-21- 08, which applied to certain The Boeing Company Model 737-700, -700C, - 800, and -900ER series airplanes. AD 2026-21-08 required a detailed inspection of the left- and right-side form-in-place (FiP) gasket at the engine fuel shutoff valve access panel for…",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23926/airworthiness-directives-the-boeing-company-airplanes",
-   "date": "2026-11-24",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Proposed Agency Information Collection Activities; Comment Request",
-   "summary": "Under the Paperwork Reduction Act of 1995 (PRA) and its implementing regulations, FRA seeks approval of the Information Collection Request (ICR) summarized below. Before submitting this ICR to the Office of Management and Budget (OMB) for approval, FRA is soliciting public comment on specific aspects of the activities…",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23912/proposed-agency-information-collection-activities-comment-request",
-   "date": "2026-11-24",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Proposed Agency Information Collection Activities; Comment Request",
-   "summary": "Under the Paperwork Reduction Act of 1995 (PRA) and its implementing regulations, FRA seeks approval of the Information Collection Request (ICR) summarized below. Before submitting this ICR to the Office of Management and Budget (OMB) for approval, FRA is soliciting public comment on specific aspects of the activities…",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23910/proposed-agency-information-collection-activities-comment-request",
-   "date": "2026-11-24",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Notice of Petition for Waiver of Compliance",
-   "summary": "This document provides the public notice that CSX Transportation Inc. (CSXT) petitioned FRA for relief from certain regulations concerning tests and inspections of extended haul trains.",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23897/notice-of-petition-for-waiver-of-compliance",
-   "date": "2026-11-24",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Notice of Petition for Extension of Waiver of Compliance",
-   "summary": "This document provides the public notice that the American Short Line and Regional Railroad Association (ASLRRA) petitioned FRA to extend an existing waiver of certain regulations related to hours of service.",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23896/notice-of-petition-for-extension-of-waiver-of-compliance",
-   "date": "2026-11-24",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Notice of Petition for Extension of Waiver of Compliance",
-   "summary": "This document provides the public notice that BNSF Railway Company (BNSF) petitioned FRA for an extension of relief from certain regulations concerning tests and inspections of extended haul trains.",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23895/notice-of-petition-for-extension-of-waiver-of-compliance",
-   "date": "2026-11-24",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Restructuring the Governance and Funding Model of the Consolidated Audit Trail",
-   "summary": "Although the consolidated audit trail (the \"CAT\") continues to be a necessary regulatory tool, its decentralized governance has presented certain challenges to administering the CAT. To address those shortcomings, the Securities and Exchange Commission (the \"Commission\" or the \"SEC\") proposes to assume direct control…",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23951/restructuring-the-governance-and-funding-model-of-the-consolidated-audit-trail",
-   "date": "2026-11-24",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Certain Corrosion-Resistant Steel Products From the Socialist Republic of Vietnam: Preliminary Negative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
-   "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines on a country-wide basis that imports of certain corrosion- resistant steel products (CORE) completed in Indonesia using cold- rolled steel (CRS) manufactured in the Socialist Republic of Vietnam (Vietnam) are not circumventing the antidumping duty…",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23944/certain-corrosion-resistant-steel-products-from-the-socialist-republic-of-vietnam-preliminary",
-   "date": "2026-11-24",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Certain Steel Wheels from the People's Republic of China: Preliminary Affirmative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
-   "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that imports of certain steel wheels (steel wheels), completed in the Socialist Republic of Vietnam (Vietnam) using hot- rolled steel (HRS) produced in the People's Republic of China (China), are circumventing the antidumping duty (AD) and…",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23943/certain-steel-wheels-from-the-peoples-republic-of-china-preliminary-affirmative-determination-of",
-   "date": "2026-11-24",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Certain Corrosion-Resistant Steel Products From the People's Republic of China: Preliminary Negative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
-   "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines on a country-wide basis that imports of certain corrosion- resistant steel products (CORE) completed in Indonesia using hot-rolled steel (HRS) or cold-rolled steel (CRS) manufactured in the People's Republic of China (China) are not circumventing the…",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23942/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-preliminary-negative",
-   "date": "2026-11-24",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Records Schedules; Availability and Request for Comments",
-   "summary": "The National Archives and Records Administration (NARA) publishes notice of certain Federal agency requests for records disposition authority (records schedules). We publish notice in the Federal Register and on regulations.gov for records schedules in which agencies propose to dispose of records they no longer need…",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23931/records-schedules-availability-and-request-for-comments",
-   "date": "2026-11-24",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Proposed Agency Information Collection Activities; Comment Request",
-   "summary": "Under the Paperwork Reduction Act of 1995 (PRA) and its implementing regulations, FRA seeks approval of the Information Collection Request (ICR) summarized below. Before submitting this ICR to the Office of Management and Budget (OMB) for approval, FRA is soliciting public comment on specific aspects of the activities…",
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23913/proposed-agency-information-collection-activities-comment-request",
    "date": "2026-11-24",
    "topics": [
     "administrative"
@@ -1491,20 +1544,6 @@
    "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
    "date": "2026-11-19",
    "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Agency Information Collection Activities; Submission for OMB Review; American Time Use Survey (ATUS) Super Intelligence (SI) Questions",
-   "summary": "The Department of Labor (DOL) is submitting this Bureau of Labor Statistics (BLS)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
-   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23506/agency-information-collection-activities-submission-for-omb-review-american-time-use-survey-atus",
-   "date": "2026-11-18",
-   "topics": [
-    "administrative",
-    "labor"
-   ],
    "title_fa": "",
    "summary_fa": ""
   }
