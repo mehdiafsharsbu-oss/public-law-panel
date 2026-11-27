@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-26T14:07:28Z",
+ "updated": "2026-11-27T14:05:36Z",
  "status": {
   "I·CONnect": {
    "ok": true,
-   "items": 0
+   "items": 10
   },
   "IACL-IADC Blog": {
    "ok": false,
@@ -67,6 +67,120 @@
   }
  },
  "articles": [
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Regulate the Reliance, Not the Tool: The Constitutional Case Against Banning Hallucinating AI in India",
+   "summary": "—Sanya Darakhshan Kishwar, Assistant Professor, Jindal Global Law School, O.P. Jindal Global University, Sonipat, India; Taskin Akhtar, Student, National University of Study and Research in Law, Ranchi, India Introduction With... The post Regulate the Reliance, Not the Tool: The Constitutional Case Against Banning…",
+   "link": "https://www.iconnectblog.com/regulate-the-reliance-not-the-tool-the-constitutional-case-against-banning-hallucinating-ai-in-india/",
+   "date": "2026-11-27",
+   "topics": [
+    "constitutional",
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Foreseeing Outcomes",
+   "summary": "The ICJ has ordered Myanmar to make reparations to the Rohingya, but much of the territory to which they might return is no longer under the control of the state. From the military regime to the pro-democracy resistance and the Arakan Army, competing political forces have very different visions for Myanmar’s future.…",
+   "link": "https://verfassungsblog.de/gambia-v-myanmar-responsibility/",
+   "date": "2026-11-27",
+   "topics": [
+    "intl"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Strasbourg Observers",
+   "region": "eu",
+   "title": "Not only a rule of law crisis: the Belgian ‘asylum crisis’ also violates Article 3 in M.V. and Others v. Belgium",
+   "summary": "By Eva Sevrin In M.V. and Others v. Belgium, the European Court of Human Rights returns to the Belgian asylum reception crisis and the consequences of the authorities’ failure to implement domestic court orders. The judgment is significant for two reasons. First, the violations of Article 6, §1 and 34 ECHR serve as a…",
+   "link": "https://strasbourgobservers.com/2026/11/27/not-only-a-rule-of-law-crisis-the-belgian-asylum-crisis-also-violates-article-3-in-m-v-and-others-v-belgium/",
+   "date": "2026-11-27",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Oxford Human Rights Hub",
+   "region": "other",
+   "title": "Rethinking Maintenance: Women’s Economic Security after Turkey’s Constitutional Court Ruling",
+   "summary": "On 30 September 2026, a Constitutional Court judgment annulling the words “for an indefinite period” in Article 175 of the Civil Code was published in Turkey’s Official Gazette. The provision allows a spouse who would fall into poverty because of divorce, and whose fault is not greater than the other spouse’s, to…",
+   "link": "https://ohrh.law.ox.ac.uk/rethinking-maintenance-womens-economic-security-after-turkeys-constitutional-court-ruling/",
+   "date": "2026-11-27",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Week in Review",
+   "summary": "Army detonates lead azide, FDA approves hormone therapy for breast cancer, and more… The post Week in Review first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/27/week-in-review-439/",
+   "date": "2026-11-27",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Unregulated Money in Video Games",
+   "summary": "Scholar proposes federal legislation to regulate in-game currency. The post Unregulated Money in Video Games first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/27/hsieh-unregulated-money-in-video-games/",
+   "date": "2026-11-27",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Algorithmic Constitutionalism: Reimagining Constitutional Authority in the Age of Artificial Intelligence",
+   "summary": "—Forhad Hossain, Lecturer, University of Asia Pacific, Bangladesh Public authorities increasingly use automation software in governance. Welfare agencies use Artificial Intelligence (AI) to flag risky claimants, tax authorities use it... The post Algorithmic Constitutionalism: Reimagining Constitutional Authority in…",
+   "link": "https://www.iconnectblog.com/algorithmic-constitutionalism-reimagining-constitutional-authority-in-the-age-of-artificial-intelligence/",
+   "date": "2026-11-26",
+   "topics": [
+    "constitutional",
+    "administrative",
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Two-And-A-Half Steps Forward and Two Steps Back",
+   "summary": "With its 13 November 2026 judgement in the North Sea Fields Case, the Norwegian Supreme Court invalidated the approvals for production from three Norwegian oilfields. In their thoughtful post, Colombo, Gloppen and Robiou du Pont summarise the factual context, case history and key findings. Here I will critically…",
+   "link": "https://verfassungsblog.de/north-sea-fields-case/",
+   "date": "2026-11-26",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Nur ausnahmsweise statt absolut",
+   "summary": "Für Schutz unter der EMRK an den europäischen Außengrenzen muss man entweder erkennbar besonders vulnerabel oder aber juristisch sehr gut geschult und begleitet sein. So könnte man die Urteile in den sogenannten Instrumentalisierungsfällen zusammenfassen, die der EGMR am 24. November 2026 verkündet hat. Sie…",
+   "link": "https://verfassungsblog.de/egmr-refoulement/",
+   "date": "2026-11-26",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
   {
    "source": "Verfassungsblog",
    "region": "eu",
@@ -276,6 +390,17 @@
    "summary_fa": ""
   },
   {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "A Mayor in Dialogue with the ICC? Rethinking the Cartography of Legal Authority",
+   "summary": "–Kiana Daryabeigi, PhD candidate, University of Geneva, Faculty of Law On 21 November 2024, Pre-Trial Chamber I of the International Criminal Court (ICC) issued an arrest warrant against Israeli Prime... The post A Mayor in Dialogue with the ICC? Rethinking the Cartography of Legal Authority appeared first on…",
+   "link": "https://www.iconnectblog.com/a-mayor-in-dialogue-with-the-icc-rethinking-the-cartography-of-legal-authority/",
+   "date": "2026-11-24",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
    "source": "Verfassungsblog",
    "region": "eu",
    "title": "The Only Reasonable Inference",
@@ -305,17 +430,6 @@
    "title": "Neutralität im Klassenzimmer",
    "summary": "Der Neutralitätsbegriff in der Schule hat einen unmissverständlichen verfassungsrechtlichen Rahmen. Er fordert von den Lehrkräften, sich aktiv und ständig zur freiheitlich demokratischen Grundordnung sowie den verfassungsrechtlichen Grundwerten zu bekennen. Eine normative Wertneutralität umfasst der Begriff gerade…",
    "link": "https://verfassungsblog.de/heckel-neutralitaet/",
-   "date": "2026-11-24",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Noch bei Trost?",
-   "summary": "Die Wendung „Noch bei Trost?“ changiert zwischen „Bist du noch bei Trost, hast du sie noch alle?“ und „Findest du noch Trost – in Zeiten, die vielen trostlos erscheinen, in denen Gewissheiten wegbrechen, die man für tragfähig gehalten hatte?“ Warum diese Frage in einem Gedankengang zu Wissenschaftsfreiheit? Weil…",
-   "link": "https://verfassungsblog.de/wissenschaftsfreiheit-politisierung-trost/",
    "date": "2026-11-24",
    "topics": [],
    "title_fa": "",
@@ -397,28 +511,13 @@
    "summary_fa": ""
   },
   {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "On the Tragic Constitutional Price of Doing Nothing",
-   "summary": "Before we rush to pass honest judgments on the actions taken by Judge Anna Korwin-Piotrowska aimed at saving whatever still remains of the authority of the Constitution, we need to be honest about the starting point of our discussion and embrace its broader constitutional context. While the critique they offer along…",
-   "link": "https://verfassungsblog.de/constitutional-price-of-doing-nothing-poland/",
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "What’s New: Week of November 23",
+   "summary": "— Mikołaj Wolanin, PhD student, University of Warsaw (Poland) In this weekly feature, I-CONnect publishes a curated reading list of developments in public law. “Developments” may include a selection of... The post What’s New: Week of November 23 appeared first on www.iconnectblog.com .",
+   "link": "https://www.iconnectblog.com/whats-new-week-of-november-23/",
    "date": "2026-11-23",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "What the ICJ’s Judgment Means for Rohingya Women",
-   "summary": "For years, Rohingya women who survived rape and torture at the hands of Myanmar’s military were met with denial. Now, the ICJ’s historic genocide ruling has given their testimonies new weight and recognition. But the violence against the Rohingya continues, and many survivors remain displaced. Their stories offer a…",
-   "link": "https://verfassungsblog.de/gambia-v-myanmar-violence-women/",
-   "date": "2026-11-23",
-   "topics": [
-    "intl"
-   ],
+   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -464,12 +563,36 @@
    "summary_fa": ""
   },
   {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Syria’s Next Test: Why Lasting Peace Cannot Be Built on Frozen Wartime Bargains",
+   "summary": "—Dr. Mehmet Sercan Ercan, Assistant Professor of Public Law, Istanbul University, International Institute of Genocide and Crimes Against Humanity In deeply divided societies, the hardest constitutional question is not what... The post Syria’s Next Test: Why Lasting Peace Cannot Be Built on Frozen Wartime Bargains…",
+   "link": "https://www.iconnectblog.com/syrias-next-test-why-lasting-peace-cannot-be-built-on-frozen-wartime-bargains/",
+   "date": "2026-11-22",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
    "source": "The Regulatory Review",
    "region": "us",
    "title": "How Zoning Determines Who Lives Where",
    "summary": "Sara C. Bronin examines how zoning and land use restrictions influence the growth and health of our communities. The post How Zoning Determines Who Lives Where first appeared on The Regulatory Review .",
    "link": "https://www.theregreview.org/2026/11/22/spotlight-how-zoning-determines-who-lives-where/",
    "date": "2026-11-22",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Governance Beyond the Judicial Council Model: The Nordic Court Services Learning from the Illiberal Backlash Against Judicial Self-Governance",
+   "summary": "–Aleksandra Dzięgielewska, Max Weber Fellow, Department of Law, European University Institute This blog post draws on the conclusions from a broader comparative study on the effectiveness of the Nordic Court... The post Governance Beyond the Judicial Council Model: The Nordic Court Services Learning from the Illiberal…",
+   "link": "https://www.iconnectblog.com/governance-beyond-the-judicial-council-model-the-nordic-court-services-learning-from-the-illiberal-backlash-against-judicial-self-governance/",
+   "date": "2026-11-21",
    "topics": [],
    "title_fa": "",
    "summary_fa": ""
@@ -496,6 +619,19 @@
    "date": "2026-11-21",
    "topics": [
     "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "The Challenges of Enacting a Durable Constitutional Amendment in Bangladesh",
+   "summary": "–Azhar Uddin Bhuiyan, Lecturer at the Department of Law, University of Dhaka, Bangladesh On 4 November 1972, Bangladesh’s Constituent Assembly promulgated the Constitution, which has been amended seventeen times over... The post The Challenges of Enacting a Durable Constitutional Amendment in Bangladesh appeared first…",
+   "link": "https://www.iconnectblog.com/the-challenges-of-enacting-a-durable-constitutional-amendment-in-bangladesh/",
+   "date": "2026-11-20",
+   "topics": [
+    "constitutional"
    ],
    "title_fa": "",
    "summary_fa": ""
@@ -551,6 +687,19 @@
    "summary_fa": ""
   },
   {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "The Role of Public Hearings in Advisory Opinions: Lessons for the European Court of Human Rights from the Inter-American Court of Human Rights Practices in Advisory Opinions",
+   "summary": "—Hannah Kuhl, Intern, GIZ Sector Program Human Rights, Children and Youth Rights; Master’s Student Human Rights, Friedrich-Alexander University, Nuremberg, Germany In March 2024, the Inter-American Court of Human Rights... The post The Role of Public Hearings in Advisory Opinions: Lessons for the European Court of…",
+   "link": "https://www.iconnectblog.com/the-role-of-public-hearings-in-advisory-opinions-lessons-for-the-european-court-of-human-rights-from-the-inter-american-court-of-human-rights-practices-in-advisory-opinions/",
+   "date": "2026-11-19",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
    "source": "Oxford Human Rights Hub",
    "region": "other",
    "title": "The Court’s approach to discrimination claims in the area of sexual crimes investigation: A persistent challenge?",
@@ -571,6 +720,19 @@
    "link": "https://www.theregreview.org/2026/11/19/caldwell-improving-agreements-between-agencies/",
    "date": "2026-11-19",
    "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "The Public Turn in Trade Secrecy: Transparency and Institutional Power in EU Digital Law",
+   "summary": "—Thomas Margoni, Research Professor of Intellectual Property Law, Director of the IP & IT Law Programme, and Board of Directors Member of Centre for IT and IP Law (CiTiP), Faculty... The post The Public Turn in Trade Secrecy: Transparency and Institutional Power in EU Digital Law appeared first on www.iconnectblog.com…",
+   "link": "https://www.iconnectblog.com/the-public-turn-in-trade-secrecy-transparency-and-institutional-power-in-eu-digital-law/",
+   "date": "2026-11-18",
+   "topics": [
+    "ai"
+   ],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -600,15 +762,13 @@
    "summary_fa": ""
   },
   {
-   "source": "The Regulatory Review",
-   "region": "us",
-   "title": "Drafting Regulatory Preambles for Judicial Review",
-   "summary": "ACUS recommends best practices for explaining agencies’ statutory interpretations and regulatory choices as judicial review evolves. The post Drafting Regulatory Preambles for Judicial Review first appeared on The Regulatory Review .",
-   "link": "https://www.theregreview.org/2026/11/18/deacon-nowacki-drafting-regulatory-preambles-for-judicial-review/",
-   "date": "2026-11-18",
-   "topics": [
-    "administrative"
-   ],
+   "source": "I·CONnect",
+   "region": "intl",
+   "title": "Resigning to Escape? Paraguay’s Congress Refused Santiago Peña’s Resignation and Impeached Him Anyway",
+   "summary": "—Adwaldo Lins Peixoto Neto, Federal University of Minas Gerais (Brazil) Impeachment is a democratic but turbulent legal and political instrument. Its turbulence usually comes from the legislature: rushed trials, flimsy... The post Resigning to Escape? Paraguay’s Congress Refused Santiago Peña’s Resignation and…",
+   "link": "https://www.iconnectblog.com/resigning-to-escape-paraguays-congress-refused-santiago-penas-resignation-and-impeached-him-anyway/",
+   "date": "2026-11-17",
+   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -632,30 +792,6 @@
    "summary": "In July 2026, the High Court in Dominica delivered a long overdue victory for women and girls in the Commonwealth Caribbean. In AB and Geoffrey Lafond v the Commonwealth of Dominica, the court found the country’s colonial-era abortion laws violated women’s and girl’s rights to security of the person, liberty,…",
    "link": "https://ohrh.law.ox.ac.uk/caribbean-high-court-declares-colonial-era-criminal-abortion-law-a-violation-of-womens-rights/",
    "date": "2026-11-17",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "The Regulatory Review",
-   "region": "us",
-   "title": "Making Better Rules by Encouraging Discussions Between Agencies",
-   "summary": "ACUS recommends early dialogue and flexible communication practices to improve interagency input in rulemaking. The post Making Better Rules by Encouraging Discussions Between Agencies first appeared on The Regulatory Review .",
-   "link": "https://www.theregreview.org/2026/11/17/carrigan-cline-making-better-rules-by-encouraging-discussions-between-agencies/",
-   "date": "2026-11-17",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Oxford Human Rights Hub",
-   "region": "other",
-   "title": "Quand le bourreau devient le télédiffuseur : retransmission en direct du peloton d’exécution de Fort Hood",
-   "summary": "Le Pentagone a annoncé qu’il exécutera Nidal Hasan, le major de l’armée condamné pour la fusillade de Fort Hood de 2009, par peloton d’exécution le 3 décembre, qui sera diffusée en direct. L’annonce est juridiquement sans précédent. C’est la première exécution militaire américaine depuis plus de soixante-cinq ans et…",
-   "link": "https://ohrh.law.ox.ac.uk/quand-le-bourreau-devient-le-telediffuseur-retransmission-en-direct-du-peloton-dexecution-de-fort-hood/",
-   "date": "2026-11-14",
    "topics": [],
    "title_fa": "",
    "summary_fa": ""
@@ -938,17 +1074,6 @@
    "summary_fa": ""
   },
   {
-   "source": "Strasbourg Observers",
-   "region": "eu",
-   "title": "Rule of law as a protection against arbitrariness – Sobczyńska and others v Poland",
-   "summary": "By Barbara Grabowska-Moroz In May 2026, the ECtHR decided Sobczyńska and others v Poland – a case suggesting the existence of structural shortcomings of judicial independence in the Polish legal system, which existed long before the rule of law crisis started in Poland in 2015. The case concerns the role of access to…",
-   "link": "https://strasbourgobservers.com/2026/10/23/rule-of-law-as-a-protection-against-arbitrariness-sobczynska-and-others-v-poland/",
-   "date": "2026-10-23",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "UK Constitutional Law Association",
    "region": "uk",
    "title": "Announcement: Lecture by Lord Justice Singh",
@@ -1032,127 +1157,61 @@
    ],
    "title_fa": "",
    "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Weekly Round-up: Labour Party conference, ‘one in, one out’ and competing extradition requests",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog In the news…",
-   "link": "https://ukhumanrightsblog.com/2026/10/03/weekly-round-up-labour-party-conference-one-in-one-out-and-competing-extradition-requests/",
-   "date": "2026-10-03",
-   "topics": [
-    "labor",
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Guest Post – Supreme Court: child sentencing legislation compatible with ECHR",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog The UK Human…",
-   "link": "https://ukhumanrightsblog.com/2026/09/23/guest-post-supreme-court-child-sentencing-legislation-compatible-with-echr/",
-   "date": "2026-09-23",
-   "topics": [
-    "constitutional",
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Redacted Rights: When does Article 10 ECHR confer a right to information?",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog A…",
-   "link": "https://ukhumanrightsblog.com/2026/09/21/redacted-rights-when-does-article-10-echr-confer-a-right-to-information/",
-   "date": "2026-09-21",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Law Pod UK latest episode: AI in healthcare",
-   "summary": "On the 10th of September, the National Commission into the Regulation of AI in Healthcare published its blueprint for regulating AI in the health service. It runs to 119 pages and 44 recommendations. This follows the equally hefty Jurisdiction Task Force legal statement on liability for AI harms, which I discussed…",
-   "link": "https://ukhumanrightsblog.com/2026/09/21/law-pod-uk-latest-episode-ai-in-healthcare/",
-   "date": "2026-09-21",
-   "topics": [
-    "administrative",
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "The Weekly Round Up: 80th Anniversary of David Maxwell Fyfe’s Nuremberg Speech, EU Return Hubs, Terrorist Connections, and Retrospective Denial of Parole",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog In the news…",
-   "link": "https://ukhumanrightsblog.com/2026/09/09/the-weekly-round-up-80th-anniversary-of-david-maxwell-fyfes-nuremberg-speech-eu-return-hubs-terrorist-connections-and-retrospective-denial-of-parole/",
-   "date": "2026-09-09",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Falcons: turning and turning in the widening gyre – nuisance and sensitivity",
-   "summary": "Thomas v. Nicholas [2026] EWCA Civ 947 This unusual neighbour dispute may clarify in time the law of nuisance upon which the Court of Appeal was divided. The CA took the unusual step of granting permission to appeal to the Supreme Court on a 2-1 decision. The Nicholas brothers, who breed falcons for the Middle […] The…",
-   "link": "https://ukhumanrightsblog.com/2026/09/01/falcons-turning-and-turning-in-the-widening-gyre-nuisance-and-sensitivity/",
-   "date": "2026-09-01",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "Leaky sandboxes and bursting reservoirs",
-   "summary": "Strange are the ways in which AI can escape and do harm; equally strange are the curious mechanisms whereby water can escape and do harm. Water Let’s start in the 19th century with water, and one of the most famous cases of all time, Rylands v. Fletcher. Fletcher owned a mine, Rylands (of The John […] The post Leaky…",
-   "link": "https://ukhumanrightsblog.com/2026/08/28/leaky-sandboxes-and-bursting-reservoirs/",
-   "date": "2026-08-28",
-   "topics": [
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "UK Human Rights Blog",
-   "region": "uk",
-   "title": "When can the Home Secretary revive an argument she withdrew below?",
-   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog Secretary of…",
-   "link": "https://ukhumanrightsblog.com/2026/08/21/when-can-the-home-secretary-revive-an-argument-she-withdrew-below/",
-   "date": "2026-08-21",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Notice & Comment",
-   "region": "us",
-   "title": "Untethered: How the Roberts Court is Rethinking the Law-Policy Relationship by Bennett Johnson and Daniel G. Aaron",
-   "summary": "The traditional conception of the judicial role in the U.S. government is to decide “cases” and “controversies” by “say[ing] what the law is.” Yet, an enduring question is to what extent consideration of policy may inform that task. Some might quickly dispose of this issue, as legal scholars have framed policy as a…",
-   "link": "https://www.yalejreg.com/untethered-how-the-roberts-court-is-rethinking-the-law-policy-relationship-by-bennett-johnson-and-daniel-g-aaron/",
-   "date": "2026-04-23",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
   }
  ],
  "laws": [
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Visitor Levy (Amendment of Returns and Miscellaneous Amendment) (Scotland) Regulations 2026",
+   "summary": "",
+   "link": "http://www.legislation.gov.uk/ssi/2026/355/made",
+   "date": "2026-11-27",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Bus Services (Contract Terms) (Wales) Regulations 2026 / Rheoliadau Gwasanaethau Bysiau (Telerau Contract) (Cymru) 2026",
+   "summary": "These Regulations set out the terms which must be included in a local bus service contract entered into under section 10 of the Bus Services (Wales) Act 2026. Mae’r Rheoliadau hyn yn nodi’r telerau y mae rhaid eu cynnwys mewn contract gwasanaeth bysiau lleol yr ymrwymir iddo o dan adran 10 o Ddeddf Gwasanaethau Bysiau…",
+   "link": "http://www.legislation.gov.uk/wsi/2026/145/made/welsh/data.htm",
+   "date": "2026-11-27",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Legislation (Wales) Act 2019 (Amendment of Schedule 1) Regulations 2026 / Rheoliadau Deddf Deddfwriaeth (Cymru) 2019 (Diwygio Atodlen 1) 2026",
+   "summary": "These Regulations amend Schedule 1 to the Legislation (Wales) Act 2019, which makes provision about the meaning of certain words and expressions when they appear in Acts of Senedd Cymru and Welsh subordinate instruments. The words and expressions are to be interpreted in accordance with Schedule 1 except so far as…",
+   "link": "http://www.legislation.gov.uk/wsi/2026/143/made/welsh/data.htm",
+   "date": "2026-11-27",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The English Devolution and Community Empowerment Act 2026 (Commencement No. 6 and Transitional Provisions and Saving) Regulations 2026",
+   "summary": "These Regulations are the sixth commencement regulations made under the English Devolution and Community Empowerment Act 2026 (c. 23) (“the 2026 Act”).",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1242/made/data.htm",
+   "date": "2026-11-27",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
   {
    "source": "US Federal Register",
    "region": "us",
@@ -1331,23 +1390,9 @@
   {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
-   "title": "The Libya (Sanctions) (EU Exit) (Amendment) Regulations 2026",
-   "summary": "These Regulations are made under the Sanctions and Anti-Money Laundering Act 2018 (c. 13) to amend the Libya (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/1665) (“the Libya Regulations”).",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1236/made/data.htm",
-   "date": "2026-11-26",
-   "topics": [
-    "administrative",
-    "intl"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Crime and Policing Act 2026 (Commencement No. 1) (Scotland) Regulations 2026",
-   "summary": "These Regulations bring into force on 9 December 2026 sections 121 and 126(1) and (2) of the Crime and Policing Act 2026 (“the Act”). Under section 255(7) of the Act, the Scottish Ministers are able to commence certain of its provisions by regulations in relation to Scotland.",
-   "link": "http://www.legislation.gov.uk/ssi/2026/354/made/data.htm",
+   "title": "The Bankruptcy and Attachment (Miscellaneous Amendment) (Scotland) Regulations 2026",
+   "summary": "These Regulations amend the Bankruptcy (Scotland) Act 2016 (“the 2016 Act”), the Debt Arrangement and Attachment (Scotland) Act 2002 (“the 2002 Act”) and the Bankruptcy (Scotland) Regulations 2016 (“the 2016 Regulations”).",
+   "link": "http://www.legislation.gov.uk/ssi/2026/356/made/data.htm",
    "date": "2026-11-26",
    "topics": [
     "administrative"
@@ -1358,9 +1403,9 @@
   {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
-   "title": "The Non-Domestic Rating (Electric Vehicle Charging Point Relief) (Wales) Regulations 2026 / Rheoliadau Ardrethu Annomestig (Rhyddhad Man Gwefru Cerbydau Trydan) (Cymru) 2026",
-   "summary": "These Regulations, which apply in relation to Wales only, set out the conditions to be satisfied for an electric vehicle charging point and associated parking bay to be eligible for full relief from non-domestic rating liability. Mae’r Rheoliadau hyn, sy’n gymwys o ran Cymru yn unig, yn nodi’r amodau sydd i’w bodloni…",
-   "link": "http://www.legislation.gov.uk/wsi/2026/141/made/welsh/data.htm",
+   "title": "The Greater London Authority (Consolidated Council Tax Requirement Procedure) Regulations 2026",
+   "summary": "In relation to each financial year, the Greater London Authority (“the Authority”) is required to make the calculations required by section 85 of the Greater London Authority Act 1999 (“the 1999 Act”), including the calculation of its consolidated council tax requirement.",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1239/made/data.htm",
    "date": "2026-11-26",
    "topics": [
     "administrative"
@@ -1371,9 +1416,9 @@
   {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
-   "title": "The Newport (Communities) and the Torfaen (Communities) (Consequential and Miscellaneous Provisions) Regulations 2026 / Rheoliadau Casnewydd (Cymunedau) a Thorfaen (Cymunedau) (Darpariaethau Canlyniadol ac Amrywiol) 2026",
-   "summary": "The Democracy and Boundary Commission Cymru made the Newport (Communities) Order 2026 (“the Newport Order”) and the Torfaen (Communities) Order 2026 (“the Torfaen Order”) which established new community councils amongst other things. Gwnaeth Comisiwn Democratiaeth a Ffiniau Cymru Orchymyn Casnewydd (Cymunedau) 2026…",
-   "link": "http://www.legislation.gov.uk/wsi/2026/140/made/welsh/data.htm",
+   "title": "The Civil and Criminal Legal Aid (Remuneration) and Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2026",
+   "summary": "These Regulations amend the Civil Legal Aid (Remuneration) Regulations 2013 (S.I. 2013/422), the Criminal Legal Aid (Remuneration) Regulations 2013 (S.I. 2013/435) and the Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) Regulations 2022 (S.I. 2022/567) to amend…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1240/made/data.htm",
    "date": "2026-11-26",
    "topics": [
     "administrative"
@@ -1384,75 +1429,10 @@
   {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
-   "title": "The Administrative and Financial Provisions (2026 Act) (Commencement) Order (Northern Ireland) 2026",
-   "summary": "This Order brings into operation provisions of the Administrative and Financial Provisions Act (Northern Ireland) 2026 (“the 2026 Act”).",
-   "link": "http://www.legislation.gov.uk/nisr/2026/203/made/data.htm",
+   "title": "The Pension Protection Fund (Pension Compensation) (Amendment) Regulations 2026",
+   "summary": "Regulations 2 and 4 of these Regulations make amendments consequential on section 109 of the Pension Schemes Act 2026 (c. 22), which amends the Pensions Act 2004 (c. 35) and the Pensions Act 2008 (c. 30) to enable periodic compensation payments by the Pension Protection Fund (“PPF”) based on pre-1997 service to be…",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1238/made/data.htm",
    "date": "2026-11-26",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Climate Change (Carbon Budget 2038-2042) Regulations (Northern Ireland) 2026",
-   "summary": "These Regulations provide for a maximum total amount for the net Northern Ireland emissions account for the carbon budget period 2038-2042, as required by section 23(1) of the Climate Change Act (Northern Ireland) 2022. A carbon budget provides a limit on the maximum total greenhouse gas emissions which should not be…",
-   "link": "http://www.legislation.gov.uk/nisr/2026/202/made/data.htm",
-   "date": "2026-11-26",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Renters’ Rights Act 2025 (Commencement No. 4) Regulations 2026",
-   "summary": "These Regulations are the fourth commencement regulations made under the Renters’ Rights Act 2025 (c. 26) (“the 2025 Act”) and bring into force provisions governing the Private Rented Sector Database contained in Chapters 3 and 4 of Part 2 of that Act.",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1231/made/data.htm",
-   "date": "2026-11-26",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Pension Schemes Act 2026 (Commencement No. 2 and Transitional Provisions) Regulations 2026",
-   "summary": "Part 2 of these Regulations brings sections 109 to 111 of the Pension Schemes Act 2026 (c. 22) (“the 2026 Act”) into force on 31st December 2026, except in the circumstances set out, and for all purposes on 31st December 2027.",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1241/made/data.htm",
-   "date": "2026-11-26",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Care Planning, Placement and Case Review (England) (Amendment and Transitional Provision) Regulations 2026",
-   "summary": "These Regulations amend the Care Planning, Placement and Case Review (England) Regulations 2010 (“the 2010 Regulations”), which make provision about care planning for children who are looked after by local authorities. The amendments are made as a result of the commencement of the amendment to section 34 of the…",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1232/made/data.htm",
-   "date": "2026-11-26",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Water Supply and Sewerage Services (Customer Service Standards) (Amendment) Regulations 2026",
-   "summary": "These Regulations amend the Water Supply and Sewerage Services (Customer Service Standards) Regulations 2008 (S.I. 2008/594).",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1237/made/data.htm",
-   "date": "2026-11-25",
    "topics": [
     "administrative"
    ],
