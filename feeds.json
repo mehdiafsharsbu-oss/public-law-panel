@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-27T14:05:36Z",
+ "updated": "2026-11-28T13:23:08Z",
  "status": {
   "I·CONnect": {
    "ok": true,
-   "items": 10
+   "items": 0
   },
   "IACL-IADC Blog": {
    "ok": false,
@@ -68,16 +68,37 @@
  },
  "articles": [
   {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Regulate the Reliance, Not the Tool: The Constitutional Case Against Banning Hallucinating AI in India",
-   "summary": "—Sanya Darakhshan Kishwar, Assistant Professor, Jindal Global Law School, O.P. Jindal Global University, Sonipat, India; Taskin Akhtar, Student, National University of Study and Research in Law, Ranchi, India Introduction With... The post Regulate the Reliance, Not the Tool: The Constitutional Case Against Banning…",
-   "link": "https://www.iconnectblog.com/regulate-the-reliance-not-the-tool-the-constitutional-case-against-banning-hallucinating-ai-in-india/",
-   "date": "2026-11-27",
+   "source": "The Regulatory Review",
+   "region": "us",
+   "title": "Next Steps for the Navy",
+   "summary": "Scholars and experts discuss the Navy’s procurement policies and the U.S. naval defense industrial base. The post Next Steps for the Navy first appeared on The Regulatory Review .",
+   "link": "https://www.theregreview.org/2026/11/28/seminar-next-steps-for-the-navy/",
+   "date": "2026-11-28",
    "topics": [
-    "constitutional",
-    "ai"
+    "administrative"
    ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "Mit offenen Augen",
+   "summary": "Es war einmal eine Prinzessin. Die schlief ganze hundert Jahre lang. Da kam eines Tages ein Königssohn und stieg hinauf in ihr Gemach. Die Prinzessin war so schön, dass er die Augen nicht von ihr abwenden konnte. Er beugte sich nieder und küsste sie. Es war auch mal ein Mädchen, das ein rotes Käppchen trug. Eines…",
+   "link": "https://verfassungsblog.de/mit-offenen-augen/",
+   "date": "2026-11-27",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Verfassungsblog",
+   "region": "eu",
+   "title": "With Eyes Wide Open",
+   "summary": "Once upon a time, there was a princess. She slept for a hundred years. One day, a prince came along. He climbed up to her chamber and found her so beautiful that he couldn’t take his eyes off her. He bent down and kissed her. Then there was a little girl who wore a red cap. One day, on her way to visit her…",
+   "link": "https://verfassungsblog.de/with-eyes-wide-open/",
+   "date": "2026-11-27",
+   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -139,21 +160,6 @@
    "link": "https://www.theregreview.org/2026/11/27/hsieh-unregulated-money-in-video-games/",
    "date": "2026-11-27",
    "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Algorithmic Constitutionalism: Reimagining Constitutional Authority in the Age of Artificial Intelligence",
-   "summary": "—Forhad Hossain, Lecturer, University of Asia Pacific, Bangladesh Public authorities increasingly use automation software in governance. Welfare agencies use Artificial Intelligence (AI) to flag risky claimants, tax authorities use it... The post Algorithmic Constitutionalism: Reimagining Constitutional Authority in…",
-   "link": "https://www.iconnectblog.com/algorithmic-constitutionalism-reimagining-constitutional-authority-in-the-age-of-artificial-intelligence/",
-   "date": "2026-11-26",
-   "topics": [
-    "constitutional",
-    "administrative",
-    "ai"
-   ],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -390,46 +396,11 @@
    "summary_fa": ""
   },
   {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "A Mayor in Dialogue with the ICC? Rethinking the Cartography of Legal Authority",
-   "summary": "–Kiana Daryabeigi, PhD candidate, University of Geneva, Faculty of Law On 21 November 2024, Pre-Trial Chamber I of the International Criminal Court (ICC) issued an arrest warrant against Israeli Prime... The post A Mayor in Dialogue with the ICC? Rethinking the Cartography of Legal Authority appeared first on…",
-   "link": "https://www.iconnectblog.com/a-mayor-in-dialogue-with-the-icc-rethinking-the-cartography-of-legal-authority/",
-   "date": "2026-11-24",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Verfassungsblog",
    "region": "eu",
    "title": "The Only Reasonable Inference",
    "summary": "Genocidal intent must be the only reasonable inference – but not the only intent. In The Gambia v. Myanmar, the judges of the International Court of Justice agreed on this distinction and disagreed on which inferences the evidence permitted. The existence of other intentions, such as forced displacement or collective…",
    "link": "https://verfassungsblog.de/only-reasonable-inference-gambia-v-myanmar/",
-   "date": "2026-11-24",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Wider den Verhinderungsfetisch",
-   "summary": "Je konkreter die Vergesellschaftungspläne in Berlin werden, desto lauter fordert die Union ein bundesgesetzliches Einschreiten. Ein „Investitionsschutzgesetz“ des Bundes soll Vergesellschaftungen nur bei nachgewiesener „zwingender Notwendigkeit“ zulassen. Innenminister Dobrindt will damit in eigenen Worten „deutlich…",
-   "link": "https://verfassungsblog.de/investitionsschutzgesetz/",
-   "date": "2026-11-24",
-   "topics": [
-    "labor"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "Verfassungsblog",
-   "region": "eu",
-   "title": "Neutralität im Klassenzimmer",
-   "summary": "Der Neutralitätsbegriff in der Schule hat einen unmissverständlichen verfassungsrechtlichen Rahmen. Er fordert von den Lehrkräften, sich aktiv und ständig zur freiheitlich demokratischen Grundordnung sowie den verfassungsrechtlichen Grundwerten zu bekennen. Eine normative Wertneutralität umfasst der Begriff gerade…",
-   "link": "https://verfassungsblog.de/heckel-neutralitaet/",
    "date": "2026-11-24",
    "topics": [],
    "title_fa": "",
@@ -511,17 +482,6 @@
    "summary_fa": ""
   },
   {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "What’s New: Week of November 23",
-   "summary": "— Mikołaj Wolanin, PhD student, University of Warsaw (Poland) In this weekly feature, I-CONnect publishes a curated reading list of developments in public law. “Developments” may include a selection of... The post What’s New: Week of November 23 appeared first on www.iconnectblog.com .",
-   "link": "https://www.iconnectblog.com/whats-new-week-of-november-23/",
-   "date": "2026-11-23",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "UK Constitutional Law Association",
    "region": "uk",
    "title": "Joel Platt: Liberty by Nobody? Immigration Bail and Government by Regulation",
@@ -563,36 +523,12 @@
    "summary_fa": ""
   },
   {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Syria’s Next Test: Why Lasting Peace Cannot Be Built on Frozen Wartime Bargains",
-   "summary": "—Dr. Mehmet Sercan Ercan, Assistant Professor of Public Law, Istanbul University, International Institute of Genocide and Crimes Against Humanity In deeply divided societies, the hardest constitutional question is not what... The post Syria’s Next Test: Why Lasting Peace Cannot Be Built on Frozen Wartime Bargains…",
-   "link": "https://www.iconnectblog.com/syrias-next-test-why-lasting-peace-cannot-be-built-on-frozen-wartime-bargains/",
-   "date": "2026-11-22",
-   "topics": [
-    "constitutional"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "The Regulatory Review",
    "region": "us",
    "title": "How Zoning Determines Who Lives Where",
    "summary": "Sara C. Bronin examines how zoning and land use restrictions influence the growth and health of our communities. The post How Zoning Determines Who Lives Where first appeared on The Regulatory Review .",
    "link": "https://www.theregreview.org/2026/11/22/spotlight-how-zoning-determines-who-lives-where/",
    "date": "2026-11-22",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Governance Beyond the Judicial Council Model: The Nordic Court Services Learning from the Illiberal Backlash Against Judicial Self-Governance",
-   "summary": "–Aleksandra Dzięgielewska, Max Weber Fellow, Department of Law, European University Institute This blog post draws on the conclusions from a broader comparative study on the effectiveness of the Nordic Court... The post Governance Beyond the Judicial Council Model: The Nordic Court Services Learning from the Illiberal…",
-   "link": "https://www.iconnectblog.com/governance-beyond-the-judicial-council-model-the-nordic-court-services-learning-from-the-illiberal-backlash-against-judicial-self-governance/",
-   "date": "2026-11-21",
    "topics": [],
    "title_fa": "",
    "summary_fa": ""
@@ -619,19 +555,6 @@
    "date": "2026-11-21",
    "topics": [
     "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "The Challenges of Enacting a Durable Constitutional Amendment in Bangladesh",
-   "summary": "–Azhar Uddin Bhuiyan, Lecturer at the Department of Law, University of Dhaka, Bangladesh On 4 November 1972, Bangladesh’s Constituent Assembly promulgated the Constitution, which has been amended seventeen times over... The post The Challenges of Enacting a Durable Constitutional Amendment in Bangladesh appeared first…",
-   "link": "https://www.iconnectblog.com/the-challenges-of-enacting-a-durable-constitutional-amendment-in-bangladesh/",
-   "date": "2026-11-20",
-   "topics": [
-    "constitutional"
    ],
    "title_fa": "",
    "summary_fa": ""
@@ -687,19 +610,6 @@
    "summary_fa": ""
   },
   {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "The Role of Public Hearings in Advisory Opinions: Lessons for the European Court of Human Rights from the Inter-American Court of Human Rights Practices in Advisory Opinions",
-   "summary": "—Hannah Kuhl, Intern, GIZ Sector Program Human Rights, Children and Youth Rights; Master’s Student Human Rights, Friedrich-Alexander University, Nuremberg, Germany In March 2024, the Inter-American Court of Human Rights... The post The Role of Public Hearings in Advisory Opinions: Lessons for the European Court of…",
-   "link": "https://www.iconnectblog.com/the-role-of-public-hearings-in-advisory-opinions-lessons-for-the-european-court-of-human-rights-from-the-inter-american-court-of-human-rights-practices-in-advisory-opinions/",
-   "date": "2026-11-19",
-   "topics": [
-    "rights"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Oxford Human Rights Hub",
    "region": "other",
    "title": "The Court’s approach to discrimination claims in the area of sexual crimes investigation: A persistent challenge?",
@@ -724,19 +634,6 @@
    "summary_fa": ""
   },
   {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "The Public Turn in Trade Secrecy: Transparency and Institutional Power in EU Digital Law",
-   "summary": "—Thomas Margoni, Research Professor of Intellectual Property Law, Director of the IP & IT Law Programme, and Board of Directors Member of Centre for IT and IP Law (CiTiP), Faculty... The post The Public Turn in Trade Secrecy: Transparency and Institutional Power in EU Digital Law appeared first on www.iconnectblog.com…",
-   "link": "https://www.iconnectblog.com/the-public-turn-in-trade-secrecy-transparency-and-institutional-power-in-eu-digital-law/",
-   "date": "2026-11-18",
-   "topics": [
-    "ai"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "Oxford Human Rights Hub",
    "region": "other",
    "title": "Prevention Over Punishment: Fiji’s Post-Colonial Penal Legacy Harmonised to Uphold the Constitutional Right to Health and Accelerate the HIV Outbreak Response",
@@ -747,28 +644,6 @@
     "constitutional",
     "rights"
    ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "The Regulatory Review",
-   "region": "us",
-   "title": "Trading Abundant Procedures for Abundant “Things”",
-   "summary": "Momentum for cutting red tape is growing, but reformers must navigate challenges and muster political capital. The post Trading Abundant Procedures for Abundant “Things” first appeared on The Regulatory Review .",
-   "link": "https://www.theregreview.org/2026/11/18/verkuil-trading-abundant-procedures-for-abundant-things/",
-   "date": "2026-11-18",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "I·CONnect",
-   "region": "intl",
-   "title": "Resigning to Escape? Paraguay’s Congress Refused Santiago Peña’s Resignation and Impeached Him Anyway",
-   "summary": "—Adwaldo Lins Peixoto Neto, Federal University of Minas Gerais (Brazil) Impeachment is a democratic but turbulent legal and political instrument. Its turbulence usually comes from the legislature: rushed trials, flimsy... The post Resigning to Escape? Paraguay’s Congress Refused Santiago Peña’s Resignation and…",
-   "link": "https://www.iconnectblog.com/resigning-to-escape-paraguays-congress-refused-santiago-penas-resignation-and-impeached-him-anyway/",
-   "date": "2026-11-17",
-   "topics": [],
    "title_fa": "",
    "summary_fa": ""
   },
@@ -1157,15 +1032,332 @@
    ],
    "title_fa": "",
    "summary_fa": ""
+  },
+  {
+   "source": "UK Human Rights Blog",
+   "region": "uk",
+   "title": "Weekly Round-up: Labour Party conference, ‘one in, one out’ and competing extradition requests",
+   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog In the news…",
+   "link": "https://ukhumanrightsblog.com/2026/10/03/weekly-round-up-labour-party-conference-one-in-one-out-and-competing-extradition-requests/",
+   "date": "2026-10-03",
+   "topics": [
+    "labor",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Human Rights Blog",
+   "region": "uk",
+   "title": "Guest Post – Supreme Court: child sentencing legislation compatible with ECHR",
+   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog The UK Human…",
+   "link": "https://ukhumanrightsblog.com/2026/09/23/guest-post-supreme-court-child-sentencing-legislation-compatible-with-echr/",
+   "date": "2026-09-23",
+   "topics": [
+    "constitutional",
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Human Rights Blog",
+   "region": "uk",
+   "title": "Redacted Rights: When does Article 10 ECHR confer a right to information?",
+   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog A…",
+   "link": "https://ukhumanrightsblog.com/2026/09/21/redacted-rights-when-does-article-10-echr-confer-a-right-to-information/",
+   "date": "2026-09-21",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Human Rights Blog",
+   "region": "uk",
+   "title": "Law Pod UK latest episode: AI in healthcare",
+   "summary": "On the 10th of September, the National Commission into the Regulation of AI in Healthcare published its blueprint for regulating AI in the health service. It runs to 119 pages and 44 recommendations. This follows the equally hefty Jurisdiction Task Force legal statement on liability for AI harms, which I discussed…",
+   "link": "https://ukhumanrightsblog.com/2026/09/21/law-pod-uk-latest-episode-ai-in-healthcare/",
+   "date": "2026-09-21",
+   "topics": [
+    "administrative",
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Human Rights Blog",
+   "region": "uk",
+   "title": "The Weekly Round Up: 80th Anniversary of David Maxwell Fyfe’s Nuremberg Speech, EU Return Hubs, Terrorist Connections, and Retrospective Denial of Parole",
+   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog In the news…",
+   "link": "https://ukhumanrightsblog.com/2026/09/09/the-weekly-round-up-80th-anniversary-of-david-maxwell-fyfes-nuremberg-speech-eu-return-hubs-terrorist-connections-and-retrospective-denial-of-parole/",
+   "date": "2026-09-09",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Human Rights Blog",
+   "region": "uk",
+   "title": "Falcons: turning and turning in the widening gyre – nuisance and sensitivity",
+   "summary": "Thomas v. Nicholas [2026] EWCA Civ 947 This unusual neighbour dispute may clarify in time the law of nuisance upon which the Court of Appeal was divided. The CA took the unusual step of granting permission to appeal to the Supreme Court on a 2-1 decision. The Nicholas brothers, who breed falcons for the Middle […] The…",
+   "link": "https://ukhumanrightsblog.com/2026/09/01/falcons-turning-and-turning-in-the-widening-gyre-nuisance-and-sensitivity/",
+   "date": "2026-09-01",
+   "topics": [
+    "constitutional"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Human Rights Blog",
+   "region": "uk",
+   "title": "Leaky sandboxes and bursting reservoirs",
+   "summary": "Strange are the ways in which AI can escape and do harm; equally strange are the curious mechanisms whereby water can escape and do harm. Water Let’s start in the 19th century with water, and one of the most famous cases of all time, Rylands v. Fletcher. Fletcher owned a mine, Rylands (of The John […] The post Leaky…",
+   "link": "https://ukhumanrightsblog.com/2026/08/28/leaky-sandboxes-and-bursting-reservoirs/",
+   "date": "2026-08-28",
+   "topics": [
+    "ai"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "UK Human Rights Blog",
+   "region": "uk",
+   "title": "When can the Home Secretary revive an argument she withdrew below?",
+   "summary": "The UK Human Rights Blog is moving to Substack. From 19th October, all new articles will be published exclusively on our Substack, and no new content will appear on our current website. To stay up to date with our latest articles and insights, please subscribe here: https://substack.com/@ukhumanrightsblog Secretary of…",
+   "link": "https://ukhumanrightsblog.com/2026/08/21/when-can-the-home-secretary-revive-an-argument-she-withdrew-below/",
+   "date": "2026-08-21",
+   "topics": [
+    "rights"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "Notice & Comment",
+   "region": "us",
+   "title": "Untethered: How the Roberts Court is Rethinking the Law-Policy Relationship by Bennett Johnson and Daniel G. Aaron",
+   "summary": "The traditional conception of the judicial role in the U.S. government is to decide “cases” and “controversies” by “say[ing] what the law is.” Yet, an enduring question is to what extent consideration of policy may inform that task. Some might quickly dispose of this issue, as legal scholars have framed policy as a…",
+   "link": "https://www.yalejreg.com/untethered-how-the-roberts-court-is-rethinking-the-law-policy-relationship-by-bennett-johnson-and-daniel-g-aaron/",
+   "date": "2026-04-23",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
   }
  ],
  "laws": [
   {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Fraud.gov Tip Intake and Referral Form",
+   "summary": "The Department of the Treasury will submit the following information collection request to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995, on or after the date of publication of this notice. The public is invited to submit comments on this…",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24266/agency-information-collection-activities-submission-for-omb-review-comment-request-fraudgov-tip",
+   "date": "2026-11-30",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Truth in Lending (Regulation Z)",
+   "summary": "The Board and the Bureau (collectively, Agencies) are publishing final rules amending the official interpretations for the Agencies' regulations that implement the Truth in Lending Act (TILA). The Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd- Frank Act) amended TILA to require that the dollar…",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24346/truth-in-lending-regulation-z",
+   "date": "2026-11-30",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Consumer Leasing (Regulation M)",
+   "summary": "The Board and the Bureau (collectively, Agencies) are finalizing amendments to the official interpretations for the Agencies' regulations that implement the Consumer Leasing Act (CLA). The Dodd- Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) amended the CLA to require that the dollar threshold…",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24345/consumer-leasing-regulation-m",
+   "date": "2026-11-30",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Appraisals for Higher-Priced Mortgage Loans Exemption Threshold",
+   "summary": "The OCC, the Board, and the Bureau are finalizing amendments to the official interpretations for their regulations that implement section 129H of the Truth in Lending Act (TILA). Section 129H of TILA establishes special appraisal requirements for \"higher-risk mortgages,\" termed \"higher-priced mortgage loans\" or…",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24344/appraisals-for-higher-priced-mortgage-loans-exemption-threshold",
+   "date": "2026-11-30",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule Equity 7 Pricing Schedule",
+   "summary": "",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24296/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate",
+   "date": "2026-11-30",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Reportable Events and Certain Other Notification Requirements",
+   "summary": "The Pension Benefit Guaranty Corporation (PBGC) is proposing to simplify and clarify its regulation governing the active participant reduction reportable event. The proposed rule would waive notice for active participant reductions solely attributable to attrition, clarify the meaning of a \"single cause,\" and clarify…",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24270/reportable-events-and-certain-other-notification-requirements",
+   "date": "2026-11-30",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Airworthiness Directives; GROB Aircraft AG Gliders",
+   "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for all GROB Aircraft AG (GROB) Model GROB G 109 and GROB G 109B gliders. This proposed AD was prompted by a report of a fuel supply interruption that was caused by a cracked plastic fuel shut-off valve handle. This proposed AD would require repetitive…",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24268/airworthiness-directives-grob-aircraft-ag-gliders",
+   "date": "2026-11-30",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Data Reporting Requirements for Certain Event Contracts",
+   "summary": "The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is finalizing revisions to the Commission's regulations that set forth an alternate framework for reporting of data for certain fully collateralized event contracts (the \"Final Rule\"). These revisions require certain reporting markets, futures…",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24209/data-reporting-requirements-for-certain-event-contracts",
+   "date": "2026-11-30",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Safety Program for Surface Mobile Equipment",
+   "summary": "The Department of Labor (DOL) is submitting this Mine Safety & Health Administration (MSHA)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24201/agency-information-collection-activities-submission-for-omb-review-comment-request-safety-program",
+   "date": "2026-11-30",
+   "topics": [
+    "administrative",
+    "labor"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status for Streaked Horned Lark With a Section 4(d) Rule",
+   "summary": "We, the U.S. Fish and Wildlife Service (Service), propose to list the streaked horned lark (Eremophila alpestris strigata), a subspecies of grassland songbird from Oregon and Washington, as a threatened species with protective regulations under section 4(d) of the Endangered Species Act of 1973, as amended (Act).…",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24304/endangered-and-threatened-wildlife-and-plants-threatened-species-status-for-streaked-horned-lark",
+   "date": "2026-11-30",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for the Piebald Madtom",
+   "summary": "We, the U.S. Fish and Wildlife Service (Service), propose to list the piebald madtom (Noturus gladiator), a fish species from Mississippi and Tennessee, as a threatened species with protective regulations under section 4(d) of the Endangered Species Act of 1973, as amended (Act). This determination also serves as our…",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24292/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for-the",
+   "date": "2026-11-30",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Application for Renewal of Authorization To Export Electric Energy; Trafigura Trading LLC",
+   "summary": "Trafigura Trading LLC (the Applicant or Trafigura) has applied for renewed authorization to transmit electric energy from the United States to Canada pursuant to the Federal Power Act.",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24276/application-for-renewal-of-authorization-to-export-electric-energy-trafigura-trading-llc",
+   "date": "2026-11-30",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Application for Renewal of Authorization To Export Electric Energy; Trafigura Trading LLC",
+   "summary": "Trafigura Trading LLC (the Applicant or Trafigura) has applied for renewed authorization to transmit electric energy from the United States to Mexico pursuant to the Federal Power Act.",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24275/application-for-renewal-of-authorization-to-export-electric-energy-trafigura-trading-llc",
+   "date": "2026-11-30",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "US Federal Register",
+   "region": "us",
+   "title": "Application for Renewal of Authorization To Export Electric Energy; SociVolta, Inc.",
+   "summary": "SociVolta, Inc. (the Applicant or SociVolta) has applied for renewed authorization to transmit electric energy from the United States to Canada pursuant to the Federal Power Act.",
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24274/application-for-renewal-of-authorization-to-export-electric-energy-socivolta-inc",
+   "date": "2026-11-30",
+   "topics": [],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Persistent Organic Pollutants (Amendment) Regulations 2026",
+   "summary": "",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1257/made",
+   "date": "2026-11-27",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
+   "source": "legislation.gov.uk (new)",
+   "region": "uk",
+   "title": "The Children (Prescribed Orders - Jersey) (England) Regulations 2026",
+   "summary": "These Regulations make provision for a recovery order made in Jersey to have effect as if it were a recovery order made under section 50 of the Children Act 1989.",
+   "link": "http://www.legislation.gov.uk/uksi/2026/1252/made/data.htm",
+   "date": "2026-11-27",
+   "topics": [
+    "administrative"
+   ],
+   "title_fa": "",
+   "summary_fa": ""
+  },
+  {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
    "title": "The Visitor Levy (Amendment of Returns and Miscellaneous Amendment) (Scotland) Regulations 2026",
-   "summary": "",
-   "link": "http://www.legislation.gov.uk/ssi/2026/355/made",
+   "summary": "These Regulations make provision for amendment of visitor levy returns after they have been submitted.",
+   "link": "http://www.legislation.gov.uk/ssi/2026/355/made/data.htm",
    "date": "2026-11-27",
    "topics": [
     "administrative"
@@ -1224,170 +1416,6 @@
    "summary_fa": ""
   },
   {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension",
-   "summary": "In accordance with the Paperwork Reduction Act of 1995 (\"PRA\"), the Federal Trade Commission (\"FTC\" or \"Commission\") is seeking public comment on its proposal to extend for an additional three years the information collection requirements contained in the contained in the agency's Business Opportunity Rule (\"Rule\").…",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24159/agency-information-collection-activities-proposed-collection-comment-request-extension",
-   "date": "2026-11-27",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Bering Sea and Aleutian Islands Management Area; 2026 Cost Recovery Fee Notice for the Western Alaska Community Development Quota and Trawl Limited Access Privilege Programs",
-   "summary": "NMFS publishes the 2026 standard prices and fee percentages for cost recovery for the Amendment 80 Program, the American Fisheries Act (AFA) Program, the Aleutian Islands Pollock (AIP) Program, and the Western Alaska Community Development Quota (CDQ) Program in the Bering Sea Aleutian Islands (BSAI) management area.…",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24156/fisheries-of-the-exclusive-economic-zone-off-alaska-bering-sea-and-aleutian-islands-management-area",
-   "date": "2026-11-27",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Federal Motor Vehicle Safety Standards: Automatic Emergency Braking Systems for Light Vehicles",
-   "summary": "NHTSA proposes to modify Federal Motor Vehicle Safety Standard No. 127; Automatic emergency braking systems for light vehicles. NHTSA proposes to delay the compliance date by two years so that manufacturers have more time to comply with the standard. NHTSA also proposes test procedures for testing the malfunction…",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24140/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles",
-   "date": "2026-11-27",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
-   "summary": "The FAA is adopting a new airworthiness directive (AD) for all Airbus Canada Limited Partnership Model BD-500-1A10 and BD-500-1A11 airplanes. This AD was prompted by a report of engine stall events that occurred on ground in icing weather conditions (freezing fog) during engine acceleration to take-off thrust, or…",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24137/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c",
-   "date": "2026-11-27",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Cost of Living Adjustment to Satellite Carrier Compulsory License Royalty Rates",
-   "summary": "The Copyright Royalty Judges (\"Judges\") announce a cost of living adjustment (\"COLA\") of 3.9% in the royalty rates satellite carriers pay for a compulsory license under the Copyright Act. The COLA is based on the change in the Consumer Price Index from October 2025 to September 2026.",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24125/cost-of-living-adjustment-to-satellite-carrier-compulsory-license-royalty-rates",
-   "date": "2026-11-27",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Cost of Living Adjustment to Royalty Rates and Terms for Making and Distributing Phonorecords",
-   "summary": "The Copyright Royalty Judges (\"Judges\") announce a cost of living adjustment (\"COLA\") in the royalty rates for the statutory license for making and distributing phonorecords of nondramatic musical works regarding physical phonorecords and Permanent Downloads.",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24124/cost-of-living-adjustment-to-royalty-rates-and-terms-for-making-and-distributing-phonorecords",
-   "date": "2026-11-27",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Airworthiness Directives; Airbus SAS Airplanes",
-   "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus SAS Model A330-202, A330-243, A330-243F, A330-302, A330-323, A330-343, A330-841, and A330-941 airplanes. This proposed AD was prompted by an investigation that revealed a potential discrepant gap between the National Advisory Committee for…",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24122/airworthiness-directives-airbus-sas-airplanes",
-   "date": "2026-11-27",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Airworthiness Directives; Bombardier, Inc., Airplanes",
-   "summary": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Bombardier, Inc., Model BD-700-1A10 and BD-700-1A11 airplanes. This proposed AD was prompted by a report of an issue with the heads-up display application (HDA) software in avionics software version 5.8 that could result in the HDA being unable…",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24120/airworthiness-directives-bombardier-inc-airplanes",
-   "date": "2026-11-27",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Notice of Proposed Information Collection Requests: IMLS Grants to States Five-Year State Plan Guidelines for State Library Administrative Agencies for Fiscal Years 2028-2032",
-   "summary": "The Institute of Museum and Library Services (IMLS), as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre- clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in…",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24163/notice-of-proposed-information-collection-requests-imls-grants-to-states-five-year-state-plan",
-   "date": "2026-11-27",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Agency Information Collection Activities: Generic Clearance for Improving Customer Experience (OMB) Circular A-11, Section 280 Implementation); OMB Control No. 1601-0029",
-   "summary": "The Department of Homeland Security, DHS will submit the following information collection request (ICR) to the Office of Management and Budget (OMB) for review and clearance in accordance with the Paperwork Reduction Act of 1995. DHS previously published this information collection request (ICR) in the Federal…",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24128/agency-information-collection-activities-generic-clearance-for-improving-customer-experience-omb",
-   "date": "2026-11-27",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Exceptional Addressing Changes",
-   "summary": "The Postal Service is proposing to amend Mailing Standards of the United States Postal Service, Domestic Mail Manual (DMM[supreg]) in various subsections to eliminate the use of exceptional addressing for Priority Mail, First-Class Mail and USPS Ground Advantage.",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24110/exceptional-addressing-changes",
-   "date": "2026-11-27",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Ciliate-Leaf Tickseed",
-   "summary": "We, the U.S. Fish and Wildlife Service (Service), propose to list the ciliate-leaf tickseed (Coreopsis integrifolia), a plant species from Florida, Georgia, and South Carolina as a threatened species with protective regulations under section 4(d) of the Endangered Species Act of 1973, as amended (Act). This…",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24097/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for",
-   "date": "2026-11-27",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Technical Updates to the RCRA Hazardous Waste Permitting Regulations-Permitting Technical Updates Rule",
-   "summary": "The Environmental Protection Agency (EPA) is proposing technical updates to the regulations implementing the Resource Conservation and Recovery Act (RCRA) governing hazardous waste treatment, storage, and disposal facilities (TSDFs), as well as associated permitting requirements. The proposal also includes a few…",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24084/technical-updates-to-the-rcra-hazardous-waste-permitting-regulations-permitting-technical-updates",
-   "date": "2026-11-27",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Significant New Use Rule on a Chemical Substance (P-24-195)",
-   "summary": "EPA is proposing a significant new use rule (SNUR) under the Toxic Substances Control Act (TSCA) for a chemical substance that was the subject of a premanufacture notice (PMN) and is also subject to an Order issued by EPA pursuant to TSCA. The SNUR requires persons to notify EPA at least 90 days before commencing the…",
-   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24082/significant-new-use-rule-on-a-chemical-substance-p-24-195",
-   "date": "2026-11-27",
-   "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
    "source": "legislation.gov.uk (new)",
    "region": "uk",
    "title": "The Bankruptcy and Attachment (Miscellaneous Amendment) (Scotland) Regulations 2026",
@@ -1406,32 +1434,6 @@
    "title": "The Greater London Authority (Consolidated Council Tax Requirement Procedure) Regulations 2026",
    "summary": "In relation to each financial year, the Greater London Authority (“the Authority”) is required to make the calculations required by section 85 of the Greater London Authority Act 1999 (“the 1999 Act”), including the calculation of its consolidated council tax requirement.",
    "link": "http://www.legislation.gov.uk/uksi/2026/1239/made/data.htm",
-   "date": "2026-11-26",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Civil and Criminal Legal Aid (Remuneration) and Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) (Amendment) Regulations 2026",
-   "summary": "These Regulations amend the Civil Legal Aid (Remuneration) Regulations 2013 (S.I. 2013/422), the Criminal Legal Aid (Remuneration) Regulations 2013 (S.I. 2013/435) and the Prohibition of Cross-Examination in Person (Fees of Court-Appointed Qualified Legal Representatives) Regulations 2022 (S.I. 2022/567) to amend…",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1240/made/data.htm",
-   "date": "2026-11-26",
-   "topics": [
-    "administrative"
-   ],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "legislation.gov.uk (new)",
-   "region": "uk",
-   "title": "The Pension Protection Fund (Pension Compensation) (Amendment) Regulations 2026",
-   "summary": "Regulations 2 and 4 of these Regulations make amendments consequential on section 109 of the Pension Schemes Act 2026 (c. 22), which amends the Pensions Act 2004 (c. 35) and the Pensions Act 2008 (c. 30) to enable periodic compensation payments by the Pension Protection Fund (“PPF”) based on pre-1997 service to be…",
-   "link": "http://www.legislation.gov.uk/uksi/2026/1238/made/data.htm",
    "date": "2026-11-26",
    "topics": [
     "administrative"
@@ -1507,20 +1509,6 @@
    "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23555/executive-compensation-disclosure-reform",
    "date": "2026-11-19",
    "topics": [],
-   "title_fa": "",
-   "summary_fa": ""
-  },
-  {
-   "source": "US Federal Register",
-   "region": "us",
-   "title": "Policies on the Use of Generative Super Intelligence in Agency Adjudication; Request for Comments",
-   "summary": "The Office of the Chairman of ACUS is requesting public input on the development of policies regarding the use of generative super intelligence, previously referenced as generative artificial intelligence,\\1\\ by agency adjudicators, other agency personnel, parties, representatives, and other participants in federal…",
-   "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments",
-   "date": "2026-11-19",
-   "topics": [
-    "administrative",
-    "ai"
-   ],
    "title_fa": "",
    "summary_fa": ""
   }
